@@ -1,0 +1,20 @@
+[
+  { "id": "voca07", "title": "프리미엄보카 예비고 필수", "file": "data/voca07.json" },
+  { "id": "voca08", "title": "프리미엄보카 숙어", "file": "data/voca08.json" },
+  { "id": "voca11", "title": "프리미엄보카 속담", "file": "data/voca11.json" },
+  { "id": "voca09", "title": "프리미엄보카 혼동어휘", "file": "data/voca09.json" },
+  { "id": "voca10", "title": "프리미엄보카 선택지(단어)", "file": "data/voca10.json" },
+  { "id": "voca12", "title": "프리미엄보카 선택지(영작)", "file": "data/voca12.json" },
+  { "id": "voca05", "title": "프리미엄보카 중등기본", "file": "data/voca05.json" },
+  { "id": "voca13", "title": "프리미엄보카 중등기본-영영", "file": "data/voca13.json" },
+  { "id": "voca06", "title": "프리미엄보카 중등실력", "file": "data/voca06.json" },
+  { "id": "voca14", "title": "프리미엄보카 중등실력-영영", "file": "data/voca14.json" },
+  { "id": "voca01", "title": "프리미엄보카 고등기본1", "file": "data/voca01.json" },
+  { "id": "voca15", "title": "프리미엄보카 고등기본1-영영", "file": "data/voca15.json" },
+  { "id": "voca02", "title": "프리미엄보카 고등기본2", "file": "data/voca02.json" },
+  { "id": "voca16", "title": "프리미엄보카 고등기본2-영영", "file": "data/voca16.json" },
+  { "id": "voca03", "title": "프리미엄보카 고등기본3", "file": "data/voca03.json" },
+  { "id": "voca17", "title": "프리미엄보카 고등기본3-영영", "file": "data/voca17.json" },
+  { "id": "voca04", "title": "프리미엄보카 고등실력", "file": "data/voca04.json" },
+  { "id": "voca18", "title": "프리미엄보카 고등실력-영영", "file": "data/voca18.json" }
+]
