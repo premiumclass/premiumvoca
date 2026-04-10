@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Premium Voca</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1714;
+    --paper: #f5f0e8;
+    --paper2: #ede8dc;
+    --accent: #8b2e2e;
+    --line: #ccc4b0;
+    --muted: #7a7060;
+    --card: #faf7f2;
+    --shadow: 0 4px 24px rgba(26,23,20,0.13);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 28px 48px 24px;
+    display: flex;
+    align-items: flex-end;
+    gap: 20px;
+    border-bottom: 4px solid var(--accent);
+  }
+  .header-logo {
+    font-size: 36px;
+    font-weight: 900;
+    letter-spacing: 0.04em;
+    line-height: 1;
+  }
+  .header-rule { width: 1px; height: 34px; background: #444; flex-shrink: 0; }
+  .header-desc { font-size: 14px; color: #aaa49a; font-weight: 300; line-height: 1.6; }
+
+  main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 24px 80px;
+    gap: 48px;
+  }
+
+  .landing-intro { text-align: center; }
+  .landing-intro h1 {
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: -0.01em;
+    margin-bottom: 12px;
+  }
+  .landing-intro p {
+    font-size: 15px;
+    color: var(--muted);
+    font-weight: 300;
+    line-height: 1.8;
+  }
+
+  .menu-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    width: 100%;
+    max-width: 720px;
+  }
+  .menu-card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 44px 36px;
+    box-shadow: var(--shadow);
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: var(--ink);
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+  .menu-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 32px rgba(26,23,20,0.18);
+    border-color: var(--accent);
+  }
+  .menu-card:hover .menu-icon { background: var(--accent); }
+  .menu-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: var(--ink);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    transition: background 0.2s;
+  }
+  .menu-title {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .menu-desc {
+    font-size: 13px;
+    color: var(--muted);
+    font-weight: 300;
+    line-height: 1.7;
+  }
+
+  footer {
+    text-align: center;
+    font-size: 12px;
+    color: var(--muted);
+    padding: 24px;
+    border-top: 1px solid var(--line);
+  }
+
+  @media (max-width: 560px) {
+    header { padding: 20px; }
+    .header-logo { font-size: 26px; }
+    .menu-grid { grid-template-columns: 1fr; max-width: 360px; }
+    .landing-intro h1 { font-size: 22px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <div class="header-logo">Premium Voca</div>
+  </div>
+  <div class="header-rule"></div>
+  <div class="header-desc">출제 방식을 선택하세요</div>
+</header>
+
+<main>
+  <div class="landing-intro">
+    <h1>단어 시험 출제 시스템</h1>
+    <p>원하는 출제 방식을 선택하여<br>시험지를 생성하세요.</p>
+  </div>
+
+  <div class="menu-grid">
+    <a href="quiz.html" class="menu-card">
+      <div class="menu-icon">⚡</div>
+      <div class="menu-title">단어시험 즉시출제</div>
+      <div class="menu-desc">단어장·범위·개수를 설정하고<br>바로 시험지를 생성합니다.</div>
+    </a>
+
+    <a href="students.html" class="menu-card">
+      <div class="menu-icon">👤</div>
+      <div class="menu-title">학생별 출제</div>
+      <div class="menu-desc">학생 목록을 관리하고<br>개인별 시험지를 출제합니다.</div>
+    </a>
+  </div>
+</main>
+
+<footer>Premium Voca Exam System &nbsp;·&nbsp; Denzel0304</footer>
+
+</body>
+</html>

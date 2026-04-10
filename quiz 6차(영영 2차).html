@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>단어시험 즉시출제</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1714;
+    --paper: #f5f0e8;
+    --paper2: #ede8dc;
+    --accent: #8b2e2e;
+    --line: #ccc4b0;
+    --muted: #7a7060;
+    --success: #2e6b3e;
+    --card: #faf7f2;
+    --shadow: 0 2px 12px rgba(26,23,20,0.10);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    min-height: 100vh;
+  }
+
+  /* ── HEADER (여기서부터 끝까지 복사해서 덮어쓰세요) ── */
+  header {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 28px 48px 24px;
+    display: flex;
+    align-items: center;    /* 위아래 높이를 똑바르게 맞춰요 */
+    justify-content: center; /* 모든 글자를 가운데로 모아요 */
+    gap: 20px;               /* 글자들 사이 간격을 벌려줘요 */
+    border-bottom: 4px solid var(--accent);
+  }
+  .header-logo {
+    font-size: 36px;
+    font-weight: 900;
+    letter-spacing: 0.04em;
+    line-height: 1;
+  }
+  .header-rule { 
+    width: 1px; 
+    height: 34px; 
+    background: #444; 
+    flex-shrink: 0; 
+  }
+  .header-desc { 
+    font-size: 14px; 
+    color: #aaa49a; 
+    font-weight: 300; 
+    line-height: 1.6; 
+  }
+  /* '홈으로' 버튼을 예쁘게 만드는 코드예요 */
+  .header-home {
+    color: #d0cbc3;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 700;
+    white-space: nowrap;
+    padding: 10px 20px;
+    border: 1px solid #777;
+    border-radius: 4px;
+    transition: background 0.15s;
+  }
+  .header-home:hover {
+    background: rgba(255,255,255,0.10);
+  }
+
+  /* ── MAIN ── */
+  main { max-width: 900px; margin: 48px auto; padding: 0 24px 80px; }
+
+  /* ── STEP CARD ── */
+  .step-card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 32px 36px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow);
+    position: relative;
+  }
+  .step-label {
+    position: absolute;
+    top: -12px; left: 24px;
+    background: var(--accent);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    padding: 3px 12px;
+    border-radius: 2px;
+  }
+  .step-title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: var(--ink);
+  }
+
+  /* ── FORM ── */
+  label.field-label {
+    display: block;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    margin-bottom: 7px;
+    text-transform: uppercase;
+  }
+  select, input[type="text"], input[type="number"] {
+    width: 100%;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    padding: 11px 14px;
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    background: #fff;
+    color: var(--ink);
+    outline: none;
+    transition: border-color 0.15s;
+    -webkit-appearance: none;
+  }
+  select:focus, input:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 2px rgba(139,46,46,0.10);
+  }
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .form-row-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+
+  /* ── 과 정보 요약 ── */
+  #dayInfoWrap {
+    display: none;
+    margin-top: 18px;
+    background: var(--paper2);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    padding: 14px 18px;
+    font-size: 15px;
+    color: var(--ink);
+    line-height: 1.8;
+  }
+  #dayInfoWrap strong { color: var(--accent); }
+
+  /* ── 범위 힌트 ── */
+  .range-hint {
+    margin-top: 10px;
+    font-size: 14px;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+    line-height: 1.8;
+  }
+  .range-hint b { color: var(--ink); font-size: 15px; }
+
+  .total-words-msg {
+    margin-top: 8px;
+    font-size: 15px;
+    color: var(--success);
+    font-weight: 700;
+    display: none;
+  }
+  .error-msg {
+    color: #c0392b;
+    font-size: 14px;
+    margin-top: 6px;
+    display: none;
+  }
+
+  /* ── 영한/한영 입력 영역 ── */
+  .direction-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 20px;
+  }
+  .direction-row-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+    margin-top: 20px;
+  }
+  .direction-box {
+    background: var(--paper2);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    padding: 16px;
+  }
+  .direction-box .dir-label {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+  .direction-box .dir-auto {
+    font-size: 14px;
+    color: var(--muted);
+    padding: 11px 14px;
+    background: #e8e3d8;
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    font-weight: 700;
+  }
+
+  /* ── 구분선 ── */
+  .divider { height: 1px; background: var(--line); margin: 20px 0; }
+
+  /* ── 액션 버튼 ── */
+  .action-row { display: flex; gap: 12px; margin-top: 32px; }
+  .btn {
+    padding: 15px 32px;
+    font-size: 16px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+    transition: all 0.18s;
+  }
+  .btn-primary { background: var(--accent); color: #fff; flex: 1; }
+  .btn-primary:hover { background: #6e2222; }
+  .btn-primary:disabled { background: #bbb; cursor: not-allowed; }
+  .btn-outline { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+  .btn-outline:hover { background: var(--paper2); }
+
+  /* ── 로딩 ── */
+  #loadingOverlay {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(245,240,232,0.85);
+    z-index: 999;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+  }
+  #loadingOverlay.show { display: flex; }
+  .spinner {
+    width: 36px; height: 36px;
+    border: 3px solid var(--line);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  footer {
+    text-align: center;
+    font-size: 12px;
+    color: var(--muted);
+    padding: 24px;
+    border-top: 1px solid var(--line);
+  }
+
+  @media (max-width: 600px) {
+    header { padding: 20px; }
+    main { padding: 0 12px 60px; }
+    .step-card { padding: 24px 16px; }
+    .form-row, .form-row-3, .direction-row { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-logo">Premium Voca</div>
+  
+  <div class="header-rule"></div>
+  
+  <div class="header-desc">단어장을 선택하고<br>출제 범위를 설정하세요</div>
+  
+  <div class="header-rule"></div>
+  
+  <a href="index.html" class="header-home">← 홈으로</a>
+</header>
+
+<main>
+
+  <!-- STEP 1 -->
+  <div class="step-card">
+    <div class="step-label">STEP 1</div>
+    <div class="step-title">단어장 선택</div>
+    <label class="field-label">단어장</label>
+    <select id="vocaSelect">
+      <option value="">— 단어장을 선택하세요 —</option>
+    </select>
+    <div id="dayInfoWrap"></div>
+  </div>
+
+  <!-- STEP 2 -->
+  <div class="step-card">
+    <div class="step-label">STEP 2</div>
+    <div class="step-title">학생 / 학원 정보 <span style="font-size:13px;font-weight:400;color:var(--muted);">(선택)</span></div>
+    <div class="form-row">
+      <div>
+        <label class="field-label">학생 이름</label>
+        <input type="text" id="studentName" placeholder="이름 입력 (선택)">
+      </div>
+      <div>
+        <label class="field-label">학원 이름</label>
+        <input type="text" id="academyName" placeholder="학원명 입력 (선택)">
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP 3 -->
+  <div class="step-card">
+    <div class="step-label">STEP 3</div>
+    <div class="step-title">출제 설정</div>
+
+    <!-- 출제 범위 -->
+    <div>
+      <label class="field-label">출제 범위</label>
+      <input type="text" id="rangeInput" placeholder="예: 1-5 / 1,3,7 / 1-5,7,9">
+      <div class="range-hint">
+        연속: <b>1-5</b> &nbsp;|&nbsp; 선택: <b>1,3,7</b> &nbsp;|&nbsp; 혼합: <b>1-5,7,9</b>
+      </div>
+      <div class="error-msg" id="rangeError"></div>
+      <div class="total-words-msg" id="totalWordsMsg"></div>
+    </div>
+
+    <!-- 출제 개수 -->
+    <div style="margin-top:20px;">
+      <label class="field-label">총 출제 개수</label>
+      <input type="number" id="countInput" placeholder="숫자 입력" min="1">
+      <div class="error-msg" id="countError"></div>
+    </div>
+
+    <!-- 영한 / 한영 분배 (일반형) -->
+    <div class="direction-row" id="dirNormal">
+      <div class="direction-box">
+        <div class="dir-label">영한 (영어 → 한국어)</div>
+        <input type="number" id="enKoCount" placeholder="개수 입력" min="0">
+        <div class="error-msg" id="enKoError"></div>
+      </div>
+      <div class="direction-box">
+        <div class="dir-label">한영 (한국어 → 영어)</div>
+        <div class="dir-auto" id="koEnAuto">—</div>
+      </div>
+    </div>
+
+    <!-- 단어제시 / 뜻제시 / 영영풀이(자동) (영영형) -->
+    <div class="direction-row-3" id="dirEi" style="display:none;">
+      <div class="direction-box">
+        <div class="dir-label">단어 제시</div>
+        <input type="number" id="wordCount" placeholder="개수 입력" min="0">
+        <div class="error-msg" id="wordError"></div>
+      </div>
+      <div class="direction-box">
+        <div class="dir-label">뜻 제시</div>
+        <input type="number" id="defCount" placeholder="개수 입력" min="0">
+        <div class="error-msg" id="defError"></div>
+      </div>
+      <div class="direction-box">
+        <div class="dir-label">영영풀이 제시 (자동)</div>
+        <div class="dir-auto" id="eiAuto">—</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="action-row">
+    <button class="btn btn-outline" onclick="resetAll()">초기화</button>
+    <button class="btn btn-primary" id="btnGenerate" onclick="generateExam()" disabled>시험지 생성</button>
+  </div>
+
+</main>
+
+<footer>Premium Voca Exam System &nbsp;·&nbsp; Denzel0304</footer>
+
+<div id="loadingOverlay">
+  <div class="spinner"></div>
+  <div style="font-size:15px;color:var(--muted);">단어장 불러오는 중...</div>
+</div>
+
+<script>
+let vocaDB = null;
+let vocaIndex = [];
+
+window.addEventListener('DOMContentLoaded', async () => {
+  await loadIndex();
+  document.getElementById('rangeInput').addEventListener('input', onRangeChange);
+  document.getElementById('countInput').addEventListener('input', onCountChange);
+  document.getElementById('enKoCount').addEventListener('input', onEnKoChange);
+  document.getElementById('wordCount').addEventListener('input', onEiChange);
+  document.getElementById('defCount').addEventListener('input', onEiChange);
+  document.getElementById('vocaSelect').addEventListener('change', onVocaChange);
+});
+
+function isEiVoca(id) {
+  return ['voca13','voca14','voca15','voca16','voca17','voca18'].includes(id);
+}
+
+async function loadIndex() {
+  try {
+    const res = await fetch('data/index.json?v=' + Date.now());
+    vocaIndex = await res.json();
+    const sel = document.getElementById('vocaSelect');
+    vocaIndex.forEach(v => {
+      const opt = document.createElement('option');
+      opt.value = v.id;
+      opt.textContent = v.title;
+      sel.appendChild(opt);
+    });
+  } catch(e) {
+    alert('단어장 목록을 불러오지 못했습니다.');
+  }
+}
+
+async function onVocaChange() {
+  const id = document.getElementById('vocaSelect').value;
+  if (!id) { vocaDB = null; hideDayInfo(); switchDirUI(false); updateBtn(); return; }
+  showLoading();
+  try {
+    const entry = vocaIndex.find(v => v.id === id);
+    const res = await fetch(entry.file + '?v=' + Date.now());
+    vocaDB = await res.json();
+    showDayInfo();
+  } catch(e) {
+    alert('단어장을 불러오지 못했습니다.');
+  }
+  hideLoading();
+  switchDirUI(isEiVoca(id));
+  resetDirInputs();
+  updateBtn();
+}
+
+function switchDirUI(isEi) {
+  document.getElementById('dirNormal').style.display = isEi ? 'none' : 'grid';
+  document.getElementById('dirEi').style.display     = isEi ? 'grid' : 'none';
+}
+
+function resetDirInputs() {
+  document.getElementById('enKoCount').value = '';
+  document.getElementById('koEnAuto').textContent = '—';
+  document.getElementById('wordCount').value = '';
+  document.getElementById('defCount').value  = '';
+  document.getElementById('eiAuto').textContent = '—';
+  ['enKoError','wordError','defError'].forEach(id => {
+    document.getElementById(id).style.display = 'none';
+  });
+}
+
+function showDayInfo() {
+  const wrap = document.getElementById('dayInfoWrap');
+  wrap.style.display = 'block';
+  const days = vocaDB.days;
+  const total = days.length;
+  const groups = [];
+  let groupStart = days[0].day;
+  let prevCount = days[0].words.length;
+  for (let i = 1; i < days.length; i++) {
+    const cnt = days[i].words.length;
+    if (cnt !== prevCount) {
+      groups.push({ start: groupStart, end: days[i-1].day, count: prevCount });
+      groupStart = days[i].day;
+      prevCount = cnt;
+    }
+  }
+  groups.push({ start: groupStart, end: days[days.length-1].day, count: prevCount });
+  let html = `<strong>총 ${total}과</strong> &nbsp;·&nbsp; `;
+  if (groups.length === 1) {
+    html += `각 과당 <strong>${groups[0].count}개</strong>`;
+  } else {
+    html += groups.map(g => {
+      const range = g.start === g.end ? `${g.start}과` : `${g.start}–${g.end}과`;
+      return `${range} <strong>${g.count}개</strong>`;
+    }).join(' &nbsp;/&nbsp; ');
+  }
+  wrap.innerHTML = html;
+}
+
+function hideDayInfo() {
+  document.getElementById('dayInfoWrap').style.display = 'none';
+}
+
+function parseRange(str) {
+  if (!str.trim()) return null;
+  const parts = str.split(',').map(s => s.trim()).filter(Boolean);
+  const days = new Set();
+  for (const part of parts) {
+    if (part.includes('-')) {
+      const [a, b] = part.split('-').map(Number);
+      if (isNaN(a) || isNaN(b) || a > b) return null;
+      for (let i = a; i <= b; i++) days.add(i);
+    } else {
+      const n = Number(part);
+      if (isNaN(n) || n <= 0) return null;
+      days.add(n);
+    }
+  }
+  return [...days].sort((a, b) => a - b);
+}
+
+function getWordsFromDays(dayNums) {
+  if (!vocaDB) return [];
+  const words = [];
+  dayNums.forEach(n => {
+    const day = vocaDB.days.find(d => d.day === n);
+    if (day) day.words.forEach(w => words.push({ ...w, day: n }));
+  });
+  return words;
+}
+
+function getTotalFromRange() {
+  const val = document.getElementById('rangeInput').value;
+  if (!vocaDB || !val.trim()) return 0;
+  const days = parseRange(val);
+  if (!days) return 0;
+  return getWordsFromDays(days).length;
+}
+
+function onRangeChange() {
+  const val = document.getElementById('rangeInput').value;
+  const errEl = document.getElementById('rangeError');
+  const msgEl = document.getElementById('totalWordsMsg');
+  errEl.style.display = 'none';
+  msgEl.style.display = 'none';
+  if (!vocaDB || !val.trim()) { updateBtn(); return; }
+
+  const days = parseRange(val);
+  if (!days) {
+    errEl.textContent = '범위 형식이 올바르지 않습니다.';
+    errEl.style.display = 'block';
+    updateBtn(); return;
+  }
+  const invalid = days.filter(n => !vocaDB.days.find(d => d.day === n));
+  if (invalid.length) {
+    errEl.textContent = `존재하지 않는 과입니다: Day ${invalid.join(', ')}`;
+    errEl.style.display = 'block';
+    updateBtn(); return;
+  }
+  const words = getWordsFromDays(days);
+  msgEl.textContent = `선택 범위: Day ${days.join(', ')} — 총 ${words.length}개`;
+  msgEl.style.display = 'block';
+  document.getElementById('countInput').max = words.length;
+
+  onCountChange();
+  updateBtn();
+}
+
+function onCountChange() {
+  const total = getTotalFromRange();
+  const count = parseInt(document.getElementById('countInput').value);
+  const errEl = document.getElementById('countError');
+  errEl.style.display = 'none';
+
+  if (total > 0 && !isNaN(count)) {
+    if (count > total) {
+      errEl.textContent = `최대 ${total}개까지 출제 가능합니다.`;
+      errEl.style.display = 'block';
+    }
+  }
+  const enKoEl = document.getElementById('enKoCount');
+  if (!isNaN(count) && count >= 1) {
+    enKoEl.max = count;
+  }
+  onEnKoChange();
+  updateBtn();
+}
+
+function onEnKoChange() {
+  const count = parseInt(document.getElementById('countInput').value);
+  const enKo = parseInt(document.getElementById('enKoCount').value);
+  const errEl = document.getElementById('enKoError');
+  const koEnEl = document.getElementById('koEnAuto');
+  errEl.style.display = 'none';
+  koEnEl.textContent = '—';
+
+  if (isNaN(count) || count < 1) { updateBtn(); return; }
+  if (isNaN(enKo)) { updateBtn(); return; }
+
+  if (enKo < 0 || enKo > count) {
+    errEl.textContent = `영한은 0 ~ ${count}개 사이여야 합니다.`;
+    errEl.style.display = 'block';
+    koEnEl.textContent = '—';
+  } else {
+    koEnEl.textContent = `${count - enKo}개`;
+  }
+  updateBtn();
+}
+
+function onEiChange() {
+  const count = parseInt(document.getElementById('countInput').value);
+  const word  = parseInt(document.getElementById('wordCount').value);
+  const def   = parseInt(document.getElementById('defCount').value);
+  const wordErr = document.getElementById('wordError');
+  const defErr  = document.getElementById('defError');
+  const eiEl    = document.getElementById('eiAuto');
+
+  wordErr.style.display = 'none';
+  defErr.style.display  = 'none';
+  eiEl.textContent = '—';
+
+  if (isNaN(count) || count < 1) { updateBtn(); return; }
+
+  let hasError = false;
+  if (!isNaN(word) && word < 0) {
+    wordErr.textContent = '0 이상이어야 합니다.';
+    wordErr.style.display = 'block'; hasError = true;
+  }
+  if (!isNaN(def) && def < 0) {
+    defErr.textContent = '0 이상이어야 합니다.';
+    defErr.style.display = 'block'; hasError = true;
+  }
+  if (!isNaN(word) && !isNaN(def)) {
+    const ei = count - word - def;
+    if (ei < 0) {
+      wordErr.textContent = `단어+뜻 합계가 총 개수(${count})를 초과합니다.`;
+      wordErr.style.display = 'block'; hasError = true;
+    } else {
+      eiEl.textContent = `${ei}개`;
+    }
+  }
+  updateBtn();
+}
+
+function updateBtn() {
+  const btn = document.getElementById('btnGenerate');
+  const rangeVal = document.getElementById('rangeInput').value.trim();
+  const count = parseInt(document.getElementById('countInput').value);
+  const total = getTotalFromRange();
+  const hasRangeError = document.getElementById('rangeError').style.display === 'block';
+  const hasCountError = document.getElementById('countError').style.display === 'block';
+  const days = rangeVal ? parseRange(rangeVal) : null;
+  const vocaId = document.getElementById('vocaSelect').value;
+
+  let valid = false;
+  if (isEiVoca(vocaId)) {
+    const word = parseInt(document.getElementById('wordCount').value);
+    const def  = parseInt(document.getElementById('defCount').value);
+    const hasWordErr = document.getElementById('wordError').style.display === 'block';
+    const hasDefErr  = document.getElementById('defError').style.display === 'block';
+    const ei = (!isNaN(word) && !isNaN(def)) ? count - word - def : NaN;
+    valid = vocaDB && days && !isNaN(count) && count >= 1 && count <= total
+      && !isNaN(word) && word >= 0 && !isNaN(def) && def >= 0
+      && !isNaN(ei) && ei >= 0
+      && !hasRangeError && !hasCountError && !hasWordErr && !hasDefErr;
+  } else {
+    const enKo = parseInt(document.getElementById('enKoCount').value);
+    const hasEnKoError = document.getElementById('enKoError').style.display === 'block';
+    valid = vocaDB && days && !isNaN(count) && count >= 1 && count <= total
+      && !isNaN(enKo) && enKo >= 0 && enKo <= count
+      && !hasRangeError && !hasCountError && !hasEnKoError;
+  }
+  btn.disabled = !valid;
+}
+
+function resetAll() {
+  document.getElementById('vocaSelect').value = '';
+  vocaDB = null;
+  hideDayInfo();
+  document.getElementById('studentName').value = '';
+  document.getElementById('academyName').value = '';
+  document.getElementById('rangeInput').value = '';
+  document.getElementById('countInput').value = '';
+  document.getElementById('enKoCount').value = '';
+  document.getElementById('koEnAuto').textContent = '—';
+  document.getElementById('wordCount').value = '';
+  document.getElementById('defCount').value  = '';
+  document.getElementById('eiAuto').textContent = '—';
+  document.getElementById('rangeError').style.display = 'none';
+  document.getElementById('countError').style.display = 'none';
+  document.getElementById('enKoError').style.display = 'none';
+  document.getElementById('wordError').style.display = 'none';
+  document.getElementById('defError').style.display  = 'none';
+  document.getElementById('totalWordsMsg').style.display = 'none';
+  switchDirUI(false);
+  updateBtn();
+}
+
+function showLoading() { document.getElementById('loadingOverlay').classList.add('show'); }
+function hideLoading() { document.getElementById('loadingOverlay').classList.remove('show'); }
+
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function generateExam() {
+  const rangeVal = document.getElementById('rangeInput').value.trim();
+  const count    = parseInt(document.getElementById('countInput').value);
+  const vocaId   = document.getElementById('vocaSelect').value;
+  const days     = parseRange(rangeVal);
+  const pool     = shuffle(getWordsFromDays(days));
+
+  let questions;
+  let payload;
+
+  if (isEiVoca(vocaId)) {
+    const wordCount = parseInt(document.getElementById('wordCount').value);
+    const defCount  = parseInt(document.getElementById('defCount').value);
+    const eiCount   = count - wordCount - defCount;
+
+    const wordWords = pool.slice(0, wordCount).map(w => ({ ...w, direction: 'word' }));
+    const defWords  = pool.slice(wordCount, wordCount + defCount).map(w => ({ ...w, direction: 'def' }));
+    const eiWords   = pool.slice(wordCount + defCount, wordCount + defCount + eiCount).map(w => ({ ...w, direction: 'ei' }));
+    questions = shuffle([...wordWords, ...defWords, ...eiWords]);
+
+    payload = {
+      vocaId,
+      vocaTitle: vocaDB.title,
+      studentName: document.getElementById('studentName').value.trim(),
+      academyName: document.getElementById('academyName').value.trim(),
+      rangeStr: rangeVal,
+      questions,
+      wordCount,
+      defCount,
+      eiCount,
+    };
+  } else {
+    const enKoCount = parseInt(document.getElementById('enKoCount').value);
+    const koEnCount = count - enKoCount;
+    const enKoWords = pool.slice(0, enKoCount).map(w => ({ ...w, direction: 'enKo' }));
+    const koEnWords = pool.slice(enKoCount, enKoCount + koEnCount).map(w => ({ ...w, direction: 'koEn' }));
+    questions = shuffle([...enKoWords, ...koEnWords]);
+
+    payload = {
+      vocaId,
+      vocaTitle: vocaDB.title,
+      studentName: document.getElementById('studentName').value.trim(),
+      academyName: document.getElementById('academyName').value.trim(),
+      rangeStr: rangeVal,
+      questions,
+      enKoCount,
+      koEnCount,
+    };
+  }
+
+  sessionStorage.setItem('examPayload', JSON.stringify(payload));
+  window.location.href = 'exam.html';
+}
+</script>
+</body>
+</html>

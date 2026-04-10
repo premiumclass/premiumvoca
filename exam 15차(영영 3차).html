@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>단어 시험지</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --ink: #1a1714;
+  --paper: #f5f0e8;
+  --accent: #8b2e2e;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Noto Sans KR', sans-serif; background: var(--paper); color: var(--ink); }
+
+/* ── 툴바 ── */
+#toolbar {
+  background: var(--ink); color: #fff;
+  padding: 18px 32px;
+  display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;
+  border-bottom: 3px solid var(--accent);
+  position: sticky; top: 0; z-index: 100;
+}
+.toolbar-title { font-size: 19.5px; font-weight: 700; margin-right: 4px; }
+.tbtn {
+  padding: 10.4px 18.2px; border: 1px solid #555; background: transparent; color: #fff;
+  font-size: 15.6px; font-family: 'Noto Sans KR', sans-serif; font-weight: 500;
+  border-radius: 3px; cursor: pointer; transition: all 0.15s; white-space: nowrap;
+}
+.tbtn:hover { background: #333; }
+.tbtn-primary { background: var(--accent); border-color: var(--accent); }
+.tbtn-primary:hover { background: #6e2222; }
+.tbtn-back { border-color: #888; color: #ccc; }
+.tbtn-save { background: #3a7d4f; border-color: #3a7d4f; color: #fff; }
+.tbtn-save:hover { background: #2e6340; }
+.sep { width: 1px; height: 24px; background: #444; flex-shrink: 0; }
+.tb-spacer { flex: 1; }
+#tbInfo { font-size: 15.6px; color: #aaa; }
+
+/* ── 프리뷰 영역 ── */
+#preview {
+  padding: 32px 24px 60px;
+  display: flex; flex-direction: column; align-items: center; gap: 40px;
+}
+
+/* ── 시험지 래퍼 (화면) ── */
+.sheet-wrapper {
+  background: #fff;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.13);
+  border-radius: 2px;
+  position: relative;
+  width: min(794px, 100%);
+}
+
+/* =============================================
+   시험지 내부 — 일반형 (화면 + 인쇄 공용)
+   ============================================= */
+.exam-page {
+  width: 794px;
+  height: 1123px;
+  padding: 36px 44px 32px 44px;
+  font-family: 'Noto Sans KR', sans-serif;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* ── 헤더 (공용) ── */
+.exam-header {
+  display: flex;
+  align-items: stretch;
+  border: 2.5px solid #111;
+  margin-bottom: 5px;
+  flex-shrink: 0;
+  height: 58px;
+}
+.exam-header-left {
+  flex: 1;
+  padding: 0 14px;
+  font-size: 21px;
+  font-weight: 700;
+  border-right: 1.5px solid #111;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.exam-header-center {
+  width: 180px;
+  padding: 0 10px;
+  font-size: 13px;
+  border-right: 1.5px solid #111;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2px;
+}
+.exam-header-center .hlabel { font-size: 9px; font-weight: 700; color: #888; letter-spacing: 0.06em; }
+.exam-header-center .hval { font-size: 13px; font-weight: 500; }
+.exam-header-right {
+  width: 190px;
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+}
+.exam-header-right .hrow {
+  padding: 0 10px;
+  display: flex; gap: 8px; align-items: center;
+  border-bottom: 1px solid #ccc;
+  flex: 1;
+}
+.exam-header-right .hrow:last-child { border-bottom: none; }
+.exam-header-right .hkey { font-weight: 700; color: #555; min-width: 36px; font-size: 10px; }
+
+/* ── 일반형: 2열 body ── */
+.exam-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 6px;
+  flex: 1;
+  min-height: 0;
+}
+
+/* ── 일반형: 단어 표 ── */
+.exam-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  border: 2px solid #111;
+  height: 100%;
+}
+.exam-table th, .exam-table td {
+  border: 0.6px solid #999;
+  font-size: 13px;
+  padding: 0 6px;
+  line-height: 1.1;
+  overflow: hidden;
+}
+.exam-table th {
+  background: #edeae2;
+  text-align: center;
+  font-weight: 700;
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  padding: 3px 4px;
+  border-bottom: 1.5px solid #888;
+  height: 20px;
+}
+.col-num  { width: 44px; }
+.col-word { width: 42%; }
+.col-ans  { }
+.td-num {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  color: #111;
+  font-family: 'DM Mono', monospace;
+  white-space: nowrap;
+}
+.td-word {
+  font-size: 13px;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.2;
+}
+.td-ans  { font-size: 13px; color: #111; }
+.td-ans.blank { color: transparent; }
+.td-ans.blank-ans { color: transparent; }
+.exam-table tbody tr {
+  height: calc((100% - 20px) / 25);
+  max-height: calc((100% - 20px) / 25 * 1.6);
+}
+
+/* =============================================
+   WIDE형 (voca11 / voca12) — 화면 전용
+   ============================================= */
+.exam-page-wide {
+  width: 794px;
+  height: 1123px;
+  padding: 36px 44px 32px 44px;
+  font-family: 'Noto Sans KR', sans-serif;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* wide body: 1단 전체폭 */
+.exam-body-wide {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* wide 표 */
+.exam-table-wide {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  border: 2px solid #111;
+  height: 100%;
+}
+.exam-table-wide th, .exam-table-wide td {
+  border: 0.6px solid #999;
+  font-size: 13px;
+  padding: 0 10px;
+  line-height: 1.3;
+  overflow: hidden;
+}
+.exam-table-wide th {
+  background: #edeae2;
+  text-align: center;
+  font-weight: 700;
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  padding: 3px 4px;
+  border-bottom: 1.5px solid #888;
+  height: 20px;
+}
+.col-num-w { width: 44px; }
+
+/* 번호행: 음영 */
+.exam-table-wide tbody tr.row-q {
+  background: #edeae2;
+  height: calc((100% - 20px) / 24);
+  max-height: calc((100% - 20px) / 24);
+}
+.exam-table-wide tbody tr.row-q td {
+  background: #edeae2;
+  height: calc((100% - 20px) / 24);
+  max-height: calc((100% - 20px) / 24);
+}
+/* 답기입행: 흰색 */
+.exam-table-wide tbody tr.row-a {
+  background: #fff;
+  height: calc((100% - 20px) / 24);
+  max-height: calc((100% - 20px) / 24);
+}
+.exam-table-wide tbody tr.row-a td {
+  height: calc((100% - 20px) / 24);
+  max-height: calc((100% - 20px) / 24);
+}
+
+.td-num-w {
+  text-align: center;
+  font-size: 13px;
+  font-weight: 700;
+  font-family: 'DM Mono', monospace;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.td-q-w {
+  font-size: 12px;
+  overflow-wrap: anywhere;
+  line-height: 1.3;
+  vertical-align: middle;
+}
+.td-a-w { font-size: 12px; vertical-align: middle; }
+.td-a-w.blank { color: transparent; }
+
+/* =============================================
+   영영형 (voca13~voca18) — 화면 전용
+   ============================================= */
+.exam-page-ei {
+  width: 794px;
+  height: 1123px;
+  padding: 36px 44px 32px 44px;
+  font-family: 'Noto Sans KR', sans-serif;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.exam-body-ei {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.exam-table-ei {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  border: 2px solid #111;
+  height: 100%;
+}
+.exam-table-ei th, .exam-table-ei td {
+  border: 0.6px solid #999;
+  padding: 0 5px;
+  line-height: 1.3;
+  overflow: hidden;
+}
+.exam-table-ei th {
+  background: #edeae2;
+  text-align: center;
+  font-weight: 700;
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  padding: 3px 4px;
+  border-bottom: 1.5px solid #888;
+  height: 20px;
+}
+/* 열 너비: 번호 40px, 단어/뜻 130px, 영영 나머지 */
+.col-ei-num  { width: 40px; }
+.col-ei-word { width: 155px; }
+.col-ei-def  { /* flex remainder */ }
+
+/* 번호 셀 (2행 병합) */
+.td-ei-num {
+  text-align: center;
+  font-size: 13px;
+  font-weight: 700;
+  color: #111;
+  font-family: 'DM Mono', monospace;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+/* 영단어 셀 */
+.td-ei-en {
+  font-size: 13px;
+  font-weight: 700;
+  word-break: normal;
+  overflow-wrap: normal;
+  word-wrap: normal;
+  overflow: hidden;
+  vertical-align: middle;
+  border-bottom: 0.6px solid #ccc !important;
+}
+/* 한글 뜻 셀 */
+.td-ei-ko {
+  font-size: 13px;
+  word-break: normal;
+  overflow-wrap: normal;
+  word-wrap: normal;
+  overflow: hidden;
+  vertical-align: middle;
+}
+/* 영영풀이 셀 (2행 병합) */
+.td-ei-meaning {
+  font-size: 12px;
+  word-break: normal;
+  overflow-wrap: normal;
+  word-wrap: break-word;
+  overflow: hidden;
+  vertical-align: middle;
+  line-height: 1.4;
+}
+/* 투명 처리 */
+.td-ei-en.blank   { color: transparent; }
+.td-ei-ko.blank   { color: transparent; }
+.td-ei-meaning.blank { color: transparent; }
+
+/* 행 높이: (전체 - 헤더20px) / 20문항 / 2행 */
+.exam-table-ei tbody tr {
+  height: calc((100% - 20px) / 40);
+  max-height: calc((100% - 20px) / 40);
+}
+
+/* =============================================
+   인쇄 전용
+   ============================================= */
+@media print {
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { background: #fff !important; }
+  #toolbar { display: none !important; }
+  #preview { padding: 0 !important; gap: 0 !important; }
+
+  .no-print { display: none !important; }
+
+  .sheet-wrapper {
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    width: 210mm !important;
+  }
+
+  .sheet-label {
+    display: block !important;
+    position: absolute; top: 6px; right: 10px;
+    font-size: 10px; background: var(--accent) !important; color: #fff !important;
+    padding: 2px 8px; border-radius: 2px; font-weight: 700; letter-spacing: 0.1em;
+    z-index: 10;
+  }
+
+  /* 일반형 인쇄 */
+  .exam-page {
+    width: 210mm !important;
+    height: 297mm !important;
+    padding: 10mm 12mm 9mm 12mm !important;
+    overflow: hidden;
+    page-break-after: always;
+    page-break-inside: avoid;
+    break-after: page;
+    break-inside: avoid;
+  }
+  .exam-page.last-print-page {
+    page-break-after: auto !important;
+    break-after: auto !important;
+  }
+  .exam-table { height: 100%; page-break-inside: avoid; break-inside: avoid; }
+
+  /* wide형 인쇄 */
+  .exam-page-wide {
+    width: 210mm !important;
+    height: 297mm !important;
+    padding: 10mm 12mm 9mm 12mm !important;
+    overflow: hidden;
+    page-break-after: always;
+    page-break-inside: avoid;
+    break-after: page;
+    break-inside: avoid;
+  }
+  .exam-page-wide.last-print-page {
+    page-break-after: auto !important;
+    break-after: auto !important;
+  }
+  .exam-table-wide { height: 100%; page-break-inside: avoid; break-inside: avoid; }
+
+  /* 영영형 인쇄 */
+  .exam-page-ei {
+    width: 210mm !important;
+    height: 297mm !important;
+    padding: 10mm 12mm 9mm 12mm !important;
+    overflow: hidden;
+    page-break-after: always;
+    page-break-inside: avoid;
+    break-after: page;
+    break-inside: avoid;
+  }
+  .exam-page-ei.last-print-page {
+    page-break-after: auto !important;
+    break-after: auto !important;
+  }
+  .exam-table-ei { height: 100%; page-break-inside: avoid; break-inside: avoid; }
+  .exam-table-ei th {
+    background: #edeae2 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* wide 음영 인쇄 강제 */
+  .exam-table-wide tbody tr.row-q {
+    background: #edeae2 !important;
+    height: calc((100% - 20px) / 24);
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .exam-table-wide tbody tr.row-q td {
+    background: #edeae2 !important;
+    height: calc((100% - 20px) / 24);
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .exam-table-wide tbody tr.row-a td {
+    height: calc((100% - 20px) / 24);
+  }
+  .exam-table-wide th {
+    background: #edeae2 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  /* 일반형 th 음영도 인쇄 강제 */
+  .exam-table th {
+    background: #edeae2 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  @page { size: A4 portrait; margin: 0; }
+}
+
+/* ── PDF 저장 옵션 드롭다운 스타일 ── */
+.pdf-dropdown {
+  position: relative;
+  display: inline-block;
+}
+.pdf-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  background: #222;
+  border: 1px solid #444;
+  border-radius: 3px;
+  min-width: 160px;
+  z-index: 200;
+  overflow: hidden;
+}
+.pdf-dropdown-menu.open { display: block; }
+.pdf-dropdown-menu button {
+  display: block;
+  width: 100%;
+  padding: 10px 16px;
+  background: transparent;
+  color: #fff;
+  border: none;
+  border-bottom: 1px solid #333;
+  text-align: left;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 13px;
+  cursor: pointer;
+}
+.pdf-dropdown-menu button:last-child { border-bottom: none; }
+.pdf-dropdown-menu button:hover { background: #333; }
+</style>
+</head>
+<body>
+
+<div id="toolbar">
+  <button class="tbtn tbtn-back" onclick="history.back()">← 돌아가기</button>
+  <div class="sep"></div>
+  <span class="toolbar-title" id="tbTitle"></span>
+  <div class="sep"></div>
+
+  <button class="tbtn tbtn-primary" onclick="doPrint('all')">🖨 모두 인쇄</button>
+  <button class="tbtn" onclick="doPrint('question')">문제지 인쇄</button>
+  <button class="tbtn" onclick="doPrint('answer')">답지 인쇄</button>
+
+  <div class="sep"></div>
+
+  <button class="tbtn tbtn-save" onclick="savePdf('all')">💾 모두 저장</button>
+  <button class="tbtn tbtn-save" onclick="savePdf('question')">문제지 저장</button>
+  <button class="tbtn tbtn-save" onclick="savePdf('answer')">답지 저장</button>
+
+  <div class="sep"></div>
+  <span id="tbInfo"></span>
+</div>
+
+<div id="preview"></div>
+
+<!-- 커스텀 PDF 저장 안내 모달 -->
+<div id="pdfGuideModal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:9999;align-items:center;justify-content:center;">
+  <div style="background:#fff;border-radius:6px;padding:36px 40px;max-width:400px;width:90%;box-shadow:0 8px 40px rgba(0,0,0,0.25);font-family:'Noto Sans KR',sans-serif;">
+    <div style="font-size:22px;margin-bottom:6px;">📄</div>
+    <div style="font-size:17px;font-weight:700;color:#1a1714;margin-bottom:16px;">PDF 저장 안내</div>
+    <div style="font-size:14px;color:#555;line-height:1.9;margin-bottom:24px;">
+      저장 대상: <strong id="pdfGuideTarget" style="color:#8b2e2e;"></strong><br>
+      확인을 누르면 인쇄 창이 열립니다.<br>
+      프린터 목록에서<br>
+      <strong>"Microsoft Print to PDF"</strong> 또는<br>
+      <strong>"PDF로 저장"</strong>을 선택하시면<br>
+      PDF 파일로 저장됩니다.
+    </div>
+    <div style="display:flex;gap:10px;justify-content:flex-end;">
+      <button onclick="closePdfGuide(false)" style="padding:10px 22px;border:1px solid #ccc;background:#fff;border-radius:3px;font-size:14px;cursor:pointer;font-family:'Noto Sans KR',sans-serif;">취소</button>
+      <button id="pdfGuideMode" onclick="closePdfGuide(true)" style="padding:10px 22px;border:none;background:#8b2e2e;color:#fff;border-radius:3px;font-size:14px;font-weight:700;cursor:pointer;font-family:'Noto Sans KR',sans-serif;">확인</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const raw = sessionStorage.getItem('examPayload');
+if (!raw) { alert('출제 데이터가 없습니다.'); location.href = 'index.html'; }
+const P = JSON.parse(raw);
+const { vocaId, vocaTitle, studentName, academyName, rangeStr, questions,
+        enKoCount, koEnCount, wordCount, defCount, eiCount } = P;
+
+// ★ 단어장 타입 판별
+function isWideVoca(id) { return id === 'voca11' || id === 'voca12'; }
+function isEiVoca(id)   { return ['voca13','voca14','voca15','voca16','voca17','voca18'].includes(id); }
+const IS_WIDE = isWideVoca(vocaId);
+const IS_EI   = isEiVoca(vocaId);
+const PER_PAGE = IS_WIDE ? 12 : IS_EI ? 20 : 50;
+
+document.getElementById('tbTitle').textContent = vocaTitle;
+if (IS_EI) {
+  document.getElementById('tbInfo').textContent =
+    `Day ${rangeStr} · ${questions.length}문항 (단어 ${wordCount ?? '?'} / 뜻 ${defCount ?? '?'} / 영영 ${eiCount ?? '?'})`;
+} else {
+  document.getElementById('tbInfo').textContent =
+    `Day ${rangeStr} · ${questions.length}문항 (영한 ${enKoCount ?? '?'} / 한영 ${koEnCount ?? '?'})`;
+}
+
+// ── 페이지 분할 ──
+function splitPages(qs) {
+  const pages = [];
+  for (let i = 0; i < qs.length; i += PER_PAGE) {
+    const chunk = qs.slice(i, i + PER_PAGE);
+    while (chunk.length < PER_PAGE) chunk.push(null);
+    pages.push(chunk);
+  }
+  return pages;
+}
+
+const pages = splitPages(questions);
+
+function esc(str) {
+  if (!str) return '';
+  return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── 헤더 HTML (공용) ──
+function makeHeaderHTML() {
+  return `
+    <div class="exam-header">
+      <div class="exam-header-left">${esc(vocaTitle)}</div>
+      <div class="exam-header-center">
+        <div class="hlabel">ACADEMY</div>
+        <div class="hval">${esc(academyName || '')}</div>
+      </div>
+      <div class="exam-header-right">
+        <div class="hrow"><span class="hkey">범위</span><span>Day ${esc(rangeStr)}</span></div>
+        <div class="hrow"><span class="hkey">이름</span><span>${esc(studentName || '')}</span></div>
+      </div>
+    </div>`;
+}
+
+// =============================================
+// 일반형 함수들
+// =============================================
+function questionText(q) {
+  if (!q) return '';
+  return q.direction === 'enKo' ? q.en : q.ko;
+}
+function answerText(q) {
+  if (!q) return '';
+  return q.direction === 'enKo' ? q.ko : q.en;
+}
+
+function makeTableHTML(half, startNum, isAnswer) {
+  let rows = '';
+  half.forEach((q, i) => {
+    const num = startNum + i;
+    const qText = q ? questionText(q) : '';
+    const aText = q ? answerText(q) : '';
+    let ansTd;
+    if (!q) {
+      ansTd = `<td class="td-ans blank-ans">&nbsp;</td>`;
+    } else if (isAnswer) {
+      ansTd = `<td class="td-ans">${esc(aText)}</td>`;
+    } else {
+      ansTd = `<td class="td-ans blank">&nbsp;</td>`;
+    }
+    rows += `<tr>
+      <td class="td-num">${q ? num : ''}</td>
+      <td class="td-word">${esc(qText)}</td>
+      ${ansTd}
+    </tr>`;
+  });
+  return `
+    <table class="exam-table">
+      <colgroup><col class="col-num"><col class="col-word"><col class="col-ans"></colgroup>
+      <thead><tr>
+        <th class="col-num">No.</th>
+        <th class="col-word">단어</th>
+        <th class="col-ans">답</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>`;
+}
+
+function makePageHTML(slots, pageIndex, isAnswer) {
+  const left  = slots.slice(0, 25);
+  const right = slots.slice(25, 50);
+  const startNum = pageIndex * 50 + 1;
+
+  return `
+  <div class="exam-page" data-type="${isAnswer ? 'answer' : 'question'}">
+    ${makeHeaderHTML()}
+    <div class="exam-body">
+      ${makeTableHTML(left,  startNum,      isAnswer)}
+      ${makeTableHTML(right, startNum + 25, isAnswer)}
+    </div>
+  </div>`;
+}
+
+// =============================================
+// Wide형 함수들 (voca11 / voca12)
+// =============================================
+function makeTableWideHTML(slots, startNum, isAnswer) {
+  let rows = '';
+  slots.forEach((q, i) => {
+    const num = startNum + i;
+    const qText = q ? (q.direction === 'enKo' ? q.en : q.ko) : '';
+    const aText = q ? (q.direction === 'enKo' ? q.ko : q.en) : '';
+
+    // 번호행 (음영)
+    rows += `<tr class="row-q">
+      <td class="td-num-w">${q ? num : '&nbsp;'}</td>
+      <td class="td-q-w">${qText ? esc(qText) : '&nbsp;'}</td>
+    </tr>`;
+
+    // 답기입행 (흰색)
+    const ansCell = !q
+      ? `<td class="td-a-w blank">&nbsp;</td>`
+      : isAnswer
+        ? `<td class="td-a-w">${esc(aText)}</td>`
+        : `<td class="td-a-w blank">&nbsp;</td>`;
+    rows += `<tr class="row-a">
+      <td style="border-right:0.6px solid #999;">&nbsp;</td>
+      ${ansCell}
+    </tr>`;
+  });
+
+  return `
+    <table class="exam-table-wide">
+      <colgroup><col class="col-num-w"><col></colgroup>
+      <thead><tr>
+        <th class="col-num-w">No.</th>
+        <th>문장 / 단어 &amp; 답</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>`;
+}
+
+function makePageWideHTML(slots, pageIndex, isAnswer) {
+  const startNum = pageIndex * 12 + 1;
+
+  return `
+  <div class="exam-page-wide" data-type="${isAnswer ? 'answer' : 'question'}">
+    ${makeHeaderHTML()}
+    <div class="exam-body-wide">
+      ${makeTableWideHTML(slots, startNum, isAnswer)}
+    </div>
+  </div>`;
+}
+
+// =============================================
+// 렌더링
+// =============================================
+// =============================================
+// 영영형 함수들 (voca13~voca18)
+// =============================================
+function makeTableEiHTML(slots, startNum, isAnswer) {
+  let rows = '';
+  slots.forEach((q, i) => {
+    const num = startNum + i;
+    const enText      = q ? q.en      : '';
+    const koText      = q ? q.ko      : '';
+    const meaningText = q ? q.meaning : '';
+    const dir         = q ? q.direction : null;
+
+    // 문제지: 제시된 항목만 보임 / 답지: 전부 보임
+    const showEn      = !q ? false : (isAnswer || dir === 'word');
+    const showKo      = !q ? false : (isAnswer || dir === 'def');
+    const showMeaning = !q ? false : (isAnswer || dir === 'ei');
+
+    const enClass      = showEn      ? 'td-ei-en'      : 'td-ei-en blank';
+    const koClass      = showKo      ? 'td-ei-ko'      : 'td-ei-ko blank';
+    const meaningClass = showMeaning ? 'td-ei-meaning'  : 'td-ei-meaning blank';
+
+    // 1행: 번호(rowspan=2) + 영단어 + 영영풀이(rowspan=2)
+    rows += `<tr>
+      <td class="td-ei-num" rowspan="2">${q ? num : ''}</td>
+      <td class="${enClass}">${esc(enText)}&nbsp;</td>
+      <td class="${meaningClass}" rowspan="2">${esc(meaningText)}&nbsp;</td>
+    </tr>`;
+    // 2행: 한글 뜻
+    rows += `<tr>
+      <td class="${koClass}">${esc(koText)}&nbsp;</td>
+    </tr>`;
+  });
+
+  return `
+    <table class="exam-table-ei">
+      <colgroup>
+        <col class="col-ei-num">
+        <col class="col-ei-word">
+        <col class="col-ei-def">
+      </colgroup>
+      <thead><tr>
+        <th class="col-ei-num">No.</th>
+        <th class="col-ei-word">단어 / 뜻</th>
+        <th class="col-ei-def">영영풀이</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>`;
+}
+
+function makePageEiHTML(slots, pageIndex, isAnswer) {
+  const startNum = pageIndex * 20 + 1;
+  return `
+  <div class="exam-page-ei" data-type="${isAnswer ? 'answer' : 'question'}">
+    ${makeHeaderHTML()}
+    <div class="exam-body-ei">
+      ${makeTableEiHTML(slots, startNum, isAnswer)}
+    </div>
+  </div>`;
+}
+
+function render() {
+  const preview = document.getElementById('preview');
+  preview.innerHTML = '';
+
+  const makePageFn = IS_EI ? makePageEiHTML : IS_WIDE ? makePageWideHTML : makePageHTML;
+
+  // 문제지
+  pages.forEach((slots, pi) => {
+    const wrap = document.createElement('div');
+    wrap.className = 'sheet-wrapper';
+    wrap.dataset.role = 'question';
+    wrap.style.position = 'relative';
+    wrap.innerHTML = makePageFn(slots, pi, false);
+    preview.appendChild(wrap);
+  });
+
+  // 답지
+  pages.forEach((slots, pi) => {
+    const wrap = document.createElement('div');
+    wrap.className = 'sheet-wrapper';
+    wrap.dataset.role = 'answer';
+    wrap.style.position = 'relative';
+    wrap.innerHTML = makePageFn(slots, pi, true);
+    preview.appendChild(wrap);
+  });
+}
+
+render();
+
+// ── last-print-page 마킹 (일반형 + wide형 + 영영형 모두 대응) ──
+function markLastPrintPage(mode) {
+  document.querySelectorAll('.last-print-page').forEach(el => el.classList.remove('last-print-page'));
+
+  let visiblePages;
+  if (mode === 'question') {
+    visiblePages = document.querySelectorAll('[data-role="question"] [data-type="question"]');
+  } else if (mode === 'answer') {
+    visiblePages = document.querySelectorAll('[data-role="answer"] [data-type="answer"]');
+  } else {
+    visiblePages = document.querySelectorAll('[data-role="answer"] [data-type="answer"]');
+  }
+  if (visiblePages.length > 0) {
+    visiblePages[visiblePages.length - 1].classList.add('last-print-page');
+  }
+}
+
+// ── 인쇄 ──
+function doPrint(mode) {
+  applyVisibility(mode);
+  markLastPrintPage(mode);
+  window.print();
+  setTimeout(() => restoreVisibility(), 600);
+}
+
+// ── PDF 저장 ──
+function savePdf(mode) {
+  const modeLabel = mode === 'all' ? '문제지 + 답지' : mode === 'question' ? '문제지' : '답지';
+  document.getElementById('pdfGuideTarget').textContent = modeLabel;
+  document.getElementById('pdfGuideModal').style.display = 'flex';
+  document.getElementById('pdfGuideMode').dataset.mode = mode;
+}
+
+function closePdfGuide(confirmed) {
+  const modal = document.getElementById('pdfGuideModal');
+  const mode = document.getElementById('pdfGuideMode').dataset.mode;
+  modal.style.display = 'none';
+  if (!confirmed) return;
+  applyVisibility(mode);
+  markLastPrintPage(mode);
+  setTimeout(() => {
+    window.print();
+    setTimeout(() => restoreVisibility(), 600);
+  }, 200);
+}
+
+function applyVisibility(mode) {
+  const qEls = document.querySelectorAll('[data-role="question"]');
+  const aEls = document.querySelectorAll('[data-role="answer"]');
+  if (mode === 'question') {
+    qEls.forEach(el => el.classList.remove('no-print'));
+    aEls.forEach(el => el.classList.add('no-print'));
+  } else if (mode === 'answer') {
+    qEls.forEach(el => el.classList.add('no-print'));
+    aEls.forEach(el => el.classList.remove('no-print'));
+  } else {
+    qEls.forEach(el => el.classList.remove('no-print'));
+    aEls.forEach(el => el.classList.remove('no-print'));
+
+    // 문제지 페이지 수가 홀수면 문제지·답지 사이에 빈 페이지 삽입
+    if (pages.length % 2 === 1) {
+      const blank = document.createElement('div');
+      blank.className = 'sheet-wrapper blank-spacer';
+      blank.dataset.role = 'blank';
+      const blankPageClass = IS_EI ? 'exam-page-ei' : IS_WIDE ? 'exam-page-wide' : 'exam-page';
+      blank.innerHTML = `<div class="${blankPageClass}" style="background:#fff;"></div>`;
+      const firstAnswer = document.querySelector('[data-role="answer"]');
+      document.getElementById('preview').insertBefore(blank, firstAnswer);
+    }
+  }
+}
+
+function restoreVisibility() {
+  document.querySelectorAll('[data-role]').forEach(el => el.classList.remove('no-print'));
+  document.querySelectorAll('.last-print-page').forEach(el => el.classList.remove('last-print-page'));
+  document.querySelectorAll('.blank-spacer').forEach(el => el.remove());
+}
+</script>
+</body>
+</html>
