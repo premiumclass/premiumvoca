@@ -1,0 +1,3830 @@
+{
+  "title": "프리미엄보카 중등실력",
+  "days": [
+    {
+      "day": 1,
+      "words": [
+        {
+          "en": "badly",
+          "ko": "매우"
+        },
+        {
+          "en": "mysterious",
+          "ko": "신비로운"
+        },
+        {
+          "en": "similar",
+          "ko": "비슷한"
+        },
+        {
+          "en": "urban",
+          "ko": "도시의"
+        },
+        {
+          "en": "bomb",
+          "ko": "폭탄"
+        },
+        {
+          "en": "capital",
+          "ko": "수도"
+        },
+        {
+          "en": "athlete",
+          "ko": "운동 선수"
+        },
+        {
+          "en": "trend",
+          "ko": "경향"
+        },
+        {
+          "en": "creation",
+          "ko": "창작품"
+        },
+        {
+          "en": "per",
+          "ko": "~마다"
+        },
+        {
+          "en": "belly",
+          "ko": "배"
+        },
+        {
+          "en": "century",
+          "ko": "1세기"
+        },
+        {
+          "en": "cereal",
+          "ko": "곡물"
+        },
+        {
+          "en": "between",
+          "ko": "~사이에"
+        },
+        {
+          "en": "dawn",
+          "ko": "새벽"
+        },
+        {
+          "en": "closet",
+          "ko": "옷장"
+        },
+        {
+          "en": "garage",
+          "ko": "차고"
+        },
+        {
+          "en": "kingdom",
+          "ko": "왕국"
+        },
+        {
+          "en": "clap",
+          "ko": "손뼉을 치다"
+        },
+        {
+          "en": "bother",
+          "ko": "괴롭히다"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "words": [
+        {
+          "en": "depth",
+          "ko": "깊이"
+        },
+        {
+          "en": "display",
+          "ko": "전시하다"
+        },
+        {
+          "en": "hiking",
+          "ko": "도보 여행"
+        },
+        {
+          "en": "brief",
+          "ko": "간단한"
+        },
+        {
+          "en": "sometime",
+          "ko": "언젠가"
+        },
+        {
+          "en": "typical",
+          "ko": "전형적인"
+        },
+        {
+          "en": "nothing",
+          "ko": "아무것도 아니다"
+        },
+        {
+          "en": "irony",
+          "ko": "모순"
+        },
+        {
+          "en": "senior",
+          "ko": "손위의"
+        },
+        {
+          "en": "bargain",
+          "ko": "흥정"
+        },
+        {
+          "en": "celebrate",
+          "ko": "기념하다"
+        },
+        {
+          "en": "frankly",
+          "ko": "솔직하게"
+        },
+        {
+          "en": "seat",
+          "ko": "자리"
+        },
+        {
+          "en": "capable",
+          "ko": "할 수 있는"
+        },
+        {
+          "en": "lack",
+          "ko": "부족하다"
+        },
+        {
+          "en": "lend",
+          "ko": "빌려주다"
+        },
+        {
+          "en": "category",
+          "ko": "범주"
+        },
+        {
+          "en": "accept",
+          "ko": "받아들이다"
+        },
+        {
+          "en": "temple",
+          "ko": "사원"
+        },
+        {
+          "en": "festival",
+          "ko": "축제"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "words": [
+        {
+          "en": "rubber",
+          "ko": "고무"
+        },
+        {
+          "en": "anxious",
+          "ko": "불안한"
+        },
+        {
+          "en": "lightning",
+          "ko": "번개"
+        },
+        {
+          "en": "especially",
+          "ko": "특별히"
+        },
+        {
+          "en": "fool",
+          "ko": "속이다"
+        },
+        {
+          "en": "affair",
+          "ko": "일"
+        },
+        {
+          "en": "galaxy",
+          "ko": "은하계"
+        },
+        {
+          "en": "vehicle",
+          "ko": "탈 것"
+        },
+        {
+          "en": "astound",
+          "ko": "놀라게 하다"
+        },
+        {
+          "en": "awful",
+          "ko": "지독한"
+        },
+        {
+          "en": "explain",
+          "ko": "설명하다"
+        },
+        {
+          "en": "background",
+          "ko": "배경"
+        },
+        {
+          "en": "hint",
+          "ko": "암시"
+        },
+        {
+          "en": "cousin",
+          "ko": "사촌"
+        },
+        {
+          "en": "block",
+          "ko": "막다"
+        },
+        {
+          "en": "company",
+          "ko": "회사"
+        },
+        {
+          "en": "seasoning",
+          "ko": "양념"
+        },
+        {
+          "en": "rule",
+          "ko": "통치하다"
+        },
+        {
+          "en": "prison",
+          "ko": "감옥"
+        },
+        {
+          "en": "report",
+          "ko": "보고하다"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "words": [
+        {
+          "en": "requirement",
+          "ko": "필요조건"
+        },
+        {
+          "en": "expensive",
+          "ko": "비싼"
+        },
+        {
+          "en": "moral",
+          "ko": "도덕적인"
+        },
+        {
+          "en": "crab",
+          "ko": "게"
+        },
+        {
+          "en": "length",
+          "ko": "길이"
+        },
+        {
+          "en": "approve",
+          "ko": "승인하다"
+        },
+        {
+          "en": "basis",
+          "ko": "기초"
+        },
+        {
+          "en": "distant",
+          "ko": "먼"
+        },
+        {
+          "en": "curly",
+          "ko": "곱슬머리의"
+        },
+        {
+          "en": "introduction",
+          "ko": "소개"
+        },
+        {
+          "en": "expert",
+          "ko": "전문가"
+        },
+        {
+          "en": "closely",
+          "ko": "면밀히"
+        },
+        {
+          "en": "professor",
+          "ko": "교수"
+        },
+        {
+          "en": "sibling",
+          "ko": "형제자매"
+        },
+        {
+          "en": "enemy",
+          "ko": "적"
+        },
+        {
+          "en": "aural",
+          "ko": "청각의"
+        },
+        {
+          "en": "either",
+          "ko": "어느 하나"
+        },
+        {
+          "en": "clone",
+          "ko": "복제하다"
+        },
+        {
+          "en": "publish",
+          "ko": "출판하다"
+        },
+        {
+          "en": "degree",
+          "ko": "정도"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "words": [
+        {
+          "en": "realize",
+          "ko": "깨닫다"
+        },
+        {
+          "en": "truth",
+          "ko": "진실"
+        },
+        {
+          "en": "inexpensive",
+          "ko": "비싸지 않은"
+        },
+        {
+          "en": "copyright",
+          "ko": "저작권"
+        },
+        {
+          "en": "bean",
+          "ko": "콩"
+        },
+        {
+          "en": "least",
+          "ko": "가장 적은"
+        },
+        {
+          "en": "let",
+          "ko": "~하게 하다"
+        },
+        {
+          "en": "ceremony",
+          "ko": "의식"
+        },
+        {
+          "en": "preview",
+          "ko": "사전 검토"
+        },
+        {
+          "en": "follow",
+          "ko": "따라가다"
+        },
+        {
+          "en": "hide",
+          "ko": "감추다"
+        },
+        {
+          "en": "however",
+          "ko": "그러나"
+        },
+        {
+          "en": "yard",
+          "ko": "마당"
+        },
+        {
+          "en": "step",
+          "ko": "단계"
+        },
+        {
+          "en": "distance",
+          "ko": "거리"
+        },
+        {
+          "en": "wheel",
+          "ko": "바퀴"
+        },
+        {
+          "en": "vote",
+          "ko": "투표하다"
+        },
+        {
+          "en": "myth",
+          "ko": "신화"
+        },
+        {
+          "en": "risk",
+          "ko": "위험"
+        },
+        {
+          "en": "harmony",
+          "ko": "조화"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "words": [
+        {
+          "en": "quite",
+          "ko": "아주"
+        },
+        {
+          "en": "fuel",
+          "ko": "연료"
+        },
+        {
+          "en": "aside",
+          "ko": "옆에"
+        },
+        {
+          "en": "fantastic",
+          "ko": "환상적인"
+        },
+        {
+          "en": "citizen",
+          "ko": "시민"
+        },
+        {
+          "en": "discuss",
+          "ko": "논의하다"
+        },
+        {
+          "en": "bath",
+          "ko": "목욕"
+        },
+        {
+          "en": "apologize",
+          "ko": "사과하다"
+        },
+        {
+          "en": "blame",
+          "ko": "비난하다"
+        },
+        {
+          "en": "concentrate",
+          "ko": "집중하다"
+        },
+        {
+          "en": "bitter",
+          "ko": "쓴"
+        },
+        {
+          "en": "collection",
+          "ko": "수집품"
+        },
+        {
+          "en": "completion",
+          "ko": "완성"
+        },
+        {
+          "en": "flavor",
+          "ko": "맛"
+        },
+        {
+          "en": "package",
+          "ko": "소포"
+        },
+        {
+          "en": "audition",
+          "ko": "심사"
+        },
+        {
+          "en": "selfish",
+          "ko": "이기적인"
+        },
+        {
+          "en": "crowd",
+          "ko": "군중"
+        },
+        {
+          "en": "apply",
+          "ko": "적용되다"
+        },
+        {
+          "en": "junk",
+          "ko": "쓰레기"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "words": [
+        {
+          "en": "supporter",
+          "ko": "지지자"
+        },
+        {
+          "en": "bind",
+          "ko": "묶다"
+        },
+        {
+          "en": "construct",
+          "ko": "건설하다"
+        },
+        {
+          "en": "footprint",
+          "ko": "발자국"
+        },
+        {
+          "en": "aquarium",
+          "ko": "수족관"
+        },
+        {
+          "en": "experienced",
+          "ko": "숙달한"
+        },
+        {
+          "en": "contract",
+          "ko": "계약하다"
+        },
+        {
+          "en": "crack",
+          "ko": "틈"
+        },
+        {
+          "en": "sweat",
+          "ko": "땀을 흘리다"
+        },
+        {
+          "en": "pronunciation",
+          "ko": "발음"
+        },
+        {
+          "en": "chin",
+          "ko": "아래턱"
+        },
+        {
+          "en": "peaceful",
+          "ko": "평화로운"
+        },
+        {
+          "en": "correctly",
+          "ko": "올바르게"
+        },
+        {
+          "en": "benefit",
+          "ko": "장점"
+        },
+        {
+          "en": "frequent",
+          "ko": "자주 발생하는"
+        },
+        {
+          "en": "unemployed",
+          "ko": "실업의"
+        },
+        {
+          "en": "lick",
+          "ko": "핥다"
+        },
+        {
+          "en": "calculate",
+          "ko": "계산하다"
+        },
+        {
+          "en": "coast",
+          "ko": "해안"
+        },
+        {
+          "en": "behave",
+          "ko": "행동하다"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "words": [
+        {
+          "en": "engineer",
+          "ko": "기술자"
+        },
+        {
+          "en": "cheer",
+          "ko": "격려"
+        },
+        {
+          "en": "dishonest",
+          "ko": "부정직한"
+        },
+        {
+          "en": "silence",
+          "ko": "침묵"
+        },
+        {
+          "en": "centigrade",
+          "ko": "섭씨의"
+        },
+        {
+          "en": "contact",
+          "ko": "접촉시키다"
+        },
+        {
+          "en": "frozen",
+          "ko": "얼어 붙은"
+        },
+        {
+          "en": "award",
+          "ko": "상"
+        },
+        {
+          "en": "ease",
+          "ko": "쉬움"
+        },
+        {
+          "en": "relate",
+          "ko": "관련시키다"
+        },
+        {
+          "en": "bless",
+          "ko": "축복하다"
+        },
+        {
+          "en": "erase",
+          "ko": "지우다"
+        },
+        {
+          "en": "save",
+          "ko": "구하다"
+        },
+        {
+          "en": "yell",
+          "ko": "소리치다"
+        },
+        {
+          "en": "charm",
+          "ko": "매력"
+        },
+        {
+          "en": "receive",
+          "ko": "받다"
+        },
+        {
+          "en": "crop",
+          "ko": "농작물"
+        },
+        {
+          "en": "enough",
+          "ko": "충분한"
+        },
+        {
+          "en": "shake",
+          "ko": "흔들다"
+        },
+        {
+          "en": "musical",
+          "ko": "음악적인"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "words": [
+        {
+          "en": "collar",
+          "ko": "옷깃"
+        },
+        {
+          "en": "housekeeping",
+          "ko": "살림"
+        },
+        {
+          "en": "symbolic",
+          "ko": "상징적인"
+        },
+        {
+          "en": "current",
+          "ko": "현재의"
+        },
+        {
+          "en": "shade",
+          "ko": "그늘"
+        },
+        {
+          "en": "height",
+          "ko": "높이"
+        },
+        {
+          "en": "course",
+          "ko": "강의"
+        },
+        {
+          "en": "label",
+          "ko": "상표"
+        },
+        {
+          "en": "sunshine",
+          "ko": "햇빛"
+        },
+        {
+          "en": "waste",
+          "ko": "낭비하다"
+        },
+        {
+          "en": "assist",
+          "ko": "돕다"
+        },
+        {
+          "en": "teen",
+          "ko": "십대"
+        },
+        {
+          "en": "book",
+          "ko": "예약하다"
+        },
+        {
+          "en": "gym",
+          "ko": "체육관"
+        },
+        {
+          "en": "situation",
+          "ko": "상황"
+        },
+        {
+          "en": "garbage",
+          "ko": "쓰레기"
+        },
+        {
+          "en": "continuous",
+          "ko": "지속적인"
+        },
+        {
+          "en": "intend",
+          "ko": "의도하다"
+        },
+        {
+          "en": "consult",
+          "ko": "상담하다"
+        },
+        {
+          "en": "build",
+          "ko": "짓다"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "words": [
+        {
+          "en": "medicine",
+          "ko": "약"
+        },
+        {
+          "en": "delicious",
+          "ko": "맛있는"
+        },
+        {
+          "en": "ridiculous",
+          "ko": "터무니없는"
+        },
+        {
+          "en": "cast",
+          "ko": "던지다"
+        },
+        {
+          "en": "mankind",
+          "ko": "인류"
+        },
+        {
+          "en": "invest",
+          "ko": "투자하다"
+        },
+        {
+          "en": "pop",
+          "ko": "튀어나오다"
+        },
+        {
+          "en": "climb",
+          "ko": "등반하다"
+        },
+        {
+          "en": "direction",
+          "ko": "방향"
+        },
+        {
+          "en": "dip",
+          "ko": "살짝 담그다"
+        },
+        {
+          "en": "chopstick",
+          "ko": "젓가락"
+        },
+        {
+          "en": "sunrise",
+          "ko": "일출"
+        },
+        {
+          "en": "sailor",
+          "ko": "선원"
+        },
+        {
+          "en": "example",
+          "ko": "예시"
+        },
+        {
+          "en": "reach",
+          "ko": "도착하다"
+        },
+        {
+          "en": "culture",
+          "ko": "문화"
+        },
+        {
+          "en": "scold",
+          "ko": "꾸짖다"
+        },
+        {
+          "en": "acid",
+          "ko": "산성의"
+        },
+        {
+          "en": "refrigerator",
+          "ko": "냉장고"
+        },
+        {
+          "en": "below",
+          "ko": "~아래에"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "words": [
+        {
+          "en": "ensure",
+          "ko": "확실하게 하다"
+        },
+        {
+          "en": "educate",
+          "ko": "교육하다"
+        },
+        {
+          "en": "starfish",
+          "ko": "불가사리"
+        },
+        {
+          "en": "sector",
+          "ko": "분야"
+        },
+        {
+          "en": "doubt",
+          "ko": "의심하다"
+        },
+        {
+          "en": "steel",
+          "ko": "강철"
+        },
+        {
+          "en": "index",
+          "ko": "색인"
+        },
+        {
+          "en": "trousers",
+          "ko": "바지"
+        },
+        {
+          "en": "infection",
+          "ko": "감염"
+        },
+        {
+          "en": "pressure",
+          "ko": "압력"
+        },
+        {
+          "en": "misplace",
+          "ko": "잘못 두다"
+        },
+        {
+          "en": "goldfish",
+          "ko": "금붕어"
+        },
+        {
+          "en": "reuse",
+          "ko": "재사용하다"
+        },
+        {
+          "en": "search",
+          "ko": "찾다"
+        },
+        {
+          "en": "diet",
+          "ko": "음식"
+        },
+        {
+          "en": "limit",
+          "ko": "제한하다"
+        },
+        {
+          "en": "biology",
+          "ko": "생물학"
+        },
+        {
+          "en": "complain",
+          "ko": "불평하다"
+        },
+        {
+          "en": "decade",
+          "ko": "10년"
+        },
+        {
+          "en": "minimum",
+          "ko": "최소"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "words": [
+        {
+          "en": "boundary",
+          "ko": "경계"
+        },
+        {
+          "en": "appeal",
+          "ko": "호소하다"
+        },
+        {
+          "en": "terrible",
+          "ko": "끔찍한"
+        },
+        {
+          "en": "calm",
+          "ko": "침착한"
+        },
+        {
+          "en": "bat",
+          "ko": "방망이"
+        },
+        {
+          "en": "communication",
+          "ko": "의사소통"
+        },
+        {
+          "en": "ancestor",
+          "ko": "조상"
+        },
+        {
+          "en": "media",
+          "ko": "매체"
+        },
+        {
+          "en": "sweater",
+          "ko": "스웨터"
+        },
+        {
+          "en": "fashionable",
+          "ko": "유행하는"
+        },
+        {
+          "en": "theory",
+          "ko": "이론"
+        },
+        {
+          "en": "damage",
+          "ko": "손해를 입히다"
+        },
+        {
+          "en": "confuse",
+          "ko": "혼란스럽게 하다"
+        },
+        {
+          "en": "rise",
+          "ko": "오르다"
+        },
+        {
+          "en": "astronomy",
+          "ko": "천문학"
+        },
+        {
+          "en": "somewhere",
+          "ko": "어딘가에"
+        },
+        {
+          "en": "ancient",
+          "ko": "고대의"
+        },
+        {
+          "en": "pour",
+          "ko": "붓다"
+        },
+        {
+          "en": "wellbeing",
+          "ko": "행복"
+        },
+        {
+          "en": "surf",
+          "ko": "파도를 타다"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "words": [
+        {
+          "en": "loss",
+          "ko": "손실"
+        },
+        {
+          "en": "tend",
+          "ko": "경향이 있다"
+        },
+        {
+          "en": "knowledge",
+          "ko": "지식"
+        },
+        {
+          "en": "compare",
+          "ko": "비교하다"
+        },
+        {
+          "en": "shine",
+          "ko": "빛나다"
+        },
+        {
+          "en": "politics",
+          "ko": "정치학"
+        },
+        {
+          "en": "forgive",
+          "ko": "용서하다"
+        },
+        {
+          "en": "basic",
+          "ko": "기본적인"
+        },
+        {
+          "en": "salary",
+          "ko": "급여"
+        },
+        {
+          "en": "motto",
+          "ko": "좌우명"
+        },
+        {
+          "en": "dwarf",
+          "ko": "난쟁이"
+        },
+        {
+          "en": "sheet",
+          "ko": "종이 한 장"
+        },
+        {
+          "en": "forget",
+          "ko": "잊다"
+        },
+        {
+          "en": "officer",
+          "ko": "공무원"
+        },
+        {
+          "en": "cause",
+          "ko": "일으키다"
+        },
+        {
+          "en": "cottage",
+          "ko": "오두막집"
+        },
+        {
+          "en": "gene",
+          "ko": "유전자"
+        },
+        {
+          "en": "reduce",
+          "ko": "감소하다"
+        },
+        {
+          "en": "challenge",
+          "ko": "도전"
+        },
+        {
+          "en": "chief",
+          "ko": "주요한"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "words": [
+        {
+          "en": "speech",
+          "ko": "연설"
+        },
+        {
+          "en": "vet",
+          "ko": "수의사"
+        },
+        {
+          "en": "personnel",
+          "ko": "직원"
+        },
+        {
+          "en": "triangle",
+          "ko": "삼각형"
+        },
+        {
+          "en": "wealth",
+          "ko": "부"
+        },
+        {
+          "en": "bow",
+          "ko": "절하다"
+        },
+        {
+          "en": "hardworking",
+          "ko": "열심히 일하는"
+        },
+        {
+          "en": "rural",
+          "ko": "시골의"
+        },
+        {
+          "en": "cruel",
+          "ko": "잔인한"
+        },
+        {
+          "en": "favorite",
+          "ko": "아주 좋아하는"
+        },
+        {
+          "en": "highway",
+          "ko": "고속도로"
+        },
+        {
+          "en": "advertise",
+          "ko": "광고하다"
+        },
+        {
+          "en": "cover",
+          "ko": "다루다"
+        },
+        {
+          "en": "serious",
+          "ko": "진지한"
+        },
+        {
+          "en": "Chinese",
+          "ko": "중국인"
+        },
+        {
+          "en": "tear",
+          "ko": "찢다"
+        },
+        {
+          "en": "violet",
+          "ko": "보라색"
+        },
+        {
+          "en": "costly",
+          "ko": "값비싼"
+        },
+        {
+          "en": "client",
+          "ko": "고객"
+        },
+        {
+          "en": "stay",
+          "ko": "머무르다"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "words": [
+        {
+          "en": "style",
+          "ko": "방식"
+        },
+        {
+          "en": "cloth",
+          "ko": "옷감"
+        },
+        {
+          "en": "solid",
+          "ko": "고체"
+        },
+        {
+          "en": "even",
+          "ko": "~조차도"
+        },
+        {
+          "en": "along",
+          "ko": "~을 따라서"
+        },
+        {
+          "en": "aware",
+          "ko": "의식하는"
+        },
+        {
+          "en": "concern",
+          "ko": "관심"
+        },
+        {
+          "en": "fortune",
+          "ko": "재산"
+        },
+        {
+          "en": "public",
+          "ko": "대중"
+        },
+        {
+          "en": "global",
+          "ko": "지구의"
+        },
+        {
+          "en": "passport",
+          "ko": "여권"
+        },
+        {
+          "en": "textbook",
+          "ko": "교과서"
+        },
+        {
+          "en": "weight",
+          "ko": "무게"
+        },
+        {
+          "en": "bear",
+          "ko": "참다"
+        },
+        {
+          "en": "keep",
+          "ko": "유지하다"
+        },
+        {
+          "en": "coal",
+          "ko": "석탄"
+        },
+        {
+          "en": "freeze",
+          "ko": "얼다"
+        },
+        {
+          "en": "auction",
+          "ko": "경매"
+        },
+        {
+          "en": "wrap",
+          "ko": "포장하다"
+        },
+        {
+          "en": "brick",
+          "ko": "벽돌"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "words": [
+        {
+          "en": "inform",
+          "ko": "통지하다"
+        },
+        {
+          "en": "stage",
+          "ko": "무대"
+        },
+        {
+          "en": "hardly",
+          "ko": "거의 ~하지 않다"
+        },
+        {
+          "en": "beard",
+          "ko": "턱수염"
+        },
+        {
+          "en": "agency",
+          "ko": "대리점"
+        },
+        {
+          "en": "therefore",
+          "ko": "그러므로"
+        },
+        {
+          "en": "national",
+          "ko": "국민의"
+        },
+        {
+          "en": "steal",
+          "ko": "훔치다"
+        },
+        {
+          "en": "barn",
+          "ko": "헛간"
+        },
+        {
+          "en": "bold",
+          "ko": "과감한"
+        },
+        {
+          "en": "chew",
+          "ko": "씹다"
+        },
+        {
+          "en": "suddenly",
+          "ko": "갑자기"
+        },
+        {
+          "en": "combine",
+          "ko": "결합하다"
+        },
+        {
+          "en": "atom",
+          "ko": "원자"
+        },
+        {
+          "en": "grade",
+          "ko": "학년"
+        },
+        {
+          "en": "critic",
+          "ko": "비평가"
+        },
+        {
+          "en": "blank",
+          "ko": "빈"
+        },
+        {
+          "en": "astonish",
+          "ko": "놀라게 하다"
+        },
+        {
+          "en": "incentive",
+          "ko": "장려책"
+        },
+        {
+          "en": "animation",
+          "ko": "만화 영화"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "words": [
+        {
+          "en": "tight",
+          "ko": "꽉 조이는"
+        },
+        {
+          "en": "bud",
+          "ko": "싹"
+        },
+        {
+          "en": "difficult",
+          "ko": "어려운"
+        },
+        {
+          "en": "spend",
+          "ko": "쓰다"
+        },
+        {
+          "en": "chilly",
+          "ko": "추운"
+        },
+        {
+          "en": "ironic",
+          "ko": "모순적인"
+        },
+        {
+          "en": "director",
+          "ko": "감독"
+        },
+        {
+          "en": "annoy",
+          "ko": "짜증나게 하다"
+        },
+        {
+          "en": "check",
+          "ko": "확인하다"
+        },
+        {
+          "en": "unless",
+          "ko": "~하지 않으면"
+        },
+        {
+          "en": "tough",
+          "ko": "힘든"
+        },
+        {
+          "en": "amaze",
+          "ko": "놀라게 하다"
+        },
+        {
+          "en": "extra",
+          "ko": "여분의"
+        },
+        {
+          "en": "attitude",
+          "ko": "태도"
+        },
+        {
+          "en": "unique",
+          "ko": "독특한"
+        },
+        {
+          "en": "audience",
+          "ko": "청중"
+        },
+        {
+          "en": "memorable",
+          "ko": "기억할 만한"
+        },
+        {
+          "en": "cozy",
+          "ko": "아늑한"
+        },
+        {
+          "en": "active",
+          "ko": "적극적인"
+        },
+        {
+          "en": "indeed",
+          "ko": "정말"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "words": [
+        {
+          "en": "uniform",
+          "ko": "교복"
+        },
+        {
+          "en": "applaud",
+          "ko": "박수를 치다"
+        },
+        {
+          "en": "scream",
+          "ko": "소리치다"
+        },
+        {
+          "en": "awesome",
+          "ko": "훌륭한"
+        },
+        {
+          "en": "divide",
+          "ko": "나누다"
+        },
+        {
+          "en": "few",
+          "ko": "적은"
+        },
+        {
+          "en": "responsibility",
+          "ko": "책임"
+        },
+        {
+          "en": "universe",
+          "ko": "우주"
+        },
+        {
+          "en": "concept",
+          "ko": "개념"
+        },
+        {
+          "en": "demand",
+          "ko": "요구하다"
+        },
+        {
+          "en": "moderate",
+          "ko": "적당한"
+        },
+        {
+          "en": "flight",
+          "ko": "비행"
+        },
+        {
+          "en": "concerned",
+          "ko": "걱정스러운"
+        },
+        {
+          "en": "statistics",
+          "ko": "통계학"
+        },
+        {
+          "en": "anxiety",
+          "ko": "불안"
+        },
+        {
+          "en": "hang",
+          "ko": "매달리다"
+        },
+        {
+          "en": "argue",
+          "ko": "논쟁하다"
+        },
+        {
+          "en": "everything",
+          "ko": "모든 것"
+        },
+        {
+          "en": "fit",
+          "ko": "어울리다"
+        },
+        {
+          "en": "freezing",
+          "ko": "몹시 추운"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "words": [
+        {
+          "en": "afford",
+          "ko": "~할 여유가 있다"
+        },
+        {
+          "en": "shave",
+          "ko": "면도하다"
+        },
+        {
+          "en": "amount",
+          "ko": "~에 달하다"
+        },
+        {
+          "en": "false",
+          "ko": "틀린"
+        },
+        {
+          "en": "female",
+          "ko": "여성의"
+        },
+        {
+          "en": "stadium",
+          "ko": "경기장"
+        },
+        {
+          "en": "barber",
+          "ko": "이발사"
+        },
+        {
+          "en": "couple",
+          "ko": "부부"
+        },
+        {
+          "en": "assemble",
+          "ko": "조립하다"
+        },
+        {
+          "en": "everlasting",
+          "ko": "영원한"
+        },
+        {
+          "en": "offer",
+          "ko": "제공하다"
+        },
+        {
+          "en": "dot",
+          "ko": "점"
+        },
+        {
+          "en": "hydrogen",
+          "ko": "수소"
+        },
+        {
+          "en": "paragraph",
+          "ko": "단락"
+        },
+        {
+          "en": "obey",
+          "ko": "순종하다"
+        },
+        {
+          "en": "character",
+          "ko": "특징"
+        },
+        {
+          "en": "odd",
+          "ko": "이상한"
+        },
+        {
+          "en": "audible",
+          "ko": "귀에 들리는"
+        },
+        {
+          "en": "physics",
+          "ko": "물리학"
+        },
+        {
+          "en": "foreign",
+          "ko": "외국의"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "words": [
+        {
+          "en": "cancer",
+          "ko": "암"
+        },
+        {
+          "en": "show",
+          "ko": "보여주다"
+        },
+        {
+          "en": "geology",
+          "ko": "지질학"
+        },
+        {
+          "en": "careless",
+          "ko": "부주의한"
+        },
+        {
+          "en": "league",
+          "ko": "연맹"
+        },
+        {
+          "en": "side",
+          "ko": "면"
+        },
+        {
+          "en": "await",
+          "ko": "기다리다"
+        },
+        {
+          "en": "criticize",
+          "ko": "비판하다"
+        },
+        {
+          "en": "agent",
+          "ko": "대리인"
+        },
+        {
+          "en": "bit",
+          "ko": "작은 조각"
+        },
+        {
+          "en": "wall",
+          "ko": "벽"
+        },
+        {
+          "en": "increase",
+          "ko": "증가하다"
+        },
+        {
+          "en": "prove",
+          "ko": "증명하다"
+        },
+        {
+          "en": "empty",
+          "ko": "텅 빈"
+        },
+        {
+          "en": "field",
+          "ko": "분야"
+        },
+        {
+          "en": "update",
+          "ko": "갱신"
+        },
+        {
+          "en": "ahead",
+          "ko": "앞으로"
+        },
+        {
+          "en": "section",
+          "ko": "부분"
+        },
+        {
+          "en": "surprise",
+          "ko": "놀라게 하다"
+        },
+        {
+          "en": "valley",
+          "ko": "계곡"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "words": [
+        {
+          "en": "borrow",
+          "ko": "빌리다"
+        },
+        {
+          "en": "suggestion",
+          "ko": "제안"
+        },
+        {
+          "en": "within",
+          "ko": "~이내에"
+        },
+        {
+          "en": "bloom",
+          "ko": "꽃을 피우다"
+        },
+        {
+          "en": "instead",
+          "ko": "대신에"
+        },
+        {
+          "en": "previous",
+          "ko": "이전의"
+        },
+        {
+          "en": "drawer",
+          "ko": "서랍"
+        },
+        {
+          "en": "equipment",
+          "ko": "장비"
+        },
+        {
+          "en": "avoid",
+          "ko": "피하다"
+        },
+        {
+          "en": "certain",
+          "ko": "특정한"
+        },
+        {
+          "en": "fusion",
+          "ko": "융합"
+        },
+        {
+          "en": "chef",
+          "ko": "요리사"
+        },
+        {
+          "en": "polite",
+          "ko": "예의 바른"
+        },
+        {
+          "en": "swear",
+          "ko": "맹세하다"
+        },
+        {
+          "en": "career",
+          "ko": "경력"
+        },
+        {
+          "en": "horror",
+          "ko": "공포"
+        },
+        {
+          "en": "thought",
+          "ko": "생각"
+        },
+        {
+          "en": "crown",
+          "ko": "왕관"
+        },
+        {
+          "en": "reaction",
+          "ko": "반응"
+        },
+        {
+          "en": "application",
+          "ko": "적용"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "words": [
+        {
+          "en": "genetic",
+          "ko": "유전적인"
+        },
+        {
+          "en": "prepare",
+          "ko": "준비하다"
+        },
+        {
+          "en": "form",
+          "ko": "형태"
+        },
+        {
+          "en": "ache",
+          "ko": "아픔"
+        },
+        {
+          "en": "principal",
+          "ko": "교장"
+        },
+        {
+          "en": "discover",
+          "ko": "발견하다"
+        },
+        {
+          "en": "fantasy",
+          "ko": "공상"
+        },
+        {
+          "en": "apart",
+          "ko": "따로"
+        },
+        {
+          "en": "cheat",
+          "ko": "속이다"
+        },
+        {
+          "en": "amazing",
+          "ko": "놀랄만한"
+        },
+        {
+          "en": "acquire",
+          "ko": "얻다"
+        },
+        {
+          "en": "daydream",
+          "ko": "공상하다"
+        },
+        {
+          "en": "luxury",
+          "ko": "호화로움"
+        },
+        {
+          "en": "clockwise",
+          "ko": "시계 방향으로"
+        },
+        {
+          "en": "against",
+          "ko": "~에 반대하여"
+        },
+        {
+          "en": "hold",
+          "ko": "잡고 있다"
+        },
+        {
+          "en": "politician",
+          "ko": "정치가"
+        },
+        {
+          "en": "billion",
+          "ko": "십억"
+        },
+        {
+          "en": "assume",
+          "ko": "가정하다"
+        },
+        {
+          "en": "yet",
+          "ko": "아직"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "words": [
+        {
+          "en": "evident",
+          "ko": "명백한"
+        },
+        {
+          "en": "cleanse",
+          "ko": "세척하다"
+        },
+        {
+          "en": "conquer",
+          "ko": "정복하다"
+        },
+        {
+          "en": "fill",
+          "ko": "채우다"
+        },
+        {
+          "en": "invent",
+          "ko": "발명하다"
+        },
+        {
+          "en": "disadvantage",
+          "ko": "불리한 점"
+        },
+        {
+          "en": "cancel",
+          "ko": "취소하다"
+        },
+        {
+          "en": "bundle",
+          "ko": "다발"
+        },
+        {
+          "en": "nearly",
+          "ko": "거의"
+        },
+        {
+          "en": "seldom",
+          "ko": "좀처럼 ~ 않는"
+        },
+        {
+          "en": "assess",
+          "ko": "평가하다"
+        },
+        {
+          "en": "electricity",
+          "ko": "전기"
+        },
+        {
+          "en": "article",
+          "ko": "기사"
+        },
+        {
+          "en": "newborn",
+          "ko": "갓 태어난"
+        },
+        {
+          "en": "focus",
+          "ko": "초점"
+        },
+        {
+          "en": "bilingual",
+          "ko": "이중 언어의"
+        },
+        {
+          "en": "alike",
+          "ko": "비슷한"
+        },
+        {
+          "en": "clown",
+          "ko": "어릿광대"
+        },
+        {
+          "en": "evil",
+          "ko": "악"
+        },
+        {
+          "en": "literate",
+          "ko": "읽고 쓸 줄 아는"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "words": [
+        {
+          "en": "swan",
+          "ko": "백조"
+        },
+        {
+          "en": "fold",
+          "ko": "접다"
+        },
+        {
+          "en": "recycling",
+          "ko": "재활용"
+        },
+        {
+          "en": "pillow",
+          "ko": "베개"
+        },
+        {
+          "en": "soup",
+          "ko": "국"
+        },
+        {
+          "en": "industry",
+          "ko": "산업"
+        },
+        {
+          "en": "slave",
+          "ko": "노예"
+        },
+        {
+          "en": "careful",
+          "ko": "주의깊은"
+        },
+        {
+          "en": "civil",
+          "ko": "시민의"
+        },
+        {
+          "en": "elbow",
+          "ko": "팔꿈치"
+        },
+        {
+          "en": "barrier",
+          "ko": "장벽"
+        },
+        {
+          "en": "courage",
+          "ko": "용기"
+        },
+        {
+          "en": "bury",
+          "ko": "매장하다"
+        },
+        {
+          "en": "rank",
+          "ko": "등급"
+        },
+        {
+          "en": "atmosphere",
+          "ko": "분위기"
+        },
+        {
+          "en": "desire",
+          "ko": "바라다"
+        },
+        {
+          "en": "boredom",
+          "ko": "지루함"
+        },
+        {
+          "en": "prize",
+          "ko": "상"
+        },
+        {
+          "en": "remodel",
+          "ko": "개조하다"
+        },
+        {
+          "en": "awkward",
+          "ko": "어색한"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "words": [
+        {
+          "en": "pay",
+          "ko": "지불하다"
+        },
+        {
+          "en": "colony",
+          "ko": "식민지"
+        },
+        {
+          "en": "choose",
+          "ko": "고르다"
+        },
+        {
+          "en": "genius",
+          "ko": "천재"
+        },
+        {
+          "en": "shy",
+          "ko": "수줍어하는"
+        },
+        {
+          "en": "carry",
+          "ko": "나르다"
+        },
+        {
+          "en": "crowded",
+          "ko": "붐비는"
+        },
+        {
+          "en": "junior",
+          "ko": "손아래의"
+        },
+        {
+          "en": "astrology",
+          "ko": "점성학"
+        },
+        {
+          "en": "impression",
+          "ko": "인상"
+        },
+        {
+          "en": "sorrow",
+          "ko": "슬픔"
+        },
+        {
+          "en": "medical",
+          "ko": "의학의"
+        },
+        {
+          "en": "blood",
+          "ko": "피"
+        },
+        {
+          "en": "issue",
+          "ko": "쟁점"
+        },
+        {
+          "en": "manager",
+          "ko": "관리자"
+        },
+        {
+          "en": "zone",
+          "ko": "지역"
+        },
+        {
+          "en": "until",
+          "ko": "~까지"
+        },
+        {
+          "en": "budget",
+          "ko": "예산"
+        },
+        {
+          "en": "effective",
+          "ko": "효과적인"
+        },
+        {
+          "en": "alter",
+          "ko": "변경하다"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "words": [
+        {
+          "en": "nearby",
+          "ko": "인근의"
+        },
+        {
+          "en": "goal",
+          "ko": "목표"
+        },
+        {
+          "en": "breathe",
+          "ko": "숨을 쉬다"
+        },
+        {
+          "en": "seafood",
+          "ko": "해산물"
+        },
+        {
+          "en": "emotion",
+          "ko": "감정"
+        },
+        {
+          "en": "duty",
+          "ko": "의무"
+        },
+        {
+          "en": "bi-monthly",
+          "ko": "격월의"
+        },
+        {
+          "en": "device",
+          "ko": "장치"
+        },
+        {
+          "en": "recycle",
+          "ko": "재활용하다"
+        },
+        {
+          "en": "dessert",
+          "ko": "후식"
+        },
+        {
+          "en": "drama",
+          "ko": "연극"
+        },
+        {
+          "en": "cure",
+          "ko": "치료하다"
+        },
+        {
+          "en": "laughter",
+          "ko": "웃음"
+        },
+        {
+          "en": "record",
+          "ko": "기록하다"
+        },
+        {
+          "en": "chore",
+          "ko": "집안일"
+        },
+        {
+          "en": "custom",
+          "ko": "관습"
+        },
+        {
+          "en": "toward",
+          "ko": "~쪽으로"
+        },
+        {
+          "en": "arctic",
+          "ko": "북극의"
+        },
+        {
+          "en": "honor",
+          "ko": "영광"
+        },
+        {
+          "en": "share",
+          "ko": "공유하다"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "words": [
+        {
+          "en": "raw",
+          "ko": "날것의"
+        },
+        {
+          "en": "dig",
+          "ko": "파다"
+        },
+        {
+          "en": "correct",
+          "ko": "정확한"
+        },
+        {
+          "en": "square",
+          "ko": "정사각형"
+        },
+        {
+          "en": "burn",
+          "ko": "연소하다"
+        },
+        {
+          "en": "host",
+          "ko": "주최하다"
+        },
+        {
+          "en": "local",
+          "ko": "지역의"
+        },
+        {
+          "en": "capacity",
+          "ko": "능력"
+        },
+        {
+          "en": "attend",
+          "ko": "참석하다"
+        },
+        {
+          "en": "colorful",
+          "ko": "다채로운"
+        },
+        {
+          "en": "though",
+          "ko": "비록 ~이지만"
+        },
+        {
+          "en": "zipper",
+          "ko": "지퍼"
+        },
+        {
+          "en": "smoke",
+          "ko": "연기"
+        },
+        {
+          "en": "attract",
+          "ko": "끌어들이다"
+        },
+        {
+          "en": "freedom",
+          "ko": "자유"
+        },
+        {
+          "en": "shuttle",
+          "ko": "우주선"
+        },
+        {
+          "en": "consume",
+          "ko": "소모하다"
+        },
+        {
+          "en": "lift",
+          "ko": "들어 올리다"
+        },
+        {
+          "en": "command",
+          "ko": "명령하다"
+        },
+        {
+          "en": "envy",
+          "ko": "부러워하다"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "words": [
+        {
+          "en": "since",
+          "ko": "~이래로"
+        },
+        {
+          "en": "bring",
+          "ko": "가져오다"
+        },
+        {
+          "en": "belong",
+          "ko": "속하다"
+        },
+        {
+          "en": "develop",
+          "ko": "발전하다"
+        },
+        {
+          "en": "vocabulary",
+          "ko": "어휘"
+        },
+        {
+          "en": "neighbor",
+          "ko": "이웃"
+        },
+        {
+          "en": "downstairs",
+          "ko": "아래층"
+        },
+        {
+          "en": "customer",
+          "ko": "고객"
+        },
+        {
+          "en": "forehead",
+          "ko": "이마"
+        },
+        {
+          "en": "effort",
+          "ko": "노력"
+        },
+        {
+          "en": "behind",
+          "ko": "~뒤에"
+        },
+        {
+          "en": "border",
+          "ko": "경계"
+        },
+        {
+          "en": "psychologist",
+          "ko": "심리학자"
+        },
+        {
+          "en": "throw",
+          "ko": "던지다"
+        },
+        {
+          "en": "college",
+          "ko": "대학"
+        },
+        {
+          "en": "sail",
+          "ko": "항해하다"
+        },
+        {
+          "en": "cosmos",
+          "ko": "우주"
+        },
+        {
+          "en": "appear",
+          "ko": "나타나다"
+        },
+        {
+          "en": "snack",
+          "ko": "간식"
+        },
+        {
+          "en": "aim",
+          "ko": "목표"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "words": [
+        {
+          "en": "memorize",
+          "ko": "기억하다"
+        },
+        {
+          "en": "literal",
+          "ko": "글자 그대로의"
+        },
+        {
+          "en": "join",
+          "ko": "가입하다"
+        },
+        {
+          "en": "traditional",
+          "ko": "전통적인"
+        },
+        {
+          "en": "consider",
+          "ko": "고려하다"
+        },
+        {
+          "en": "achieve",
+          "ko": "성취하다"
+        },
+        {
+          "en": "stationery",
+          "ko": "문구류"
+        },
+        {
+          "en": "Atlantic",
+          "ko": "대서양"
+        },
+        {
+          "en": "pack",
+          "ko": "포장하다"
+        },
+        {
+          "en": "meaningful",
+          "ko": "의미 있는"
+        },
+        {
+          "en": "depression",
+          "ko": "우울"
+        },
+        {
+          "en": "sensor",
+          "ko": "감지기"
+        },
+        {
+          "en": "trash",
+          "ko": "쓰레기"
+        },
+        {
+          "en": "convey",
+          "ko": "전하다"
+        },
+        {
+          "en": "text",
+          "ko": "본문"
+        },
+        {
+          "en": "beneficial",
+          "ko": "이로운"
+        },
+        {
+          "en": "scene",
+          "ko": "장면"
+        },
+        {
+          "en": "workplace",
+          "ko": "직장"
+        },
+        {
+          "en": "familiar",
+          "ko": "친숙한"
+        },
+        {
+          "en": "linguistics",
+          "ko": "언어학"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "words": [
+        {
+          "en": "complex",
+          "ko": "복잡한"
+        },
+        {
+          "en": "scale",
+          "ko": "규모"
+        },
+        {
+          "en": "cabbage",
+          "ko": "양배추"
+        },
+        {
+          "en": "concentration",
+          "ko": "집중"
+        },
+        {
+          "en": "cinema",
+          "ko": "영화"
+        },
+        {
+          "en": "obedient",
+          "ko": "순종하는"
+        },
+        {
+          "en": "grammar",
+          "ko": "문법"
+        },
+        {
+          "en": "assert",
+          "ko": "주장하다"
+        },
+        {
+          "en": "site",
+          "ko": "위치"
+        },
+        {
+          "en": "improve",
+          "ko": "개선하다"
+        },
+        {
+          "en": "chart",
+          "ko": "도표"
+        },
+        {
+          "en": "practice",
+          "ko": "연습하다"
+        },
+        {
+          "en": "teenage",
+          "ko": "십대의"
+        },
+        {
+          "en": "tip",
+          "ko": "조언"
+        },
+        {
+          "en": "soy",
+          "ko": "콩"
+        },
+        {
+          "en": "congratulation",
+          "ko": "축하"
+        },
+        {
+          "en": "view",
+          "ko": "견해"
+        },
+        {
+          "en": "healing",
+          "ko": "치료"
+        },
+        {
+          "en": "cabin",
+          "ko": "오두막"
+        },
+        {
+          "en": "tray",
+          "ko": "쟁반"
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "words": [
+        {
+          "en": "bake",
+          "ko": "굽다"
+        },
+        {
+          "en": "counselor",
+          "ko": "상담사"
+        },
+        {
+          "en": "accurate",
+          "ko": "정확한"
+        },
+        {
+          "en": "unable",
+          "ko": "~할 수 없는"
+        },
+        {
+          "en": "ban",
+          "ko": "금지하다"
+        },
+        {
+          "en": "shameful",
+          "ko": "부끄러운"
+        },
+        {
+          "en": "surface",
+          "ko": "표면"
+        },
+        {
+          "en": "arrest",
+          "ko": "체포하다"
+        },
+        {
+          "en": "golden",
+          "ko": "금빛의"
+        },
+        {
+          "en": "information",
+          "ko": "정보"
+        },
+        {
+          "en": "essay",
+          "ko": "수필"
+        },
+        {
+          "en": "someday",
+          "ko": "언젠가"
+        },
+        {
+          "en": "deal",
+          "ko": "다루다"
+        },
+        {
+          "en": "weigh",
+          "ko": "무게가 나가다"
+        },
+        {
+          "en": "tower",
+          "ko": "탑"
+        },
+        {
+          "en": "labor",
+          "ko": "노동"
+        },
+        {
+          "en": "sometimes",
+          "ko": "가끔"
+        },
+        {
+          "en": "forever",
+          "ko": "영원히"
+        },
+        {
+          "en": "impatient",
+          "ko": "참을성 없는"
+        },
+        {
+          "en": "unbelievable",
+          "ko": "믿을 수 없는"
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "words": [
+        {
+          "en": "happen",
+          "ko": "일어나다"
+        },
+        {
+          "en": "designer",
+          "ko": "설계자"
+        },
+        {
+          "en": "iceberg",
+          "ko": "빙산"
+        },
+        {
+          "en": "palace",
+          "ko": "궁전"
+        },
+        {
+          "en": "Pacific",
+          "ko": "태평양"
+        },
+        {
+          "en": "explanation",
+          "ko": "설명"
+        },
+        {
+          "en": "convenience",
+          "ko": "편리함"
+        },
+        {
+          "en": "review",
+          "ko": "복습하다"
+        },
+        {
+          "en": "automobile",
+          "ko": "자동차"
+        },
+        {
+          "en": "around",
+          "ko": "~ 주위에"
+        },
+        {
+          "en": "crime",
+          "ko": "죄"
+        },
+        {
+          "en": "warmhearted",
+          "ko": "마음이 따뜻한"
+        },
+        {
+          "en": "bleed",
+          "ko": "피를 흘리다"
+        },
+        {
+          "en": "broad",
+          "ko": "넓은"
+        },
+        {
+          "en": "knock",
+          "ko": "두드리다"
+        },
+        {
+          "en": "ash",
+          "ko": "재"
+        },
+        {
+          "en": "foggy",
+          "ko": "안개가 낀"
+        },
+        {
+          "en": "cube",
+          "ko": "정육면체"
+        },
+        {
+          "en": "comfort",
+          "ko": "편안함"
+        },
+        {
+          "en": "symbol",
+          "ko": "상징"
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "words": [
+        {
+          "en": "bill",
+          "ko": "법안"
+        },
+        {
+          "en": "clay",
+          "ko": "찰흙"
+        },
+        {
+          "en": "introduce",
+          "ko": "소개하다"
+        },
+        {
+          "en": "surprised",
+          "ko": "놀란"
+        },
+        {
+          "en": "clearly",
+          "ko": "분명히"
+        },
+        {
+          "en": "attention",
+          "ko": "주목"
+        },
+        {
+          "en": "perhaps",
+          "ko": "아마도"
+        },
+        {
+          "en": "assign",
+          "ko": "할당하다"
+        },
+        {
+          "en": "chat",
+          "ko": "수다 떨다"
+        },
+        {
+          "en": "chest",
+          "ko": "가슴"
+        },
+        {
+          "en": "invite",
+          "ko": "초대하다"
+        },
+        {
+          "en": "vase",
+          "ko": "꽃병"
+        },
+        {
+          "en": "debate",
+          "ko": "토론"
+        },
+        {
+          "en": "scholarship",
+          "ko": "장학금"
+        },
+        {
+          "en": "clothes",
+          "ko": "옷"
+        },
+        {
+          "en": "carbon",
+          "ko": "탄소"
+        },
+        {
+          "en": "attempt",
+          "ko": "시도하다"
+        },
+        {
+          "en": "clerk",
+          "ko": "사무원"
+        },
+        {
+          "en": "survival",
+          "ko": "생존"
+        },
+        {
+          "en": "hop",
+          "ko": "뛰다"
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "words": [
+        {
+          "en": "care",
+          "ko": "보살피다"
+        },
+        {
+          "en": "candidate",
+          "ko": "후보자"
+        },
+        {
+          "en": "carriage",
+          "ko": "마차"
+        },
+        {
+          "en": "available",
+          "ko": "이용 가능한"
+        },
+        {
+          "en": "gear",
+          "ko": "장비"
+        },
+        {
+          "en": "respect",
+          "ko": "존중하다"
+        },
+        {
+          "en": "approach",
+          "ko": "다가오다"
+        },
+        {
+          "en": "arise",
+          "ko": "발생하다"
+        },
+        {
+          "en": "banner",
+          "ko": "현수막"
+        },
+        {
+          "en": "reveal",
+          "ko": "드러내다"
+        },
+        {
+          "en": "auditory",
+          "ko": "청각의"
+        },
+        {
+          "en": "present",
+          "ko": "현재의"
+        },
+        {
+          "en": "backpack",
+          "ko": "배낭"
+        },
+        {
+          "en": "economics",
+          "ko": "경제학"
+        },
+        {
+          "en": "soap",
+          "ko": "비누"
+        },
+        {
+          "en": "feed",
+          "ko": "먹이다"
+        },
+        {
+          "en": "past",
+          "ko": "과거"
+        },
+        {
+          "en": "dinosaur",
+          "ko": "공룡"
+        },
+        {
+          "en": "strength",
+          "ko": "힘"
+        },
+        {
+          "en": "absence",
+          "ko": "부재"
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "words": [
+        {
+          "en": "attendant",
+          "ko": "안내원"
+        },
+        {
+          "en": "pass",
+          "ko": "통과하다"
+        },
+        {
+          "en": "country",
+          "ko": "나라"
+        },
+        {
+          "en": "soil",
+          "ko": "흙"
+        },
+        {
+          "en": "destroy",
+          "ko": "파괴하다"
+        },
+        {
+          "en": "confident",
+          "ko": "자신감이 있는"
+        },
+        {
+          "en": "jaw",
+          "ko": "턱"
+        },
+        {
+          "en": "fear",
+          "ko": "두려움"
+        },
+        {
+          "en": "type",
+          "ko": "종류"
+        },
+        {
+          "en": "soul",
+          "ko": "영혼"
+        },
+        {
+          "en": "deaf",
+          "ko": "귀가 먹은"
+        },
+        {
+          "en": "million",
+          "ko": "백만"
+        },
+        {
+          "en": "supply",
+          "ko": "공급하다"
+        },
+        {
+          "en": "highly",
+          "ko": "매우"
+        },
+        {
+          "en": "although",
+          "ko": "비록 ~이지만"
+        },
+        {
+          "en": "straight",
+          "ko": "곧은"
+        },
+        {
+          "en": "compass",
+          "ko": "나침반"
+        },
+        {
+          "en": "deliver",
+          "ko": "배달하다"
+        },
+        {
+          "en": "hate",
+          "ko": "싫어하다"
+        },
+        {
+          "en": "attain",
+          "ko": "달성하다"
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "words": [
+        {
+          "en": "daycare",
+          "ko": "보육의"
+        },
+        {
+          "en": "during",
+          "ko": "~하는 동안"
+        },
+        {
+          "en": "arena",
+          "ko": "경기장"
+        },
+        {
+          "en": "poem",
+          "ko": "시"
+        },
+        {
+          "en": "ideal",
+          "ko": "이상적인"
+        },
+        {
+          "en": "else",
+          "ko": "그 밖의"
+        },
+        {
+          "en": "rest",
+          "ko": "쉬다"
+        },
+        {
+          "en": "attendance",
+          "ko": "출석"
+        },
+        {
+          "en": "timetable",
+          "ko": "시간표"
+        },
+        {
+          "en": "saying",
+          "ko": "말"
+        },
+        {
+          "en": "talent",
+          "ko": "재능"
+        },
+        {
+          "en": "performance",
+          "ko": "공연"
+        },
+        {
+          "en": "scared",
+          "ko": "겁먹은"
+        },
+        {
+          "en": "stir",
+          "ko": "휘젓다"
+        },
+        {
+          "en": "recently",
+          "ko": "최근에"
+        },
+        {
+          "en": "slightly",
+          "ko": "조금"
+        },
+        {
+          "en": "common",
+          "ko": "공통의"
+        },
+        {
+          "en": "seem",
+          "ko": "~처럼 보이다"
+        },
+        {
+          "en": "data",
+          "ko": "자료"
+        },
+        {
+          "en": "except",
+          "ko": "~를 제외하고"
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "words": [
+        {
+          "en": "bite",
+          "ko": "물다"
+        },
+        {
+          "en": "fin",
+          "ko": "지느러미"
+        },
+        {
+          "en": "adventure",
+          "ko": "모험"
+        },
+        {
+          "en": "frequently",
+          "ko": "자주"
+        },
+        {
+          "en": "producer",
+          "ko": "제작자"
+        },
+        {
+          "en": "fan",
+          "ko": "선풍기"
+        },
+        {
+          "en": "fry",
+          "ko": "기름에 튀기다"
+        },
+        {
+          "en": "dear",
+          "ko": "사랑하는"
+        },
+        {
+          "en": "firefighter",
+          "ko": "소방관"
+        },
+        {
+          "en": "create",
+          "ko": "창조하다"
+        },
+        {
+          "en": "slim",
+          "ko": "날씬한"
+        },
+        {
+          "en": "average",
+          "ko": "평균"
+        },
+        {
+          "en": "relax",
+          "ko": "쉬다"
+        },
+        {
+          "en": "moment",
+          "ko": "순간"
+        },
+        {
+          "en": "habitual",
+          "ko": "습관적인"
+        },
+        {
+          "en": "contain",
+          "ko": "포함하다"
+        },
+        {
+          "en": "author",
+          "ko": "저자"
+        },
+        {
+          "en": "conversation",
+          "ko": "대화"
+        },
+        {
+          "en": "counsel",
+          "ko": "상담하다"
+        },
+        {
+          "en": "bet",
+          "ko": "확신하다"
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "words": [
+        {
+          "en": "manage",
+          "ko": "경영하다"
+        },
+        {
+          "en": "lifetime",
+          "ko": "일생"
+        },
+        {
+          "en": "claim",
+          "ko": "주장하다"
+        },
+        {
+          "en": "point",
+          "ko": "지적하다"
+        },
+        {
+          "en": "tragic",
+          "ko": "비극적인"
+        },
+        {
+          "en": "endless",
+          "ko": "무한한"
+        },
+        {
+          "en": "clever",
+          "ko": "영리한"
+        },
+        {
+          "en": "delivery",
+          "ko": "배달"
+        },
+        {
+          "en": "university",
+          "ko": "대학교"
+        },
+        {
+          "en": "almost",
+          "ko": "거의"
+        },
+        {
+          "en": "besides",
+          "ko": "~ 외에"
+        },
+        {
+          "en": "cartoon",
+          "ko": "만화"
+        },
+        {
+          "en": "vast",
+          "ko": "광대한"
+        },
+        {
+          "en": "powerful",
+          "ko": "강력한"
+        },
+        {
+          "en": "admit",
+          "ko": "인정하다"
+        },
+        {
+          "en": "dead",
+          "ko": "죽은"
+        },
+        {
+          "en": "disagree",
+          "ko": "반대하다"
+        },
+        {
+          "en": "spark",
+          "ko": "불꽃"
+        },
+        {
+          "en": "autograph",
+          "ko": "사인"
+        },
+        {
+          "en": "bottom",
+          "ko": "밑바닥"
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "words": [
+        {
+          "en": "reply",
+          "ko": "대답하다"
+        },
+        {
+          "en": "solve",
+          "ko": "풀다"
+        },
+        {
+          "en": "gap",
+          "ko": "간격"
+        },
+        {
+          "en": "wonder",
+          "ko": "궁금해하다"
+        },
+        {
+          "en": "angle",
+          "ko": "각도"
+        },
+        {
+          "en": "zealous",
+          "ko": "열성적인"
+        },
+        {
+          "en": "buddy",
+          "ko": "친구"
+        },
+        {
+          "en": "compete",
+          "ko": "경쟁하다"
+        },
+        {
+          "en": "blow",
+          "ko": "불다"
+        },
+        {
+          "en": "relaxation",
+          "ko": "휴식"
+        },
+        {
+          "en": "among",
+          "ko": "~의 사이에"
+        },
+        {
+          "en": "floor",
+          "ko": "바닥"
+        },
+        {
+          "en": "historian",
+          "ko": "역사학자"
+        },
+        {
+          "en": "disappoint",
+          "ko": "실망시키다"
+        },
+        {
+          "en": "pronounce",
+          "ko": "발음하다"
+        },
+        {
+          "en": "education",
+          "ko": "교육"
+        },
+        {
+          "en": "conclude",
+          "ko": "결론을 내리다"
+        },
+        {
+          "en": "refresh",
+          "ko": "상쾌하게 하다"
+        },
+        {
+          "en": "adopt",
+          "ko": "채택하다"
+        },
+        {
+          "en": "across",
+          "ko": "가로질러"
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "words": [
+        {
+          "en": "photocopy",
+          "ko": "사진 복사물"
+        },
+        {
+          "en": "flower",
+          "ko": "꽃"
+        },
+        {
+          "en": "capture",
+          "ko": "붙잡다"
+        },
+        {
+          "en": "glory",
+          "ko": "영광"
+        },
+        {
+          "en": "pace",
+          "ko": "속도"
+        },
+        {
+          "en": "weapon",
+          "ko": "무기"
+        },
+        {
+          "en": "crocodile",
+          "ko": "악어"
+        },
+        {
+          "en": "top",
+          "ko": "꼭대기"
+        },
+        {
+          "en": "connect",
+          "ko": "연결하다"
+        },
+        {
+          "en": "regret",
+          "ko": "후회하다"
+        },
+        {
+          "en": "result",
+          "ko": "결과"
+        },
+        {
+          "en": "frighten",
+          "ko": "겁먹게 하다"
+        },
+        {
+          "en": "graduation",
+          "ko": "졸업"
+        },
+        {
+          "en": "bark",
+          "ko": "짖다"
+        },
+        {
+          "en": "period",
+          "ko": "기간"
+        },
+        {
+          "en": "wake",
+          "ko": "깨다"
+        },
+        {
+          "en": "opinion",
+          "ko": "의견"
+        },
+        {
+          "en": "shorten",
+          "ko": "짧게 하다"
+        },
+        {
+          "en": "cave",
+          "ko": "동굴"
+        },
+        {
+          "en": "astronaut",
+          "ko": "우주 비행사"
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "words": [
+        {
+          "en": "tattoo",
+          "ko": "문신"
+        },
+        {
+          "en": "pine",
+          "ko": "소나무"
+        },
+        {
+          "en": "vend",
+          "ko": "팔다"
+        },
+        {
+          "en": "Celsius",
+          "ko": "섭씨"
+        },
+        {
+          "en": "fee",
+          "ko": "요금"
+        },
+        {
+          "en": "peel",
+          "ko": "껍질을 벗기다"
+        },
+        {
+          "en": "railroad",
+          "ko": "철도"
+        },
+        {
+          "en": "direct",
+          "ko": "직접적인"
+        },
+        {
+          "en": "division",
+          "ko": "부서"
+        },
+        {
+          "en": "wild",
+          "ko": "야생의"
+        },
+        {
+          "en": "artwork",
+          "ko": "예술 작품"
+        },
+        {
+          "en": "ceiling",
+          "ko": "천장"
+        },
+        {
+          "en": "allow",
+          "ko": "허락하다"
+        },
+        {
+          "en": "architect",
+          "ko": "건축가"
+        },
+        {
+          "en": "sharp",
+          "ko": "날카로운"
+        },
+        {
+          "en": "laboratory",
+          "ko": "실험실"
+        },
+        {
+          "en": "biography",
+          "ko": "전기"
+        },
+        {
+          "en": "both",
+          "ko": "양쪽의"
+        },
+        {
+          "en": "detail",
+          "ko": "세부 항목"
+        },
+        {
+          "en": "castle",
+          "ko": "성"
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "words": [
+        {
+          "en": "trip",
+          "ko": "여행"
+        },
+        {
+          "en": "examine",
+          "ko": "조사하다"
+        },
+        {
+          "en": "mate",
+          "ko": "친구"
+        },
+        {
+          "en": "arrange",
+          "ko": "준비하다"
+        },
+        {
+          "en": "congratulate",
+          "ko": "축하하다"
+        },
+        {
+          "en": "dental",
+          "ko": "치과의"
+        },
+        {
+          "en": "collect",
+          "ko": "모으다"
+        },
+        {
+          "en": "portfolio",
+          "ko": "작품집"
+        },
+        {
+          "en": "mention",
+          "ko": "언급하다"
+        },
+        {
+          "en": "topic",
+          "ko": "주제"
+        },
+        {
+          "en": "alert",
+          "ko": "경계하는"
+        },
+        {
+          "en": "repeat",
+          "ko": "반복하다"
+        },
+        {
+          "en": "handicap",
+          "ko": "불리한 조건"
+        },
+        {
+          "en": "fence",
+          "ko": "울타리"
+        },
+        {
+          "en": "contest",
+          "ko": "대회"
+        },
+        {
+          "en": "wear",
+          "ko": "입다"
+        },
+        {
+          "en": "flow",
+          "ko": "흐르다"
+        },
+        {
+          "en": "fur",
+          "ko": "털"
+        },
+        {
+          "en": "gender",
+          "ko": "성별"
+        },
+        {
+          "en": "awe",
+          "ko": "경외심"
+        }
+      ]
+    },
+    {
+      "day": 43,
+      "words": [
+        {
+          "en": "ridicule",
+          "ko": "비웃다"
+        },
+        {
+          "en": "aisle",
+          "ko": "통로"
+        },
+        {
+          "en": "fever",
+          "ko": "열"
+        },
+        {
+          "en": "context",
+          "ko": "문맥"
+        },
+        {
+          "en": "shelf",
+          "ko": "선반"
+        },
+        {
+          "en": "advantage",
+          "ko": "유리한 점"
+        },
+        {
+          "en": "countryside",
+          "ko": "농촌"
+        },
+        {
+          "en": "access",
+          "ko": "접근하다"
+        },
+        {
+          "en": "feather",
+          "ko": "깃털"
+        },
+        {
+          "en": "crane",
+          "ko": "기중기"
+        },
+        {
+          "en": "series",
+          "ko": "연속물"
+        },
+        {
+          "en": "imitate",
+          "ko": "모방하다"
+        },
+        {
+          "en": "beat",
+          "ko": "치다"
+        },
+        {
+          "en": "score",
+          "ko": "득점하다"
+        },
+        {
+          "en": "simulation",
+          "ko": "모의실험"
+        },
+        {
+          "en": "aid",
+          "ko": "돕다"
+        },
+        {
+          "en": "club",
+          "ko": "동호회"
+        },
+        {
+          "en": "whole",
+          "ko": "전부"
+        },
+        {
+          "en": "will",
+          "ko": "의지"
+        },
+        {
+          "en": "confidence",
+          "ko": "자신감"
+        }
+      ]
+    },
+    {
+      "day": 44,
+      "words": [
+        {
+          "en": "protect",
+          "ko": "보호하다"
+        },
+        {
+          "en": "pleasure",
+          "ko": "기쁨"
+        },
+        {
+          "en": "caution",
+          "ko": "경고"
+        },
+        {
+          "en": "role",
+          "ko": "역할"
+        },
+        {
+          "en": "graduate",
+          "ko": "졸업하다"
+        },
+        {
+          "en": "raise",
+          "ko": "들어 올리다"
+        },
+        {
+          "en": "appoint",
+          "ko": "임명하다"
+        },
+        {
+          "en": "buckle",
+          "ko": "잠금장치"
+        },
+        {
+          "en": "tendency",
+          "ko": "경향"
+        },
+        {
+          "en": "firework",
+          "ko": "불꽃놀이"
+        },
+        {
+          "en": "downtown",
+          "ko": "도심지"
+        },
+        {
+          "en": "useless",
+          "ko": "쓸모없는"
+        },
+        {
+          "en": "decide",
+          "ko": "결정하다"
+        },
+        {
+          "en": "nap",
+          "ko": "낮잠"
+        },
+        {
+          "en": "dealer",
+          "ko": "중개인"
+        },
+        {
+          "en": "digest",
+          "ko": "소화하다"
+        },
+        {
+          "en": "pimple",
+          "ko": "여드름"
+        },
+        {
+          "en": "ugly",
+          "ko": "못생긴"
+        },
+        {
+          "en": "script",
+          "ko": "대본"
+        },
+        {
+          "en": "unknown",
+          "ko": "알려지지 않은"
+        }
+      ]
+    },
+    {
+      "day": 45,
+      "words": [
+        {
+          "en": "loyal",
+          "ko": "충성스러운"
+        },
+        {
+          "en": "analyze",
+          "ko": "분석하다"
+        },
+        {
+          "en": "assure",
+          "ko": "확신시키다"
+        },
+        {
+          "en": "influenza",
+          "ko": "독감"
+        },
+        {
+          "en": "arrive",
+          "ko": "도착하다"
+        },
+        {
+          "en": "experience",
+          "ko": "경험하다"
+        },
+        {
+          "en": "therapy",
+          "ko": "요법"
+        },
+        {
+          "en": "facility",
+          "ko": "시설"
+        },
+        {
+          "en": "beneath",
+          "ko": "~아래에"
+        },
+        {
+          "en": "dangerous",
+          "ko": "위험한"
+        },
+        {
+          "en": "clear",
+          "ko": "맑은"
+        },
+        {
+          "en": "conduct",
+          "ko": "실시하다"
+        },
+        {
+          "en": "tasty",
+          "ko": "맛있는"
+        },
+        {
+          "en": "architecture",
+          "ko": "건축물"
+        },
+        {
+          "en": "obtain",
+          "ko": "얻다"
+        },
+        {
+          "en": "exchange",
+          "ko": "교환하다"
+        },
+        {
+          "en": "film",
+          "ko": "영화"
+        },
+        {
+          "en": "cattle",
+          "ko": "소"
+        },
+        {
+          "en": "muddy",
+          "ko": "진흙투성이인"
+        },
+        {
+          "en": "occur",
+          "ko": "발생하다"
+        }
+      ]
+    }
+  ]
+}

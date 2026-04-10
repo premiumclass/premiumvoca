@@ -1,0 +1,3528 @@
+{
+  "title": "프리미엄보카 예비고 필수",
+  "days": [
+    {
+      "day": 1,
+      "words": [
+        {
+          "en": "onto",
+          "ko": "~위로"
+        },
+        {
+          "en": "beneath",
+          "ko": "~아래에"
+        },
+        {
+          "en": "up to",
+          "ko": "~까지"
+        },
+        {
+          "en": "regarding",
+          "ko": "~에 대하여"
+        },
+        {
+          "en": "of",
+          "ko": "~의"
+        },
+        {
+          "en": "into",
+          "ko": "~안으로"
+        },
+        {
+          "en": "among",
+          "ko": "~사이에"
+        },
+        {
+          "en": "above",
+          "ko": "~위에"
+        },
+        {
+          "en": "until",
+          "ko": "~까지"
+        },
+        {
+          "en": "upon",
+          "ko": "~위에"
+        },
+        {
+          "en": "considering",
+          "ko": "~을 고려하면"
+        },
+        {
+          "en": "depeding on",
+          "ko": "~에 따라서"
+        },
+        {
+          "en": "on",
+          "ko": "~위에"
+        },
+        {
+          "en": "by",
+          "ko": "~에 의하여"
+        },
+        {
+          "en": "outside",
+          "ko": "~밖에"
+        },
+        {
+          "en": "against",
+          "ko": "~에 기대어"
+        },
+        {
+          "en": "underneath",
+          "ko": "~아래에"
+        },
+        {
+          "en": "in spite of",
+          "ko": "~에도 불구하고"
+        },
+        {
+          "en": "below",
+          "ko": "~아래에"
+        },
+        {
+          "en": "plus",
+          "ko": "~뿐만 아니라"
+        },
+        {
+          "en": "with",
+          "ko": "~와 함께"
+        },
+        {
+          "en": "as",
+          "ko": "~로서"
+        },
+        {
+          "en": "during",
+          "ko": "~동안에"
+        },
+        {
+          "en": "across",
+          "ko": "~을 가로질러"
+        },
+        {
+          "en": "since",
+          "ko": "~이후로"
+        },
+        {
+          "en": "at",
+          "ko": "~에"
+        },
+        {
+          "en": "alongside",
+          "ko": "~을 따라서"
+        },
+        {
+          "en": "behind",
+          "ko": "~뒤에"
+        },
+        {
+          "en": "along",
+          "ko": "~을 따라서"
+        },
+        {
+          "en": "including",
+          "ko": "~을 포함하여"
+        },
+        {
+          "en": "throughout",
+          "ko": "~하는 내내"
+        },
+        {
+          "en": "excluding",
+          "ko": "~을 제외하고"
+        },
+        {
+          "en": "amid",
+          "ko": "~의 가운데에"
+        },
+        {
+          "en": "within",
+          "ko": "~이내에"
+        },
+        {
+          "en": "minus",
+          "ko": "~을 제외하고"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "words": [
+        {
+          "en": "next to",
+          "ko": "~옆에"
+        },
+        {
+          "en": "out of",
+          "ko": "~밖으로"
+        },
+        {
+          "en": "about",
+          "ko": "~에 대하여"
+        },
+        {
+          "en": "following",
+          "ko": "~후에"
+        },
+        {
+          "en": "from",
+          "ko": "~로부터"
+        },
+        {
+          "en": "as to",
+          "ko": "~에 대하여"
+        },
+        {
+          "en": "excepting",
+          "ko": "~을 제외하고"
+        },
+        {
+          "en": "between",
+          "ko": "~사이에"
+        },
+        {
+          "en": "beyond",
+          "ko": "~을 넘어서"
+        },
+        {
+          "en": "per",
+          "ko": "~마다"
+        },
+        {
+          "en": "in front of",
+          "ko": "~앞에"
+        },
+        {
+          "en": "near",
+          "ko": "~가까이에"
+        },
+        {
+          "en": "versus",
+          "ko": "~대"
+        },
+        {
+          "en": "like",
+          "ko": "~처럼"
+        },
+        {
+          "en": "in",
+          "ko": "~안에"
+        },
+        {
+          "en": "except",
+          "ko": "~을 제외하고"
+        },
+        {
+          "en": "under",
+          "ko": "~아래에"
+        },
+        {
+          "en": "via",
+          "ko": "~을 통하여"
+        },
+        {
+          "en": "for",
+          "ko": "~을 위하여"
+        },
+        {
+          "en": "off",
+          "ko": "~을 벗어나"
+        },
+        {
+          "en": "toward",
+          "ko": "~쪽으로"
+        },
+        {
+          "en": "beside",
+          "ko": "~옆에"
+        },
+        {
+          "en": "to",
+          "ko": "~로"
+        },
+        {
+          "en": "save",
+          "ko": "~을 제외하고"
+        },
+        {
+          "en": "over",
+          "ko": "~위로"
+        },
+        {
+          "en": "inside",
+          "ko": "~안에"
+        },
+        {
+          "en": "towards",
+          "ko": "~쪽으로"
+        },
+        {
+          "en": "concerning",
+          "ko": "~에 대하여"
+        },
+        {
+          "en": "after",
+          "ko": "~후에"
+        },
+        {
+          "en": "without",
+          "ko": "~없이"
+        },
+        {
+          "en": "through",
+          "ko": "~을 통하여"
+        },
+        {
+          "en": "besides",
+          "ko": "~이외에도"
+        },
+        {
+          "en": "around",
+          "ko": "~주변에"
+        },
+        {
+          "en": "before",
+          "ko": "~앞에"
+        },
+        {
+          "en": "despite",
+          "ko": "~에도 불구하고"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "words": [
+        {
+          "en": "as soon as",
+          "ko": "~하자마자"
+        },
+        {
+          "en": "so that",
+          "ko": "~하도록"
+        },
+        {
+          "en": "whereas",
+          "ko": "~인 반면에"
+        },
+        {
+          "en": "where",
+          "ko": "~한 곳에서"
+        },
+        {
+          "en": "every time",
+          "ko": "~할 때마다"
+        },
+        {
+          "en": "though",
+          "ko": "비록 ~일지라도"
+        },
+        {
+          "en": "as if",
+          "ko": "마치 ~처럼"
+        },
+        {
+          "en": "if",
+          "ko": "~한다면"
+        },
+        {
+          "en": "whenever",
+          "ko": "~할 때마다"
+        },
+        {
+          "en": "because",
+          "ko": "~때문에"
+        },
+        {
+          "en": "provided (that)",
+          "ko": "~한다면"
+        },
+        {
+          "en": "as far as",
+          "ko": "~하는 한"
+        },
+        {
+          "en": "by the time",
+          "ko": "~할 때쯤"
+        },
+        {
+          "en": "only when",
+          "ko": "오로지 ~할 때만"
+        },
+        {
+          "en": "supposing (that)",
+          "ko": "~한다면"
+        },
+        {
+          "en": "while",
+          "ko": "~동안에"
+        },
+        {
+          "en": "just as",
+          "ko": "꼭 ~처럼"
+        },
+        {
+          "en": "although",
+          "ko": "비록 ~일지라도"
+        },
+        {
+          "en": "as",
+          "ko": "~할 때"
+        },
+        {
+          "en": "as long as",
+          "ko": "~하는 한"
+        },
+        {
+          "en": "now that",
+          "ko": "~때문에"
+        },
+        {
+          "en": "unless",
+          "ko": "~하지 않는다면"
+        },
+        {
+          "en": "even though",
+          "ko": "비록 ~일지라도"
+        },
+        {
+          "en": "since",
+          "ko": "~때문에"
+        },
+        {
+          "en": "even if",
+          "ko": "비록 ~일지라도"
+        },
+        {
+          "en": "after",
+          "ko": "~후에"
+        },
+        {
+          "en": "like",
+          "ko": "~처럼"
+        },
+        {
+          "en": "as though",
+          "ko": "마치 ~처럼"
+        },
+        {
+          "en": "providing (that)",
+          "ko": "~한다면"
+        },
+        {
+          "en": "till",
+          "ko": "~할 때까지"
+        },
+        {
+          "en": "whether",
+          "ko": "~든지 아니든지"
+        },
+        {
+          "en": "before",
+          "ko": "~전에"
+        },
+        {
+          "en": "until",
+          "ko": "~할 때까지"
+        },
+        {
+          "en": "for",
+          "ko": "왜냐하면"
+        },
+        {
+          "en": "only if",
+          "ko": "오로지 ~하는 경우에만"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "words": [
+        {
+          "en": "therefore",
+          "ko": "따라서"
+        },
+        {
+          "en": "at the same time",
+          "ko": "동시에"
+        },
+        {
+          "en": "in the first step",
+          "ko": "무엇보다도"
+        },
+        {
+          "en": "so to speak",
+          "ko": "즉"
+        },
+        {
+          "en": "Let's say",
+          "ko": "예를 들면"
+        },
+        {
+          "en": "that is",
+          "ko": "즉"
+        },
+        {
+          "en": "in brief",
+          "ko": "요약하면"
+        },
+        {
+          "en": "on the one hand",
+          "ko": "한편으로는"
+        },
+        {
+          "en": "to illustrate",
+          "ko": "예를 들면"
+        },
+        {
+          "en": "in consequence",
+          "ko": "결국"
+        },
+        {
+          "en": "meanwhile",
+          "ko": "그러는 동안에"
+        },
+        {
+          "en": "ultimately",
+          "ko": "결국"
+        },
+        {
+          "en": "for example",
+          "ko": "예를 들면"
+        },
+        {
+          "en": "as a result",
+          "ko": "결과적으로"
+        },
+        {
+          "en": "to sum up",
+          "ko": "요약하면"
+        },
+        {
+          "en": "otherwise",
+          "ko": "그렇지 않으면"
+        },
+        {
+          "en": "in addition",
+          "ko": "게다가"
+        },
+        {
+          "en": "similarly",
+          "ko": "마찬가지로"
+        },
+        {
+          "en": "subsequently",
+          "ko": "그 후에"
+        },
+        {
+          "en": "in conclusion",
+          "ko": "결국"
+        },
+        {
+          "en": "likewise",
+          "ko": "마찬가지로"
+        },
+        {
+          "en": "nonetheless",
+          "ko": "그럼에도 불구하고"
+        },
+        {
+          "en": "on the other hand",
+          "ko": "반면에"
+        },
+        {
+          "en": "in the mean time",
+          "ko": "그러는 동안에"
+        },
+        {
+          "en": "eventually",
+          "ko": "결국"
+        },
+        {
+          "en": "yet",
+          "ko": "그러나"
+        },
+        {
+          "en": "say",
+          "ko": "예를 들면"
+        },
+        {
+          "en": "to begin with",
+          "ko": "무엇보다도"
+        },
+        {
+          "en": "furthermore",
+          "ko": "게다가"
+        },
+        {
+          "en": "for instance",
+          "ko": "예를 들면"
+        },
+        {
+          "en": "in the end",
+          "ko": "결국"
+        },
+        {
+          "en": "for one thing",
+          "ko": "무엇보다도"
+        },
+        {
+          "en": "actually",
+          "ko": "사실상"
+        },
+        {
+          "en": "in summary",
+          "ko": "요약하면"
+        },
+        {
+          "en": "additionally",
+          "ko": "게다가"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "words": [
+        {
+          "en": "however",
+          "ko": "그러나"
+        },
+        {
+          "en": "as a matter of fact",
+          "ko": "사실상"
+        },
+        {
+          "en": "contrastingly",
+          "ko": "대조적으로"
+        },
+        {
+          "en": "hence",
+          "ko": "따라서"
+        },
+        {
+          "en": "though",
+          "ko": "그러나"
+        },
+        {
+          "en": "finally",
+          "ko": "결국"
+        },
+        {
+          "en": "namely",
+          "ko": "즉"
+        },
+        {
+          "en": "in the same way",
+          "ko": "마찬가지로"
+        },
+        {
+          "en": "thus",
+          "ko": "따라서"
+        },
+        {
+          "en": "above all",
+          "ko": "무엇보다도"
+        },
+        {
+          "en": "accordingly",
+          "ko": "따라서"
+        },
+        {
+          "en": "in other words",
+          "ko": "즉"
+        },
+        {
+          "en": "simultaneously",
+          "ko": "동시에"
+        },
+        {
+          "en": "in the long run",
+          "ko": "결국"
+        },
+        {
+          "en": "in fact",
+          "ko": "사실상"
+        },
+        {
+          "en": "conversely",
+          "ko": "역으로"
+        },
+        {
+          "en": "moreover",
+          "ko": "게다가"
+        },
+        {
+          "en": "in short",
+          "ko": "요약하면"
+        },
+        {
+          "en": "first of all",
+          "ko": "무엇보다도"
+        },
+        {
+          "en": "still",
+          "ko": "그러나"
+        },
+        {
+          "en": "besides",
+          "ko": "게다가"
+        },
+        {
+          "en": "to start with",
+          "ko": "무엇보다도"
+        },
+        {
+          "en": "nevertheless",
+          "ko": "그럼에도 불구하고"
+        },
+        {
+          "en": "consequently",
+          "ko": "결국"
+        },
+        {
+          "en": "in the first place",
+          "ko": "무엇보다도"
+        },
+        {
+          "en": "in contrast",
+          "ko": "대조적으로"
+        },
+        {
+          "en": "at last",
+          "ko": "결국"
+        },
+        {
+          "en": "in reality",
+          "ko": "사실상"
+        },
+        {
+          "en": "what is more",
+          "ko": "게다가"
+        },
+        {
+          "en": "on the contrary",
+          "ko": "대조적으로"
+        },
+        {
+          "en": "afterwards",
+          "ko": "그 후에"
+        },
+        {
+          "en": "specifically",
+          "ko": "구체적으로"
+        },
+        {
+          "en": "by the same token",
+          "ko": "마찬가지로"
+        },
+        {
+          "en": "as a rule",
+          "ko": "일반적으로"
+        },
+        {
+          "en": "in essence",
+          "ko": "본질적으로"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "words": [
+        {
+          "en": "en-",
+          "ko": "동사 \"~하게 하다\""
+        },
+        {
+          "en": "pseudo-",
+          "ko": "\"가짜의\""
+        },
+        {
+          "en": "il-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-er",
+          "ko": "명사 \"~하는 사람\""
+        },
+        {
+          "en": "dis-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-ent",
+          "ko": "형용사"
+        },
+        {
+          "en": "-en",
+          "ko": "동사 \"~하게 하다\""
+        },
+        {
+          "en": "-ence",
+          "ko": "명사"
+        },
+        {
+          "en": "co-",
+          "ko": "\"함께\""
+        },
+        {
+          "en": "-ible",
+          "ko": "형용사 \"~할 수 있는\""
+        },
+        {
+          "en": "-al",
+          "ko": "명사"
+        },
+        {
+          "en": "-ary",
+          "ko": "형용사"
+        },
+        {
+          "en": "im-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-or",
+          "ko": "명사 \"~하는 사람\""
+        },
+        {
+          "en": "-y",
+          "ko": "형용사"
+        },
+        {
+          "en": "-sion",
+          "ko": "명사"
+        },
+        {
+          "en": "extra-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-ship",
+          "ko": "명사"
+        },
+        {
+          "en": "-al",
+          "ko": "형용사"
+        },
+        {
+          "en": "-ity",
+          "ko": "명사"
+        },
+        {
+          "en": "mis-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-ic",
+          "ko": "형용사"
+        },
+        {
+          "en": "mono-",
+          "ko": "\"단일의\""
+        },
+        {
+          "en": "-ment",
+          "ko": "명사"
+        },
+        {
+          "en": "-ous",
+          "ko": "형용사"
+        },
+        {
+          "en": "un-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-ive",
+          "ko": "형용사"
+        },
+        {
+          "en": "anti-",
+          "ko": "\"반대의\""
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "words": [
+        {
+          "en": "-able",
+          "ko": "형용사 \"~할 수 있는\""
+        },
+        {
+          "en": "semi-",
+          "ko": "\"반,준\""
+        },
+        {
+          "en": "-ent",
+          "ko": "명사 \"~하는 사람\""
+        },
+        {
+          "en": "-ical",
+          "ko": "형용사"
+        },
+        {
+          "en": "non-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-ness",
+          "ko": "명사"
+        },
+        {
+          "en": "inter-",
+          "ko": "\"~사이에\""
+        },
+        {
+          "en": "-ance",
+          "ko": "명사"
+        },
+        {
+          "en": "ir-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-ty",
+          "ko": "명사"
+        },
+        {
+          "en": "re-",
+          "ko": "\"다시\""
+        },
+        {
+          "en": "-ant",
+          "ko": "명사 \"~하는 사람\""
+        },
+        {
+          "en": "ab-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-ish",
+          "ko": "형용사"
+        },
+        {
+          "en": "pre-",
+          "ko": "\"~전에\""
+        },
+        {
+          "en": "-tion",
+          "ko": "명사"
+        },
+        {
+          "en": "in-",
+          "ko": "반대말"
+        },
+        {
+          "en": "-less",
+          "ko": "형용사 \"~이 없는\""
+        },
+        {
+          "en": "-th",
+          "ko": "명사"
+        },
+        {
+          "en": "-ful",
+          "ko": "형용사"
+        },
+        {
+          "en": "-ize",
+          "ko": "동사 \"~화하다\""
+        },
+        {
+          "en": "-ee",
+          "ko": "명사 \"~받는 사람\""
+        },
+        {
+          "en": "-ant",
+          "ko": "형용사"
+        },
+        {
+          "en": "-ism",
+          "ko": "명사 \"~주의\""
+        },
+        {
+          "en": "-ly",
+          "ko": "부사"
+        },
+        {
+          "en": "post-",
+          "ko": "\"~후에\""
+        },
+        {
+          "en": "-ist",
+          "ko": "명사 \"~하는 사람\""
+        },
+        {
+          "en": "-fy",
+          "ko": "동사 \"~화하다\""
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "words": [
+        {
+          "en": "used to 동사원형",
+          "ko": "~하곤했다"
+        },
+        {
+          "en": "be used to 동사원형",
+          "ko": "~하는데 사용되다"
+        },
+        {
+          "en": "be used to (-ing/명사)",
+          "ko": "~에 익숙하다"
+        },
+        {
+          "en": "remember to 동사원형",
+          "ko": "~할 것을 기억하다"
+        },
+        {
+          "en": "remember -ing",
+          "ko": "~했던 것을 기억하다"
+        },
+        {
+          "en": "forget to 동사원형",
+          "ko": "~할 것을 잊다"
+        },
+        {
+          "en": "forget -ing",
+          "ko": "~했던 것을 잊다"
+        },
+        {
+          "en": "regret to 동사원형",
+          "ko": "~하게 되어 유감이다"
+        },
+        {
+          "en": "regret -ing",
+          "ko": "~했던 것을 후회하다"
+        },
+        {
+          "en": "try to 동사원형",
+          "ko": "~하기 위해 노력하다"
+        },
+        {
+          "en": "try -ing",
+          "ko": "시험삼아 ~해보다"
+        },
+        {
+          "en": "stop to 동사원형",
+          "ko": "~하기 위해 멈추다"
+        },
+        {
+          "en": "stop -ing",
+          "ko": "~하던 것을 멈추다"
+        },
+        {
+          "en": "rise - rose - risen",
+          "ko": "오르다 (자동사)"
+        },
+        {
+          "en": "raise - raised - raised",
+          "ko": "올리다 (타동사)"
+        },
+        {
+          "en": "find - found - found",
+          "ko": "찾다 (타동사)"
+        },
+        {
+          "en": "found - founded - founded",
+          "ko": "설립하다 (타동사)"
+        },
+        {
+          "en": "fall - fell - fallen",
+          "ko": "떨어지다 (자동사)"
+        },
+        {
+          "en": "fell - felled - felled",
+          "ko": "쓰러뜨리다 (타동사)"
+        },
+        {
+          "en": "sit - sat - sat",
+          "ko": "앉다 (자동사)"
+        },
+        {
+          "en": "seat - seated - seated",
+          "ko": "앉히다 (타동사)"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "words": [
+        {
+          "en": "lie - lay - lain",
+          "ko": "놓여있다 (자동사)"
+        },
+        {
+          "en": "lie - lied - lied",
+          "ko": "거짓말하다 (자동사)"
+        },
+        {
+          "en": "lay - laid - laid",
+          "ko": "놓다 (타동사)"
+        },
+        {
+          "en": "bind - bound - bound",
+          "ko": "묶다 (타동사)"
+        },
+        {
+          "en": "bound - bounded - bounded",
+          "ko": "튀다 (자동사)"
+        },
+        {
+          "en": "wind - wound - wound",
+          "ko": "감다 (타동사)"
+        },
+        {
+          "en": "wound - wounded - wounded",
+          "ko": "상처를 입히다 (타동사)"
+        },
+        {
+          "en": "arise - arose - arisen",
+          "ko": "생기다 (자동사)"
+        },
+        {
+          "en": "arouse - aroused - aroused",
+          "ko": "불러일으키다 (타동사)"
+        },
+        {
+          "en": "A(원인) result in B(결과)",
+          "ko": "A가 B를 일으키다"
+        },
+        {
+          "en": "A(결과) result from B(원인)",
+          "ko": "A는 B로부터 일어난다"
+        },
+        {
+          "en": "(may/might) 동사원형",
+          "ko": "~일지도 모른다"
+        },
+        {
+          "en": "(may/might) have p.p",
+          "ko": "~였을지도 모른다"
+        },
+        {
+          "en": "should have p.p",
+          "ko": "~했어야 했다."
+        },
+        {
+          "en": "must have p.p",
+          "ko": "~했음에 틀림없다"
+        },
+        {
+          "en": "That is why",
+          "ko": "그런 이유로"
+        },
+        {
+          "en": "That is because",
+          "ko": "그것은 ~때문이다"
+        },
+        {
+          "en": "be known as",
+          "ko": "~로서 알려지다"
+        },
+        {
+          "en": "be known for",
+          "ko": "~로 알려지다"
+        },
+        {
+          "en": "be known to",
+          "ko": "~에게 알려지다"
+        },
+        {
+          "en": "be known by",
+          "ko": "~에 의해서 알려지다"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "words": [
+        {
+          "en": "sing",
+          "ko": "sang-sung 노래하다"
+        },
+        {
+          "en": "begin",
+          "ko": "began-begun 시작하다"
+        },
+        {
+          "en": "teach",
+          "ko": "taught-taught 가르치다"
+        },
+        {
+          "en": "steal",
+          "ko": "stole-stolen 훔치다"
+        },
+        {
+          "en": "strive",
+          "ko": "strove-striven 노력하다"
+        },
+        {
+          "en": "sell",
+          "ko": "sold-sold 팔다"
+        },
+        {
+          "en": "draw",
+          "ko": "drew-drawn 그리다"
+        },
+        {
+          "en": "cost",
+          "ko": "cost-cost 비용이 들다"
+        },
+        {
+          "en": "shut",
+          "ko": "shut-shut 닫다"
+        },
+        {
+          "en": "spin",
+          "ko": "spun-spun 짜다"
+        },
+        {
+          "en": "sink",
+          "ko": "sank-sunk 가라앉다"
+        },
+        {
+          "en": "write",
+          "ko": "wrote-written 쓰다"
+        },
+        {
+          "en": "know",
+          "ko": "knew-known 알다"
+        },
+        {
+          "en": "hurt",
+          "ko": "hurt-hurt 상처를 입히다"
+        },
+        {
+          "en": "seek",
+          "ko": "sought-sought 구하다"
+        },
+        {
+          "en": "drink",
+          "ko": "drank-drunk 마시다"
+        },
+        {
+          "en": "spread",
+          "ko": "spread-spread 퍼지다"
+        },
+        {
+          "en": "shoot",
+          "ko": "shot-shot 쏘다"
+        },
+        {
+          "en": "blow",
+          "ko": "blew-blown 불다"
+        },
+        {
+          "en": "lead",
+          "ko": "led-led 이끌다"
+        },
+        {
+          "en": "stand",
+          "ko": "stood-stood 서다"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "words": [
+        {
+          "en": "show",
+          "ko": "showed-shown 보여주다"
+        },
+        {
+          "en": "stick",
+          "ko": "stuck-stuck 찌르다"
+        },
+        {
+          "en": "run",
+          "ko": "ran-run 달리다"
+        },
+        {
+          "en": "come",
+          "ko": "came-come 오다"
+        },
+        {
+          "en": "bend",
+          "ko": "bent-bent 구부리다"
+        },
+        {
+          "en": "tear",
+          "ko": "tore-torn 찢다"
+        },
+        {
+          "en": "meet",
+          "ko": "met-met 만나다"
+        },
+        {
+          "en": "rise",
+          "ko": "rose-risen 오르다"
+        },
+        {
+          "en": "bite",
+          "ko": "bit-bitten 물다"
+        },
+        {
+          "en": "sleep",
+          "ko": "slept-slept 자다"
+        },
+        {
+          "en": "flee",
+          "ko": "fled-fled 도망치다"
+        },
+        {
+          "en": "win",
+          "ko": "won-won 이기다"
+        },
+        {
+          "en": "feed",
+          "ko": "fed-fed 먹이를 주다"
+        },
+        {
+          "en": "swear",
+          "ko": "swore-sworn 맹세하다"
+        },
+        {
+          "en": "drive",
+          "ko": "drove-driven 운전하다"
+        },
+        {
+          "en": "break",
+          "ko": "broke-broken 깨다"
+        },
+        {
+          "en": "mean",
+          "ko": "meant-meant 의미하다"
+        },
+        {
+          "en": "weep",
+          "ko": "wept-wept 울다"
+        },
+        {
+          "en": "ride",
+          "ko": "rode-ridden 타다"
+        },
+        {
+          "en": "hear",
+          "ko": "heard-heard 듣다"
+        },
+        {
+          "en": "cut",
+          "ko": "cut-cut 자르다"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "words": [
+        {
+          "en": "say",
+          "ko": "said-said 말하다"
+        },
+        {
+          "en": "hold",
+          "ko": "held-held 잡다"
+        },
+        {
+          "en": "fly",
+          "ko": "flew-flown 날다"
+        },
+        {
+          "en": "buy",
+          "ko": "bought-bought 사다"
+        },
+        {
+          "en": "cast",
+          "ko": "cast-cast 던지다"
+        },
+        {
+          "en": "speak",
+          "ko": "spoke-spoken 말하다"
+        },
+        {
+          "en": "put",
+          "ko": "put-put 놓다"
+        },
+        {
+          "en": "dig",
+          "ko": "dug-dug 파다"
+        },
+        {
+          "en": "leave",
+          "ko": "left-left 떠나다"
+        },
+        {
+          "en": "freeze",
+          "ko": "froze-frozen 얼다"
+        },
+        {
+          "en": "catch",
+          "ko": "caught-caught 잡다"
+        },
+        {
+          "en": "lend",
+          "ko": "lent-lent 빌려주다"
+        },
+        {
+          "en": "beat",
+          "ko": "beat-beaten 때리다"
+        },
+        {
+          "en": "become",
+          "ko": "became-become 되다"
+        },
+        {
+          "en": "grow",
+          "ko": "grew-grown 성장하다"
+        },
+        {
+          "en": "bring",
+          "ko": "brought-brought 가져오다"
+        },
+        {
+          "en": "deal",
+          "ko": "dealt-dealt 다루다"
+        },
+        {
+          "en": "upset",
+          "ko": "upset-upset 뒤엎다"
+        },
+        {
+          "en": "throw",
+          "ko": "threw-thrown 던지다"
+        },
+        {
+          "en": "let",
+          "ko": "let-let ~하게 하다"
+        },
+        {
+          "en": "pay",
+          "ko": "paid-paid 지불하다"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "words": [
+        {
+          "en": "hide",
+          "ko": "hid-hidden 숨기다"
+        },
+        {
+          "en": "feel",
+          "ko": "felt-felt 느끼다"
+        },
+        {
+          "en": "swim",
+          "ko": "swam-swum 수영하다"
+        },
+        {
+          "en": "wear",
+          "ko": "wore-worn 입다"
+        },
+        {
+          "en": "set",
+          "ko": "set-set 두다"
+        },
+        {
+          "en": "burst",
+          "ko": "burst-burst 파열하다"
+        },
+        {
+          "en": "swing",
+          "ko": "swung-swung 흔들다"
+        },
+        {
+          "en": "fight",
+          "ko": "fought-fought 싸우다"
+        },
+        {
+          "en": "hit",
+          "ko": "hit-hit 치다"
+        },
+        {
+          "en": "keep",
+          "ko": "kept-kept 지키다"
+        },
+        {
+          "en": "eat",
+          "ko": "ate-eaten 먹다"
+        },
+        {
+          "en": "shake",
+          "ko": "shook-shaken 흔들다"
+        },
+        {
+          "en": "choose",
+          "ko": "chose-chosen 선택하다"
+        },
+        {
+          "en": "read",
+          "ko": "read-read 읽다"
+        },
+        {
+          "en": "forget",
+          "ko": "forgot-forgotten 잊다"
+        },
+        {
+          "en": "think",
+          "ko": "thought-thought 생각하다"
+        },
+        {
+          "en": "spend",
+          "ko": "spent-spent 소비하다"
+        },
+        {
+          "en": "ring",
+          "ko": "rang-rung 울리다"
+        },
+        {
+          "en": "strike",
+          "ko": "struck-struck 치다"
+        },
+        {
+          "en": "lose",
+          "ko": "lost-lost 잃다"
+        },
+        {
+          "en": "shine",
+          "ko": "shone-shone 빛나다"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "words": [
+        {
+          "en": "admiring",
+          "ko": "감탄하는"
+        },
+        {
+          "en": "eager",
+          "ko": "열렬한"
+        },
+        {
+          "en": "apologetic",
+          "ko": "사과하는"
+        },
+        {
+          "en": "polite",
+          "ko": "예의바른"
+        },
+        {
+          "en": "passionate",
+          "ko": "열정적인"
+        },
+        {
+          "en": "confident",
+          "ko": "자신감있는"
+        },
+        {
+          "en": "disgusted",
+          "ko": "혐오감을 느끼는"
+        },
+        {
+          "en": "exhausted",
+          "ko": "지친"
+        },
+        {
+          "en": "awkward",
+          "ko": "서투른"
+        },
+        {
+          "en": "sacred",
+          "ko": "성스러운"
+        },
+        {
+          "en": "abandoned",
+          "ko": "버려진"
+        },
+        {
+          "en": "arrogant",
+          "ko": "거만한"
+        },
+        {
+          "en": "horrified",
+          "ko": "겁에 질린"
+        },
+        {
+          "en": "self­assured",
+          "ko": "자신감 있는"
+        },
+        {
+          "en": "revengeful",
+          "ko": "복수심에 불타는"
+        },
+        {
+          "en": "dreary",
+          "ko": "음울한"
+        },
+        {
+          "en": "mysterious",
+          "ko": "신비한"
+        },
+        {
+          "en": "resentful",
+          "ko": "분개한"
+        },
+        {
+          "en": "mystical",
+          "ko": "신비한"
+        },
+        {
+          "en": "breathless",
+          "ko": "숨이 찬"
+        },
+        {
+          "en": "relieved",
+          "ko": "안심한"
+        },
+        {
+          "en": "amused",
+          "ko": "즐거운"
+        },
+        {
+          "en": "dependent",
+          "ko": "의존하는"
+        },
+        {
+          "en": "horrific",
+          "ko": "공포감을 주는"
+        },
+        {
+          "en": "regretful",
+          "ko": "후회하는"
+        },
+        {
+          "en": "distressed",
+          "ko": "고뇌에 지친"
+        },
+        {
+          "en": "respectful",
+          "ko": "존중하는"
+        },
+        {
+          "en": "miserable",
+          "ko": "비참한"
+        },
+        {
+          "en": "serious",
+          "ko": "진지한"
+        },
+        {
+          "en": "harmonious",
+          "ko": "조화로운"
+        },
+        {
+          "en": "frightening",
+          "ko": "무서운"
+        },
+        {
+          "en": "fascinating",
+          "ko": "매혹적인"
+        },
+        {
+          "en": "embarrassed",
+          "ko": "당황스러워하는"
+        },
+        {
+          "en": "moved",
+          "ko": "감동받은"
+        },
+        {
+          "en": "threatened",
+          "ko": "위협을 받는"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "words": [
+        {
+          "en": "anticipating",
+          "ko": "기대하는"
+        },
+        {
+          "en": "imprudent",
+          "ko": "경솔한"
+        },
+        {
+          "en": "solitary",
+          "ko": "고독한"
+        },
+        {
+          "en": "humiliated",
+          "ko": "창피한"
+        },
+        {
+          "en": "astonished",
+          "ko": "놀란"
+        },
+        {
+          "en": "neutral",
+          "ko": "중립적인"
+        },
+        {
+          "en": "surprising",
+          "ko": "놀라운"
+        },
+        {
+          "en": "disgusting",
+          "ko": "역겨운"
+        },
+        {
+          "en": "suspicious",
+          "ko": "의심스러운"
+        },
+        {
+          "en": "pleasant",
+          "ko": "기쁜"
+        },
+        {
+          "en": "triumphant",
+          "ko": "의기양양한"
+        },
+        {
+          "en": "contented",
+          "ko": "만족스러운"
+        },
+        {
+          "en": "disappointed",
+          "ko": "실망한"
+        },
+        {
+          "en": "cooperative",
+          "ko": "협력적인"
+        },
+        {
+          "en": "defensive",
+          "ko": "방어적인"
+        },
+        {
+          "en": "scary",
+          "ko": "무서운"
+        },
+        {
+          "en": "guilty",
+          "ko": "죄책감이 드는"
+        },
+        {
+          "en": "pleased",
+          "ko": "기쁜"
+        },
+        {
+          "en": "risky",
+          "ko": "위험한"
+        },
+        {
+          "en": "recollective",
+          "ko": "추억의"
+        },
+        {
+          "en": "spectacular",
+          "ko": "화려한"
+        },
+        {
+          "en": "shocking",
+          "ko": "충격적인"
+        },
+        {
+          "en": "complicated",
+          "ko": "복잡한"
+        },
+        {
+          "en": "monotonous",
+          "ko": "단조로운"
+        },
+        {
+          "en": "thrilled",
+          "ko": "신나는"
+        },
+        {
+          "en": "sarcastic",
+          "ko": "빈정대는"
+        },
+        {
+          "en": "disheartening",
+          "ko": "낙심시키는"
+        },
+        {
+          "en": "hateful",
+          "ko": "증오에 찬"
+        },
+        {
+          "en": "careless",
+          "ko": "부주의한"
+        },
+        {
+          "en": "horrifying",
+          "ko": "무서운"
+        },
+        {
+          "en": "desolate",
+          "ko": "황량한"
+        },
+        {
+          "en": "critical",
+          "ko": "비판적인"
+        },
+        {
+          "en": "delightful",
+          "ko": "기쁜"
+        },
+        {
+          "en": "annoyed",
+          "ko": "짜증난"
+        },
+        {
+          "en": "concerned",
+          "ko": "걱정하는"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "words": [
+        {
+          "en": "encouraging",
+          "ko": "격려하는"
+        },
+        {
+          "en": "horrible",
+          "ko": "무서운"
+        },
+        {
+          "en": "timid",
+          "ko": "소심한"
+        },
+        {
+          "en": "bewildered",
+          "ko": "당황스러운"
+        },
+        {
+          "en": "devoted",
+          "ko": "헌신적인"
+        },
+        {
+          "en": "considerate",
+          "ko": "사려깊은"
+        },
+        {
+          "en": "scornful",
+          "ko": "경멸하는"
+        },
+        {
+          "en": "analytic",
+          "ko": "분석적인"
+        },
+        {
+          "en": "despairing",
+          "ko": "절망적인"
+        },
+        {
+          "en": "wearisome",
+          "ko": "지루한"
+        },
+        {
+          "en": "crowded",
+          "ko": "붐비는"
+        },
+        {
+          "en": "noisy",
+          "ko": "시끄러운"
+        },
+        {
+          "en": "depressing",
+          "ko": "우울하게 만드는"
+        },
+        {
+          "en": "skeptical",
+          "ko": "회의적인"
+        },
+        {
+          "en": "relaxed",
+          "ko": "긴장을 푸는"
+        },
+        {
+          "en": "dark",
+          "ko": "어두운"
+        },
+        {
+          "en": "melancholy",
+          "ko": "우울한"
+        },
+        {
+          "en": "interested",
+          "ko": "관심있어 하는"
+        },
+        {
+          "en": "prudent",
+          "ko": "신중한"
+        },
+        {
+          "en": "impatient",
+          "ko": "조바심 내는"
+        },
+        {
+          "en": "lively",
+          "ko": "활기찬"
+        },
+        {
+          "en": "odd",
+          "ko": "이상한"
+        },
+        {
+          "en": "confused",
+          "ko": "혼란스러워하는"
+        },
+        {
+          "en": "gloomy",
+          "ko": "우울한"
+        },
+        {
+          "en": "aggressive",
+          "ko": "공격적인"
+        },
+        {
+          "en": "flattering",
+          "ko": "아부하는"
+        },
+        {
+          "en": "resolute",
+          "ko": "단호한"
+        },
+        {
+          "en": "thankful",
+          "ko": "고마워하는"
+        },
+        {
+          "en": "greedy",
+          "ko": "탐욕스러운"
+        },
+        {
+          "en": "desperate",
+          "ko": "절망한"
+        },
+        {
+          "en": "ambitious",
+          "ko": "야망있는"
+        },
+        {
+          "en": "festive",
+          "ko": "축제의"
+        },
+        {
+          "en": "impressed",
+          "ko": "감명을 받은"
+        },
+        {
+          "en": "frustrated",
+          "ko": "좌절한"
+        },
+        {
+          "en": "peaceful",
+          "ko": "평화로운"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "words": [
+        {
+          "en": "distracting",
+          "ko": "마음을 산란케 하는"
+        },
+        {
+          "en": "blessed",
+          "ko": "축복받은"
+        },
+        {
+          "en": "tense",
+          "ko": "긴장된"
+        },
+        {
+          "en": "vivid",
+          "ko": "생기있는"
+        },
+        {
+          "en": "delighted",
+          "ko": "기뻐하는"
+        },
+        {
+          "en": "inspiring",
+          "ko": "영감을 주는"
+        },
+        {
+          "en": "uneasy",
+          "ko": "불안한"
+        },
+        {
+          "en": "lonesome",
+          "ko": "외로운"
+        },
+        {
+          "en": "argumentative",
+          "ko": "논쟁적인"
+        },
+        {
+          "en": "ashamed",
+          "ko": "부끄러워하는"
+        },
+        {
+          "en": "idle",
+          "ko": "게으른"
+        },
+        {
+          "en": "jealous",
+          "ko": "질투하는"
+        },
+        {
+          "en": "courageous",
+          "ko": "용감한"
+        },
+        {
+          "en": "discouraged",
+          "ko": "낙심한"
+        },
+        {
+          "en": "striking",
+          "ko": "인상적인"
+        },
+        {
+          "en": "reckless",
+          "ko": "무모한"
+        },
+        {
+          "en": "tragic",
+          "ko": "비극의"
+        },
+        {
+          "en": "promising",
+          "ko": "유망한"
+        },
+        {
+          "en": "nostalgic",
+          "ko": "옛날을 그리워하는"
+        },
+        {
+          "en": "touched",
+          "ko": "감동받은"
+        },
+        {
+          "en": "objective",
+          "ko": "객관적인"
+        },
+        {
+          "en": "impressive",
+          "ko": "감동적인"
+        },
+        {
+          "en": "grateful",
+          "ko": "감사하는"
+        },
+        {
+          "en": "joyful",
+          "ko": "기쁜"
+        },
+        {
+          "en": "selfless",
+          "ko": "이타적인"
+        },
+        {
+          "en": "encouraged",
+          "ko": "용기를 얻은"
+        },
+        {
+          "en": "perplexed",
+          "ko": "당황한"
+        },
+        {
+          "en": "solemn",
+          "ko": "진지한"
+        },
+        {
+          "en": "reserved",
+          "ko": "내성적인"
+        },
+        {
+          "en": "cozy",
+          "ko": "포근한"
+        },
+        {
+          "en": "pessimistic",
+          "ko": "비관적인"
+        },
+        {
+          "en": "merry",
+          "ko": "명랑한"
+        },
+        {
+          "en": "moving",
+          "ko": "감동적인"
+        },
+        {
+          "en": "social",
+          "ko": "사교적인"
+        },
+        {
+          "en": "astonishing",
+          "ko": "놀라운"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "words": [
+        {
+          "en": "flattered",
+          "ko": "아첨하는"
+        },
+        {
+          "en": "courteous",
+          "ko": "예의바른"
+        },
+        {
+          "en": "panic",
+          "ko": "공포에 질린"
+        },
+        {
+          "en": "irritated",
+          "ko": "짜증이 난"
+        },
+        {
+          "en": "heartbroken",
+          "ko": "비통해하는"
+        },
+        {
+          "en": "calm",
+          "ko": "침착한"
+        },
+        {
+          "en": "cynical",
+          "ko": "냉소적인"
+        },
+        {
+          "en": "awful",
+          "ko": "끔찍한"
+        },
+        {
+          "en": "deserted",
+          "ko": "버려진"
+        },
+        {
+          "en": "shocked",
+          "ko": "충격을 받은"
+        },
+        {
+          "en": "hostile",
+          "ko": "적대적인"
+        },
+        {
+          "en": "urgent",
+          "ko": "긴박한"
+        },
+        {
+          "en": "informative",
+          "ko": "유익한"
+        },
+        {
+          "en": "nervous",
+          "ko": "불안해 하는"
+        },
+        {
+          "en": "dissatisfied",
+          "ko": "불만스러워하는"
+        },
+        {
+          "en": "cruel",
+          "ko": "잔인한"
+        },
+        {
+          "en": "cunning",
+          "ko": "교활한"
+        },
+        {
+          "en": "eloquent",
+          "ko": "유창한"
+        },
+        {
+          "en": "boring",
+          "ko": "지루한"
+        },
+        {
+          "en": "breathtaking",
+          "ko": "아슬아슬한"
+        },
+        {
+          "en": "benevolent",
+          "ko": "자애로운"
+        },
+        {
+          "en": "uncomfortable",
+          "ko": "불편한"
+        },
+        {
+          "en": "overjoyed",
+          "ko": "매우 기뻐하는"
+        },
+        {
+          "en": "furious",
+          "ko": "성난"
+        },
+        {
+          "en": "passive",
+          "ko": "수동적인"
+        },
+        {
+          "en": "magical",
+          "ko": "마법같은"
+        },
+        {
+          "en": "envious",
+          "ko": "시기하는"
+        },
+        {
+          "en": "pitiful",
+          "ko": "측은한"
+        },
+        {
+          "en": "determined",
+          "ko": "단호한"
+        },
+        {
+          "en": "adventurous",
+          "ko": "모험적인"
+        },
+        {
+          "en": "affectionate",
+          "ko": "다정한"
+        },
+        {
+          "en": "tranquil",
+          "ko": "조용한"
+        },
+        {
+          "en": "disappointing",
+          "ko": "실망스러운"
+        },
+        {
+          "en": "prophetic",
+          "ko": "예언적인"
+        },
+        {
+          "en": "reluctant",
+          "ko": "꺼려하는"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "words": [
+        {
+          "en": "sorrowful",
+          "ko": "슬픈"
+        },
+        {
+          "en": "excited",
+          "ko": "신이 난"
+        },
+        {
+          "en": "paradoxical",
+          "ko": "역설적인"
+        },
+        {
+          "en": "narrow-minded",
+          "ko": "편협한"
+        },
+        {
+          "en": "persuasive",
+          "ko": "설득력 있는"
+        },
+        {
+          "en": "dull",
+          "ko": "따분한"
+        },
+        {
+          "en": "negative",
+          "ko": "부정적인"
+        },
+        {
+          "en": "satisfied",
+          "ko": "만족스러운"
+        },
+        {
+          "en": "touching",
+          "ko": "감동적인"
+        },
+        {
+          "en": "conservative",
+          "ko": "보수적인"
+        },
+        {
+          "en": "appreciative",
+          "ko": "감사하는"
+        },
+        {
+          "en": "natural",
+          "ko": "자연스러운"
+        },
+        {
+          "en": "humble",
+          "ko": "겸손한"
+        },
+        {
+          "en": "scared",
+          "ko": "겁먹은"
+        },
+        {
+          "en": "romantic",
+          "ko": "낭만적인"
+        },
+        {
+          "en": "anxious",
+          "ko": "걱정하는"
+        },
+        {
+          "en": "refreshed",
+          "ko": "상쾌한"
+        },
+        {
+          "en": "weird",
+          "ko": "이상한"
+        },
+        {
+          "en": "expectant",
+          "ko": "기대하는"
+        },
+        {
+          "en": "instructive",
+          "ko": "교육적인"
+        },
+        {
+          "en": "satirical",
+          "ko": "풍자적인"
+        },
+        {
+          "en": "exotic",
+          "ko": "이국적인"
+        },
+        {
+          "en": "heroic",
+          "ko": "투지 넘치는"
+        },
+        {
+          "en": "fearful",
+          "ko": "무서운"
+        },
+        {
+          "en": "neglected",
+          "ko": "방치된"
+        },
+        {
+          "en": "tedious",
+          "ko": "지루한"
+        },
+        {
+          "en": "shameful",
+          "ko": "부끄러워하는"
+        },
+        {
+          "en": "fascinated",
+          "ko": "매료된"
+        },
+        {
+          "en": "apathetic",
+          "ko": "무관심한"
+        },
+        {
+          "en": "sentimental",
+          "ko": "감상적인"
+        },
+        {
+          "en": "attractive",
+          "ko": "매력적인"
+        },
+        {
+          "en": "terrified",
+          "ko": "무서워하는"
+        },
+        {
+          "en": "agitated",
+          "ko": "불안해하는"
+        },
+        {
+          "en": "puzzled",
+          "ko": "어리둥절해하는"
+        },
+        {
+          "en": "cheerful",
+          "ko": "쾌활한"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "words": [
+        {
+          "en": "selfish",
+          "ko": "이기적인"
+        },
+        {
+          "en": "uncertain",
+          "ko": "불확실한"
+        },
+        {
+          "en": "doubtful",
+          "ko": "의심스러운"
+        },
+        {
+          "en": "lost",
+          "ko": "길을 잃은"
+        },
+        {
+          "en": "hopeless",
+          "ko": "희망이 없는"
+        },
+        {
+          "en": "upset",
+          "ko": "속상한"
+        },
+        {
+          "en": "amazed",
+          "ko": "놀란"
+        },
+        {
+          "en": "uninterested",
+          "ko": "무관심한"
+        },
+        {
+          "en": "optimistic",
+          "ko": "낙관적인"
+        },
+        {
+          "en": "contemptuous",
+          "ko": "경멸하는"
+        },
+        {
+          "en": "boastful",
+          "ko": "자랑하는"
+        },
+        {
+          "en": "silent",
+          "ko": "고요한"
+        },
+        {
+          "en": "disciplined",
+          "ko": "훈련이 잘 된"
+        },
+        {
+          "en": "indifferent",
+          "ko": "무관심한"
+        },
+        {
+          "en": "depressed",
+          "ko": "우울한"
+        },
+        {
+          "en": "sympathetic",
+          "ko": "동정하는"
+        },
+        {
+          "en": "outraged",
+          "ko": "분노한"
+        },
+        {
+          "en": "brave",
+          "ko": "용감한"
+        },
+        {
+          "en": "stern",
+          "ko": "엄격한"
+        },
+        {
+          "en": "positive",
+          "ko": "긍정적인"
+        },
+        {
+          "en": "dynamic",
+          "ko": "역동적인"
+        },
+        {
+          "en": "unexpected",
+          "ko": "예상 밖의"
+        },
+        {
+          "en": "moral",
+          "ko": "도덕적인"
+        },
+        {
+          "en": "helpless",
+          "ko": "무기력한"
+        },
+        {
+          "en": "earnest",
+          "ko": "진심어린"
+        },
+        {
+          "en": "hesitant",
+          "ko": "망설이는"
+        },
+        {
+          "en": "confessional",
+          "ko": "고백의"
+        },
+        {
+          "en": "poetic",
+          "ko": "시적인"
+        },
+        {
+          "en": "ironic",
+          "ko": "풍자적인"
+        },
+        {
+          "en": "plain",
+          "ko": "솔직한"
+        },
+        {
+          "en": "dreadful",
+          "ko": "무서운"
+        },
+        {
+          "en": "explanatory",
+          "ko": "설명적인"
+        },
+        {
+          "en": "zealous",
+          "ko": "열정적인"
+        },
+        {
+          "en": "frightened",
+          "ko": "겁먹은"
+        },
+        {
+          "en": "thoughtful",
+          "ko": "사려깊은"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "words": [
+        {
+          "en": "more than A",
+          "ko": "A 이상"
+        },
+        {
+          "en": "temporary",
+          "ko": "일시적인"
+        },
+        {
+          "en": "from A to B",
+          "ko": "A에서 B까지"
+        },
+        {
+          "en": "make up",
+          "ko": "차지하다"
+        },
+        {
+          "en": "that",
+          "ko": "앞에 나온 단수명사를 지칭"
+        },
+        {
+          "en": "peak",
+          "ko": "최고치"
+        },
+        {
+          "en": "weekday",
+          "ko": "평일"
+        },
+        {
+          "en": "for each",
+          "ko": "각각"
+        },
+        {
+          "en": "higher than A",
+          "ko": "A보다 높은"
+        },
+        {
+          "en": "three fifths",
+          "ko": "5분의 3"
+        },
+        {
+          "en": "sum",
+          "ko": "총계"
+        },
+        {
+          "en": "those",
+          "ko": "앞에 나온 복수명사를 지칭"
+        },
+        {
+          "en": "certain",
+          "ko": "특정한"
+        },
+        {
+          "en": "as seen",
+          "ko": "보이는 것처럼"
+        },
+        {
+          "en": "take fifth place",
+          "ko": "5위를 하다"
+        },
+        {
+          "en": "remain the same as A",
+          "ko": "A와 같다"
+        },
+        {
+          "en": "rate",
+          "ko": "비율"
+        },
+        {
+          "en": "be less likely to A",
+          "ko": "A할 가능성이 가장 적다"
+        },
+        {
+          "en": "be kept under A",
+          "ko": "A미만으로 유지되다"
+        },
+        {
+          "en": "while",
+          "ko": "반면에"
+        },
+        {
+          "en": "weekend",
+          "ko": "주말"
+        },
+        {
+          "en": "total",
+          "ko": "전체의"
+        },
+        {
+          "en": "decline",
+          "ko": "감소하다"
+        },
+        {
+          "en": "remain under 2%",
+          "ko": "2% 미만에 머무르다"
+        },
+        {
+          "en": "combined",
+          "ko": "합쳐진"
+        },
+        {
+          "en": "tendency",
+          "ko": "경향"
+        },
+        {
+          "en": "slightly",
+          "ko": "약간"
+        },
+        {
+          "en": "a few times",
+          "ko": "몇 번"
+        },
+        {
+          "en": "six times larger than A",
+          "ko": "A보다 6배 큰"
+        },
+        {
+          "en": "stable",
+          "ko": "안정적인"
+        },
+        {
+          "en": "drastically",
+          "ko": "급격하게"
+        },
+        {
+          "en": "respondent",
+          "ko": "응답자"
+        },
+        {
+          "en": "mortgage",
+          "ko": "주택 담보 대출"
+        },
+        {
+          "en": "at the top of the list",
+          "ko": "1위이다"
+        },
+        {
+          "en": "pie chart",
+          "ko": "원모양 도표"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "words": [
+        {
+          "en": "regardless of",
+          "ko": "~와 상관없이"
+        },
+        {
+          "en": "indicate",
+          "ko": "나타내다"
+        },
+        {
+          "en": "double digits",
+          "ko": "두 자리 숫자"
+        },
+        {
+          "en": "a half",
+          "ko": "2분의 1"
+        },
+        {
+          "en": "three quarters",
+          "ko": "4분의 3"
+        },
+        {
+          "en": "preference",
+          "ko": "선호"
+        },
+        {
+          "en": "show a recovery",
+          "ko": "회복을 보이다"
+        },
+        {
+          "en": "as far as A is concerned",
+          "ko": "A에 관한 한"
+        },
+        {
+          "en": "the following four years",
+          "ko": "다음 4년"
+        },
+        {
+          "en": "export",
+          "ko": "수출"
+        },
+        {
+          "en": "million",
+          "ko": "백만"
+        },
+        {
+          "en": "the former",
+          "ko": "전자"
+        },
+        {
+          "en": "conduct",
+          "ko": "수행하다"
+        },
+        {
+          "en": "rank in the last place",
+          "ko": "꼴지를 하다"
+        },
+        {
+          "en": "billion",
+          "ko": "십억"
+        },
+        {
+          "en": "slump",
+          "ko": "일시적 감소"
+        },
+        {
+          "en": "contribute",
+          "ko": "기여하다"
+        },
+        {
+          "en": "narrow",
+          "ko": "좁히다"
+        },
+        {
+          "en": "be close behind A",
+          "ko": "A 바로 뒤에 온다"
+        },
+        {
+          "en": "prior to",
+          "ko": "~전에"
+        },
+        {
+          "en": "except (for)",
+          "ko": "~을 제외하고"
+        },
+        {
+          "en": "below",
+          "ko": "~아래에"
+        },
+        {
+          "en": "by",
+          "ko": "~까지"
+        },
+        {
+          "en": "roughly",
+          "ko": "대략"
+        },
+        {
+          "en": "represent",
+          "ko": "나타내다"
+        },
+        {
+          "en": "those aged",
+          "ko": "~나이의 사람들"
+        },
+        {
+          "en": "A to B",
+          "ko": "A에서 B까지"
+        },
+        {
+          "en": "toward(s)",
+          "ko": "~에 대하여"
+        },
+        {
+          "en": "take up the fourth place",
+          "ko": "4위를 하다"
+        },
+        {
+          "en": "tie for second place",
+          "ko": "공동 2위를 하다"
+        },
+        {
+          "en": "yearly",
+          "ko": "해마다"
+        },
+        {
+          "en": "category",
+          "ko": "범주"
+        },
+        {
+          "en": "a quarter",
+          "ko": "4분의 1"
+        },
+        {
+          "en": "surpass",
+          "ko": "넘어서다"
+        },
+        {
+          "en": "chart",
+          "ko": "표"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "words": [
+        {
+          "en": "gross",
+          "ko": "총"
+        },
+        {
+          "en": "go beyond",
+          "ko": "넘어서다"
+        },
+        {
+          "en": "regarding",
+          "ko": "~에 관하여"
+        },
+        {
+          "en": "respectively",
+          "ko": "각각"
+        },
+        {
+          "en": "reach",
+          "ko": "도달하다"
+        },
+        {
+          "en": "jump",
+          "ko": "증가하다"
+        },
+        {
+          "en": "be expected to A",
+          "ko": "A할 것으로 기대되다"
+        },
+        {
+          "en": "rise",
+          "ko": "증가하다"
+        },
+        {
+          "en": "rank",
+          "ko": "순위를 차지하다"
+        },
+        {
+          "en": "region",
+          "ko": "지역"
+        },
+        {
+          "en": "around",
+          "ko": "대략"
+        },
+        {
+          "en": "in contrast to A",
+          "ko": "A와는 대조적으로"
+        },
+        {
+          "en": "continue to A",
+          "ko": "계속 A하다"
+        },
+        {
+          "en": "sort",
+          "ko": "분류하다"
+        },
+        {
+          "en": "quarterly",
+          "ko": "분기마다"
+        },
+        {
+          "en": "within",
+          "ko": "~이내에"
+        },
+        {
+          "en": "corresponding",
+          "ko": "일치하는"
+        },
+        {
+          "en": "go up",
+          "ko": "증가하다"
+        },
+        {
+          "en": "steady",
+          "ko": "꾸준한"
+        },
+        {
+          "en": "recorded little change",
+          "ko": "거의 변화가 기록되지 않았다"
+        },
+        {
+          "en": "import",
+          "ko": "수입"
+        },
+        {
+          "en": "opposite",
+          "ko": "반대의"
+        },
+        {
+          "en": "table",
+          "ko": "표"
+        },
+        {
+          "en": "significantly",
+          "ko": "상당히"
+        },
+        {
+          "en": "specific",
+          "ko": "특정한"
+        },
+        {
+          "en": "rating",
+          "ko": "등급"
+        },
+        {
+          "en": "less than A",
+          "ko": "A 미만"
+        },
+        {
+          "en": "twice as large as A",
+          "ko": "A보다 2배 큰"
+        },
+        {
+          "en": "bar chart",
+          "ko": "막대 도표"
+        },
+        {
+          "en": "consider",
+          "ko": "여기다"
+        },
+        {
+          "en": "amenity",
+          "ko": "편의 서비스"
+        },
+        {
+          "en": "budget",
+          "ko": "예산"
+        },
+        {
+          "en": "decrease",
+          "ko": "감소하다"
+        },
+        {
+          "en": "comparison",
+          "ko": "비교"
+        },
+        {
+          "en": "the second 최상급",
+          "ko": "두 번째로 가장 ~한"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "words": [
+        {
+          "en": "prefer",
+          "ko": "선호하다"
+        },
+        {
+          "en": "the world's fourth -est",
+          "ko": "세계에서 4번째로 ~한"
+        },
+        {
+          "en": "as follows",
+          "ko": "다음과 같이"
+        },
+        {
+          "en": "stay fourth",
+          "ko": "4위에 머무르다"
+        },
+        {
+          "en": "rapid",
+          "ko": "빠른"
+        },
+        {
+          "en": "portion",
+          "ko": "부분"
+        },
+        {
+          "en": "just over 8%",
+          "ko": "8%를 조금 넘는"
+        },
+        {
+          "en": "quite",
+          "ko": "상당히"
+        },
+        {
+          "en": "about",
+          "ko": "대략"
+        },
+        {
+          "en": "compared to/with A",
+          "ko": "A와 비교하여"
+        },
+        {
+          "en": "daily",
+          "ko": "일일"
+        },
+        {
+          "en": "go down",
+          "ko": "감소하다"
+        },
+        {
+          "en": "the other four contries",
+          "ko": "나머지 4개 국가들"
+        },
+        {
+          "en": "leading",
+          "ko": "주요한"
+        },
+        {
+          "en": "rank last",
+          "ko": "꼴지를 하다"
+        },
+        {
+          "en": "followed by A",
+          "ko": "A가 그 뒤를 따르고 있다"
+        },
+        {
+          "en": "by the smallest margin",
+          "ko": "가장 작은 차이로"
+        },
+        {
+          "en": "almost",
+          "ko": "거의"
+        },
+        {
+          "en": "income",
+          "ko": "소득"
+        },
+        {
+          "en": "top five",
+          "ko": "상위 5개"
+        },
+        {
+          "en": "A such as B",
+          "ko": "B같은 A"
+        },
+        {
+          "en": "major",
+          "ko": "중요한"
+        },
+        {
+          "en": ", whose",
+          "ko": "그리고 그것의(그 사람의)"
+        },
+        {
+          "en": "consume",
+          "ko": "소비하다"
+        },
+        {
+          "en": "similar",
+          "ko": "비슷한"
+        },
+        {
+          "en": "minor",
+          "ko": "중요하지 않은"
+        },
+        {
+          "en": "a sixth",
+          "ko": "6분의 1"
+        },
+        {
+          "en": "fall",
+          "ko": "감소하다"
+        },
+        {
+          "en": "until",
+          "ko": "~까지"
+        },
+        {
+          "en": "with a gap of A",
+          "ko": "A의 차이를 가지고 있는"
+        },
+        {
+          "en": "fewer",
+          "ko": "더 적은"
+        },
+        {
+          "en": "whole",
+          "ko": "전체의"
+        },
+        {
+          "en": "the previous year",
+          "ko": "전년도"
+        },
+        {
+          "en": "those who",
+          "ko": "~한 사람들"
+        },
+        {
+          "en": "show ups and downs",
+          "ko": "오르내림을 보이다"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "words": [
+        {
+          "en": "approximate",
+          "ko": "근접하다"
+        },
+        {
+          "en": "purpose",
+          "ko": "목적"
+        },
+        {
+          "en": "keep -ing",
+          "ko": "계속 ~하다"
+        },
+        {
+          "en": "dramatically",
+          "ko": "급격하게"
+        },
+        {
+          "en": "the shaded area",
+          "ko": "음영된 부분"
+        },
+        {
+          "en": "outnumber",
+          "ko": "~보다 수가 더 많다"
+        },
+        {
+          "en": "feature",
+          "ko": "특징"
+        },
+        {
+          "en": "preceded by A",
+          "ko": "A가 앞서고 있다"
+        },
+        {
+          "en": "A is second to none",
+          "ko": "A가 1위이다"
+        },
+        {
+          "en": "female",
+          "ko": "여성"
+        },
+        {
+          "en": "constant",
+          "ko": "꾸준한"
+        },
+        {
+          "en": "decade",
+          "ko": "10년"
+        },
+        {
+          "en": "distinctly",
+          "ko": "명백히"
+        },
+        {
+          "en": "consistent",
+          "ko": "꾸준한"
+        },
+        {
+          "en": "mode",
+          "ko": "방식"
+        },
+        {
+          "en": "be ranked the third",
+          "ko": "3위를 하다"
+        },
+        {
+          "en": "A and B together",
+          "ko": "A와 B 합쳐서"
+        },
+        {
+          "en": "increase",
+          "ko": "증가하다"
+        },
+        {
+          "en": "gradually",
+          "ko": "점진적으로"
+        },
+        {
+          "en": "one out of ten",
+          "ko": "10개중 1개"
+        },
+        {
+          "en": "kind",
+          "ko": "종류"
+        },
+        {
+          "en": "annual",
+          "ko": "해마다의"
+        },
+        {
+          "en": "continuously",
+          "ko": "꾸준히"
+        },
+        {
+          "en": "by the largest margin",
+          "ko": "가장 큰 차이로"
+        },
+        {
+          "en": "be most likely to A",
+          "ko": "A할 가능성이 가장 크다"
+        },
+        {
+          "en": "relatively",
+          "ko": "상대적으로"
+        },
+        {
+          "en": "as for",
+          "ko": "~에 있어서"
+        },
+        {
+          "en": "transportation",
+          "ko": "교통"
+        },
+        {
+          "en": "track",
+          "ko": "쫓아가다"
+        },
+        {
+          "en": "reverse",
+          "ko": "뒤집다"
+        },
+        {
+          "en": "unchanged",
+          "ko": "변화가 없는"
+        },
+        {
+          "en": "persistently",
+          "ko": "꾸준히"
+        },
+        {
+          "en": "widely",
+          "ko": "널리"
+        },
+        {
+          "en": "per",
+          "ko": "~마다"
+        },
+        {
+          "en": "gap",
+          "ko": "차이"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "words": [
+        {
+          "en": "share",
+          "ko": "몫"
+        },
+        {
+          "en": "place second",
+          "ko": "2위를 하다"
+        },
+        {
+          "en": "return",
+          "ko": "되돌아가다"
+        },
+        {
+          "en": "approximately",
+          "ko": "대략"
+        },
+        {
+          "en": "over",
+          "ko": "~이상"
+        },
+        {
+          "en": "respond",
+          "ko": "응답하다"
+        },
+        {
+          "en": "ratio",
+          "ko": "비율"
+        },
+        {
+          "en": "double",
+          "ko": "2배가 되다"
+        },
+        {
+          "en": "on average",
+          "ko": "평균적으로"
+        },
+        {
+          "en": "the given period",
+          "ko": "주어진 기간"
+        },
+        {
+          "en": "twice",
+          "ko": "2배"
+        },
+        {
+          "en": "the number one",
+          "ko": "1위의"
+        },
+        {
+          "en": "overtake",
+          "ko": "추월하다"
+        },
+        {
+          "en": "growth",
+          "ko": "성장"
+        },
+        {
+          "en": "the following year",
+          "ko": "다음 해"
+        },
+        {
+          "en": "yield",
+          "ko": "생산량"
+        },
+        {
+          "en": "grade",
+          "ko": "학년"
+        },
+        {
+          "en": "take up",
+          "ko": "차지하다"
+        },
+        {
+          "en": "prevalent",
+          "ko": "널리 퍼진"
+        },
+        {
+          "en": "triple",
+          "ko": "3배가 되다"
+        },
+        {
+          "en": "proven",
+          "ko": "확인된"
+        },
+        {
+          "en": "select",
+          "ko": "선택하다"
+        },
+        {
+          "en": "stay between 2 and 6%",
+          "ko": "2~6% 사이에 머무르다"
+        },
+        {
+          "en": "overall",
+          "ko": "전반적으로"
+        },
+        {
+          "en": "the third top",
+          "ko": "최상위 세 번째의"
+        },
+        {
+          "en": "with the exception of A",
+          "ko": "A는 예외로 하고"
+        },
+        {
+          "en": "monthly",
+          "ko": "매월"
+        },
+        {
+          "en": "sector",
+          "ko": "부문"
+        },
+        {
+          "en": "among",
+          "ko": "~중에서"
+        },
+        {
+          "en": "male",
+          "ko": "남성"
+        },
+        {
+          "en": "closely",
+          "ko": "근접하여"
+        },
+        {
+          "en": "exceed",
+          "ko": "초과하다"
+        },
+        {
+          "en": "the number of A",
+          "ko": "A의 수"
+        },
+        {
+          "en": "a sharp drop",
+          "ko": "급격한 감소"
+        },
+        {
+          "en": "sharply",
+          "ko": "급격하게"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "words": [
+        {
+          "en": "amount to",
+          "ko": "합계가 ~에 이르다"
+        },
+        {
+          "en": "top the list",
+          "ko": "1위를 차지하다"
+        },
+        {
+          "en": "two thirds",
+          "ko": "3분의 2"
+        },
+        {
+          "en": "divided into A",
+          "ko": "A로 나뉘어진"
+        },
+        {
+          "en": "stay at 20%",
+          "ko": "20%에 머무르다"
+        },
+        {
+          "en": "a marginal difference",
+          "ko": "근소한 차이"
+        },
+        {
+          "en": "past",
+          "ko": "지난"
+        },
+        {
+          "en": "thereafter",
+          "ko": "그 후에"
+        },
+        {
+          "en": "by gender",
+          "ko": "성별로"
+        },
+        {
+          "en": "the least",
+          "ko": "가장 적은"
+        },
+        {
+          "en": "hold",
+          "ko": "차지하다"
+        },
+        {
+          "en": "continual",
+          "ko": "꾸준한"
+        },
+        {
+          "en": "three times",
+          "ko": "3배"
+        },
+        {
+          "en": "commute",
+          "ko": "통근하다"
+        },
+        {
+          "en": "fall short of A",
+          "ko": "A에 미치지 못하다"
+        },
+        {
+          "en": "the most",
+          "ko": "가장 많은"
+        },
+        {
+          "en": "expenditure",
+          "ko": "지출"
+        },
+        {
+          "en": ", which",
+          "ko": "그리고 그것은(그것을)"
+        },
+        {
+          "en": "across",
+          "ko": "~에 걸쳐서"
+        },
+        {
+          "en": "survey",
+          "ko": "조사"
+        },
+        {
+          "en": "be true for/of A",
+          "ko": "A도 마찬가지다"
+        },
+        {
+          "en": "as shown",
+          "ko": "보이는 것처럼"
+        },
+        {
+          "en": "be projected to A",
+          "ko": "A할 것으로 예측되다"
+        },
+        {
+          "en": "account for",
+          "ko": "차지하다"
+        },
+        {
+          "en": "the latter",
+          "ko": "후자"
+        },
+        {
+          "en": "nearly",
+          "ko": "거의"
+        },
+        {
+          "en": "the 비교급, the 비교급",
+          "ko": "~하면 할수록, 더 ~하다"
+        },
+        {
+          "en": "a bit",
+          "ko": "약간"
+        },
+        {
+          "en": "steeply",
+          "ko": "급격하게"
+        },
+        {
+          "en": "rank third",
+          "ko": "3위를 하다"
+        },
+        {
+          "en": "record",
+          "ko": "기록하다"
+        },
+        {
+          "en": "estimate",
+          "ko": "추정하다"
+        },
+        {
+          "en": "amount",
+          "ko": "양"
+        },
+        {
+          "en": "drop",
+          "ko": "감소하다"
+        },
+        {
+          "en": "otherwise",
+          "ko": "그렇지 않으면"
+        }
+      ]
+    }
+  ]
+}

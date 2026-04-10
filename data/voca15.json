@@ -1,0 +1,4730 @@
+{
+  "title": "프리미엄보카 고등기본1 - 영영",
+  "days": [
+    {
+      "day": 1,
+      "words": [
+        {
+          "en": "account",
+          "ko": "설명하다",
+          "meaning": "to give an explanation or description of something"
+        },
+        {
+          "en": "disgust",
+          "ko": "혐오",
+          "meaning": "a strong feeling of dislike or revulsion"
+        },
+        {
+          "en": "retire",
+          "ko": "은퇴하다",
+          "meaning": "to stop working permanently, usually due to age"
+        },
+        {
+          "en": "sensible",
+          "ko": "분별력 있는",
+          "meaning": "showing good judgment or practical understanding"
+        },
+        {
+          "en": "fellow",
+          "ko": "동료",
+          "meaning": "a person who shares a common interest or activity with others; a companion"
+        },
+        {
+          "en": "predecessor",
+          "ko": "전임자",
+          "meaning": "a person who held a position or job before someone else"
+        },
+        {
+          "en": "misleading",
+          "ko": "오해하게 하는",
+          "meaning": "causing someone to have a wrong idea or impression"
+        },
+        {
+          "en": "paralyze",
+          "ko": "마비시키다",
+          "meaning": "to cause a person or part of the body to lose the ability to move"
+        },
+        {
+          "en": "chase",
+          "ko": "추격하다",
+          "meaning": "to follow someone or something quickly in order to catch them"
+        },
+        {
+          "en": "sow",
+          "ko": "씨를 뿌리다",
+          "meaning": "to plant seeds in the ground for growing crops"
+        },
+        {
+          "en": "minister",
+          "ko": "성직자",
+          "meaning": "a religious leader or clergy member who performs spiritual duties"
+        },
+        {
+          "en": "sarcastic",
+          "ko": "빈정대는",
+          "meaning": "using irony to mock or convey contempt"
+        },
+        {
+          "en": "bulletin",
+          "ko": "게시",
+          "meaning": "a short official statement or announcement, often public"
+        },
+        {
+          "en": "sponsor",
+          "ko": "후원하다",
+          "meaning": "to support someone or something financially or by providing resources"
+        },
+        {
+          "en": "weird",
+          "ko": "이상한",
+          "meaning": "strange or unusual in an unexpected way"
+        },
+        {
+          "en": "perceive",
+          "ko": "인지하다",
+          "meaning": "to become aware of something through the senses or understanding"
+        },
+        {
+          "en": "certificate",
+          "ko": "증명서",
+          "meaning": "an official document that proves a fact or qualification"
+        },
+        {
+          "en": "eruption",
+          "ko": "분출",
+          "meaning": "a sudden release of pressure, such as from a volcano or explosion"
+        },
+        {
+          "en": "landslide",
+          "ko": "산사태",
+          "meaning": "the rapid downward movement of a mass of earth or rock"
+        },
+        {
+          "en": "include",
+          "ko": "포함하다",
+          "meaning": "to contain something as part of a whole"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "words": [
+        {
+          "en": "throb",
+          "ko": "욱신거리다",
+          "meaning": "to beat or pulse with a strong, regular rhythm, often painfully"
+        },
+        {
+          "en": "overcharge",
+          "ko": "과잉 청구하다",
+          "meaning": "to ask for too much money for a product or service"
+        },
+        {
+          "en": "possess",
+          "ko": "소유하다",
+          "meaning": "to have or own something"
+        },
+        {
+          "en": "cemetery",
+          "ko": "공동묘지",
+          "meaning": "a place where people are buried after they die"
+        },
+        {
+          "en": "racial",
+          "ko": "인종의",
+          "meaning": "relating to race or ethnic background"
+        },
+        {
+          "en": "monarch",
+          "ko": "군주",
+          "meaning": "a king, queen, or sovereign ruler of a country"
+        },
+        {
+          "en": "compassion",
+          "ko": "연민",
+          "meaning": "sympathy and concern for the suffering of others"
+        },
+        {
+          "en": "impair",
+          "ko": "손상시키다",
+          "meaning": "to damage or weaken something"
+        },
+        {
+          "en": "tackle",
+          "ko": "문제를 다루다",
+          "meaning": "to deal with a difficult problem or task"
+        },
+        {
+          "en": "equivalent",
+          "ko": "상응하는",
+          "meaning": "equal in value, amount, function, or meaning"
+        },
+        {
+          "en": "rigid",
+          "ko": "엄격한",
+          "meaning": "strict and unchanging; not flexible"
+        },
+        {
+          "en": "bunch",
+          "ko": "묶음",
+          "meaning": "a group of things that are fastened or held together"
+        },
+        {
+          "en": "inferior",
+          "ko": "열등한",
+          "meaning": "lower in quality, status, or rank compared to others"
+        },
+        {
+          "en": "semiconductor",
+          "ko": "반도체",
+          "meaning": "a material that partially conducts electricity, used in electronic devices"
+        },
+        {
+          "en": "horn",
+          "ko": "뿔",
+          "meaning": "a hard, pointed growth on the heads of some animals"
+        },
+        {
+          "en": "offense",
+          "ko": "위반",
+          "meaning": "a violation of a rule, law, or social norm"
+        },
+        {
+          "en": "impress",
+          "ko": "감동시키다",
+          "meaning": "to make someone feel admiration or respect"
+        },
+        {
+          "en": "iconic",
+          "ko": "상징적인",
+          "meaning": "widely recognized and representative of something significant"
+        },
+        {
+          "en": "feast",
+          "ko": "축제",
+          "meaning": "a large, elaborate meal, often for a celebration"
+        },
+        {
+          "en": "commit",
+          "ko": "전념하다",
+          "meaning": "to dedicate oneself fully to an activity or cause"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "words": [
+        {
+          "en": "fascinate",
+          "ko": "매혹하다",
+          "meaning": "to attract and hold someone’s interest or attention"
+        },
+        {
+          "en": "stretch",
+          "ko": "늘이다",
+          "meaning": "to make something longer or wider by pulling it"
+        },
+        {
+          "en": "undermine",
+          "ko": "약화시키다",
+          "meaning": "to weaken or damage something gradually"
+        },
+        {
+          "en": "intuitive",
+          "ko": "직관력 있는",
+          "meaning": "based on instinctive understanding without the need for reasoning"
+        },
+        {
+          "en": "subtle",
+          "ko": "미묘한",
+          "meaning": "delicate or difficult to detect; not obvious"
+        },
+        {
+          "en": "progress",
+          "ko": "진보하다",
+          "meaning": "to move forward or improve over time"
+        },
+        {
+          "en": "canal",
+          "ko": "운하",
+          "meaning": "a man-made waterway for navigation or irrigation"
+        },
+        {
+          "en": "complement",
+          "ko": "보충하다",
+          "meaning": "to complete or enhance something by adding to it"
+        },
+        {
+          "en": "shatter",
+          "ko": "산산이 부서지다",
+          "meaning": "to break into many small pieces suddenly"
+        },
+        {
+          "en": "agriculture",
+          "ko": "농업",
+          "meaning": "the practice of farming, including growing crops and raising animals"
+        },
+        {
+          "en": "recharge",
+          "ko": "재충전하다",
+          "meaning": "to restore energy or power to something"
+        },
+        {
+          "en": "foretell",
+          "ko": "예언하다",
+          "meaning": "to predict or forecast something before it happens"
+        },
+        {
+          "en": "overnight",
+          "ko": "하룻밤에",
+          "meaning": "during or throughout the night"
+        },
+        {
+          "en": "slap",
+          "ko": "찰싹 때리다",
+          "meaning": "to hit someone or something with the flat part of the hand"
+        },
+        {
+          "en": "chatter",
+          "ko": "수다를 떨다",
+          "meaning": "to talk quickly and casually about unimportant things"
+        },
+        {
+          "en": "invert",
+          "ko": "뒤집다",
+          "meaning": "to turn something upside down or reverse its position"
+        },
+        {
+          "en": "exert",
+          "ko": "노력하다",
+          "meaning": "to apply effort, energy, or force to achieve something"
+        },
+        {
+          "en": "election",
+          "ko": "선거",
+          "meaning": "the process of voting to choose a leader or representative"
+        },
+        {
+          "en": "hire",
+          "ko": "고용하다",
+          "meaning": "to employ someone for a job or task"
+        },
+        {
+          "en": "authority",
+          "ko": "권위",
+          "meaning": "the power or right to give orders, make decisions, or control others"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "words": [
+        {
+          "en": "boost",
+          "ko": "끌어올리다",
+          "meaning": "to increase or improve something, often by raising it to a higher level"
+        },
+        {
+          "en": "justify",
+          "ko": "정당화하다",
+          "meaning": "to provide a valid reason or explanation for something"
+        },
+        {
+          "en": "continuum",
+          "ko": "연속체",
+          "meaning": "a continuous sequence or range where each part is slightly different from the next"
+        },
+        {
+          "en": "dramatic",
+          "ko": "극적인",
+          "meaning": "very noticeable, exciting, or emotional in effect"
+        },
+        {
+          "en": "testimony",
+          "ko": "증언",
+          "meaning": "a formal statement given as evidence, especially in a legal setting"
+        },
+        {
+          "en": "utter",
+          "ko": "말하다",
+          "meaning": "to speak or make a sound with the voice"
+        },
+        {
+          "en": "harvest",
+          "ko": "수확하다",
+          "meaning": "to gather crops or produce from the fields"
+        },
+        {
+          "en": "overlap",
+          "ko": "겹치다",
+          "meaning": "to extend over and partly cover something else"
+        },
+        {
+          "en": "vein",
+          "ko": "정맥",
+          "meaning": "a blood vessel that carries blood toward the heart"
+        },
+        {
+          "en": "headquarters",
+          "ko": "본부",
+          "meaning": "the central office or main location of an organization"
+        },
+        {
+          "en": "cliche",
+          "ko": "상투적인 문구",
+          "meaning": "an overused phrase or expression that has lost its originality"
+        },
+        {
+          "en": "subscribe",
+          "ko": "구독하다",
+          "meaning": "to sign up to receive regular access to a service or publication"
+        },
+        {
+          "en": "mimic",
+          "ko": "흉내내다",
+          "meaning": "to imitate someone’s behavior, speech, or actions, often humorously"
+        },
+        {
+          "en": "profile",
+          "ko": "측면",
+          "meaning": "the side view of something, especially of a person’s face"
+        },
+        {
+          "en": "geometry",
+          "ko": "기하학",
+          "meaning": "the branch of mathematics concerned with shapes, sizes, and properties of space"
+        },
+        {
+          "en": "accumulate",
+          "ko": "축적하다",
+          "meaning": "to collect or gather things over time"
+        },
+        {
+          "en": "translate",
+          "ko": "번역하다",
+          "meaning": "to convert words or text from one language into another"
+        },
+        {
+          "en": "warrior",
+          "ko": "전사",
+          "meaning": "a person who fights in battles, often with bravery or skill"
+        },
+        {
+          "en": "expense",
+          "ko": "비용",
+          "meaning": "the cost required for something; money spent"
+        },
+        {
+          "en": "inconvenience",
+          "ko": "불편",
+          "meaning": "something that causes discomfort, trouble, or difficulty"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "words": [
+        {
+          "en": "suicide",
+          "ko": "자살하다",
+          "meaning": "to intentionally take one's own life"
+        },
+        {
+          "en": "pinch",
+          "ko": "꼬집다",
+          "meaning": "to squeeze something tightly between two fingers"
+        },
+        {
+          "en": "disapprove",
+          "ko": "반대하다",
+          "meaning": "to express a negative opinion about something"
+        },
+        {
+          "en": "diabetes",
+          "ko": "당뇨병",
+          "meaning": "a medical condition where the body struggles to regulate blood sugar levels"
+        },
+        {
+          "en": "misuse",
+          "ko": "오용하다",
+          "meaning": "to use something in the wrong way or for the wrong purpose"
+        },
+        {
+          "en": "stability",
+          "ko": "안정성",
+          "meaning": "the condition of being steady, secure, or resistant to change"
+        },
+        {
+          "en": "spot",
+          "ko": "발견하다",
+          "meaning": "to notice or detect something, especially something difficult to see"
+        },
+        {
+          "en": "grill",
+          "ko": "굽다",
+          "meaning": "to cook food over direct heat, usually on a metal grate"
+        },
+        {
+          "en": "ethnic",
+          "ko": "민족의",
+          "meaning": "relating to a particular cultural, racial, or national group"
+        },
+        {
+          "en": "fasten",
+          "ko": "매다",
+          "meaning": "to secure or attach something firmly in place"
+        },
+        {
+          "en": "guidance",
+          "ko": "지도",
+          "meaning": "advice or direction given to help someone make decisions"
+        },
+        {
+          "en": "commodity",
+          "ko": "상품",
+          "meaning": "a raw material or product that can be bought and sold"
+        },
+        {
+          "en": "spouse",
+          "ko": "배우자",
+          "meaning": "a person’s husband or wife"
+        },
+        {
+          "en": "fabric",
+          "ko": "직물",
+          "meaning": "material made from fibers, used to make clothes or other goods"
+        },
+        {
+          "en": "choke",
+          "ko": "숨이 막히다",
+          "meaning": "to have difficulty breathing because something is blocking the throat"
+        },
+        {
+          "en": "analogy",
+          "ko": "유추",
+          "meaning": "a comparison showing similarities between two different things"
+        },
+        {
+          "en": "universal",
+          "ko": "보편적인",
+          "meaning": "existing or true for all people or situations"
+        },
+        {
+          "en": "inflation",
+          "ko": "물가 인상",
+          "meaning": "the general rise in prices, reducing the purchasing power of money"
+        },
+        {
+          "en": "vaccination",
+          "ko": "예방접종",
+          "meaning": "the act of giving a vaccine to protect against disease"
+        },
+        {
+          "en": "monologue",
+          "ko": "독백",
+          "meaning": "a long speech by one person in a play, movie, or conversation"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "words": [
+        {
+          "en": "immigrant",
+          "ko": "이민자",
+          "meaning": "a person who moves to another country to live permanently"
+        },
+        {
+          "en": "alley",
+          "ko": "골목",
+          "meaning": "a narrow passageway between buildings or streets"
+        },
+        {
+          "en": "reputation",
+          "ko": "평판",
+          "meaning": "the general opinion people have about someone or something"
+        },
+        {
+          "en": "worsen",
+          "ko": "악화되다",
+          "meaning": "to become worse or more severe"
+        },
+        {
+          "en": "pretend",
+          "ko": "~인 척하다",
+          "meaning": "to act as if something is true when it is not"
+        },
+        {
+          "en": "timber",
+          "ko": "목재",
+          "meaning": "wood that has been prepared for building or construction"
+        },
+        {
+          "en": "modifier",
+          "ko": "수식어",
+          "meaning": "a word or phrase that changes the meaning of another word"
+        },
+        {
+          "en": "reap",
+          "ko": "수확하다",
+          "meaning": "to gather a crop or receive a reward as a result of effort"
+        },
+        {
+          "en": "overpopulation",
+          "ko": "인구 과잉",
+          "meaning": "the condition of having too many people in a particular area"
+        },
+        {
+          "en": "species",
+          "ko": "생물 종",
+          "meaning": "a group of living organisms that share common characteristics"
+        },
+        {
+          "en": "spectrum",
+          "ko": "범위",
+          "meaning": "a range of different things, often related to colors, opinions, or conditions"
+        },
+        {
+          "en": "transcend",
+          "ko": "초월하다",
+          "meaning": "to go beyond the limits of something; to surpass"
+        },
+        {
+          "en": "terminate",
+          "ko": "끝내다",
+          "meaning": "to bring something to an end"
+        },
+        {
+          "en": "signature",
+          "ko": "서명",
+          "meaning": "a person’s name written in their own handwriting for identification"
+        },
+        {
+          "en": "overstate",
+          "ko": "과장하여 말하다",
+          "meaning": "to describe something as more important or extreme than it really is"
+        },
+        {
+          "en": "assumption",
+          "ko": "가정",
+          "meaning": "something accepted as true without proof"
+        },
+        {
+          "en": "float",
+          "ko": "뜨다",
+          "meaning": "to rest or move on the surface of a liquid without sinking"
+        },
+        {
+          "en": "manual",
+          "ko": "손으로 만든",
+          "meaning": "made or operated by hand, rather than by machine"
+        },
+        {
+          "en": "witness",
+          "ko": "목격하다",
+          "meaning": "to see an event happen, especially something important or dramatic"
+        },
+        {
+          "en": "prehistoric",
+          "ko": "선사시대의",
+          "meaning": "relating to the time before written history"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "words": [
+        {
+          "en": "variation",
+          "ko": "변화",
+          "meaning": "a change or slight difference in condition, amount, or level"
+        },
+        {
+          "en": "thoughtful",
+          "ko": "사려 깊은",
+          "meaning": "showing care or consideration for others"
+        },
+        {
+          "en": "tune",
+          "ko": "선율",
+          "meaning": "a sequence of musical notes that form a melody"
+        },
+        {
+          "en": "defend",
+          "ko": "방어하다",
+          "meaning": "to protect from harm or attack"
+        },
+        {
+          "en": "scout",
+          "ko": "정찰병",
+          "meaning": "a person sent to gather information, often in the military or sports"
+        },
+        {
+          "en": "dilemma",
+          "ko": "어려운 문제",
+          "meaning": "a situation where a difficult choice must be made between two options"
+        },
+        {
+          "en": "import",
+          "ko": "수입하다",
+          "meaning": "to bring goods or services into a country from abroad for sale"
+        },
+        {
+          "en": "tangible",
+          "ko": "만질 수 있는",
+          "meaning": "capable of being touched or physically felt"
+        },
+        {
+          "en": "tact",
+          "ko": "요령",
+          "meaning": "the ability to deal with sensitive matters without offending others"
+        },
+        {
+          "en": "vapor",
+          "ko": "증기",
+          "meaning": "a substance in the gas phase, often from evaporation"
+        },
+        {
+          "en": "orphan",
+          "ko": "고아",
+          "meaning": "a child whose parents are deceased"
+        },
+        {
+          "en": "proof",
+          "ko": "증거",
+          "meaning": "evidence that shows something is true or valid"
+        },
+        {
+          "en": "layer",
+          "ko": "층",
+          "meaning": "a thickness or sheet of material lying over or under another"
+        },
+        {
+          "en": "sum",
+          "ko": "합계",
+          "meaning": "the total amount resulting from the addition of numbers"
+        },
+        {
+          "en": "irreplaceable",
+          "ko": "대체할 수 없는",
+          "meaning": "impossible to replace because of being unique or valuable"
+        },
+        {
+          "en": "dismiss",
+          "ko": "해고하다",
+          "meaning": "to remove someone from their job"
+        },
+        {
+          "en": "splendid",
+          "ko": "훌륭한",
+          "meaning": "very impressive, beautiful, or excellent"
+        },
+        {
+          "en": "emphasize",
+          "ko": "강조하다",
+          "meaning": "to give special importance or attention to something"
+        },
+        {
+          "en": "glance",
+          "ko": "흘끗 보다",
+          "meaning": "to take a quick or brief look at something"
+        },
+        {
+          "en": "unlikely",
+          "ko": "~할 것 같지 않은",
+          "meaning": "not probable to happen or be true"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "words": [
+        {
+          "en": "collide",
+          "ko": "충돌하다",
+          "meaning": "to crash into something forcefully"
+        },
+        {
+          "en": "smash",
+          "ko": "박살내다",
+          "meaning": "to break something into pieces with great force"
+        },
+        {
+          "en": "leap",
+          "ko": "도약하다",
+          "meaning": "to jump or spring a long distance or to a great height"
+        },
+        {
+          "en": "disclose",
+          "ko": "밝히다",
+          "meaning": "to reveal or make known information that was previously secret"
+        },
+        {
+          "en": "metaphor",
+          "ko": "은유",
+          "meaning": "a figure of speech that describes something by comparing it to something else"
+        },
+        {
+          "en": "guard",
+          "ko": "지키다",
+          "meaning": "to protect someone or something from danger or harm"
+        },
+        {
+          "en": "draft",
+          "ko": "초안",
+          "meaning": "a preliminary version of a written document"
+        },
+        {
+          "en": "treasure",
+          "ko": "소중히 여기다",
+          "meaning": "to value something highly and treat it with great care"
+        },
+        {
+          "en": "onset",
+          "ko": "시작",
+          "meaning": "the beginning or start of something, especially something negative or unpleasant"
+        },
+        {
+          "en": "envious",
+          "ko": "부러워하는",
+          "meaning": "feeling desire or jealousy for what someone else has"
+        },
+        {
+          "en": "cater",
+          "ko": "음식을 제공하다",
+          "meaning": "to provide food and drinks for an event or gathering"
+        },
+        {
+          "en": "bully",
+          "ko": "괴롭히다",
+          "meaning": "to intimidate or harm someone weaker or vulnerable"
+        },
+        {
+          "en": "tempt",
+          "ko": "유혹하다",
+          "meaning": "to attract or persuade someone to do something, often wrong or unwise"
+        },
+        {
+          "en": "multitask",
+          "ko": "다중 작업을 하다",
+          "meaning": "to perform multiple tasks at the same time"
+        },
+        {
+          "en": "invisible",
+          "ko": "보이지 않는",
+          "meaning": "not able to be seen by the eye"
+        },
+        {
+          "en": "rapid",
+          "ko": "빠른",
+          "meaning": "happening or moving very quickly"
+        },
+        {
+          "en": "abolish",
+          "ko": "폐지하다",
+          "meaning": "to formally put an end to a law, system, or practice"
+        },
+        {
+          "en": "abuse",
+          "ko": "남용하다",
+          "meaning": "to use something in a harmful or improper way"
+        },
+        {
+          "en": "reconcile",
+          "ko": "화해하다",
+          "meaning": "to restore friendly relations after a disagreement"
+        },
+        {
+          "en": "nationality",
+          "ko": "국적",
+          "meaning": "the status of belonging to a specific nation by birth or citizenship"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "words": [
+        {
+          "en": "crash",
+          "ko": "충돌하다",
+          "meaning": "to collide violently with something"
+        },
+        {
+          "en": "blessing",
+          "ko": "축복",
+          "meaning": "a beneficial gift or favor, often considered from a higher power"
+        },
+        {
+          "en": "unify",
+          "ko": "통합하다",
+          "meaning": "to bring people or things together into a single group or system"
+        },
+        {
+          "en": "favor",
+          "ko": "찬성하다",
+          "meaning": "to support or approve of something or someone"
+        },
+        {
+          "en": "enterprise",
+          "ko": "기업",
+          "meaning": "a business or company, especially one involving risk"
+        },
+        {
+          "en": "fable",
+          "ko": "우화",
+          "meaning": "a short story, typically with animals, that conveys a moral lesson"
+        },
+        {
+          "en": "isolated",
+          "ko": "고립된",
+          "meaning": "separated from others; alone or remote"
+        },
+        {
+          "en": "inaudible",
+          "ko": "들리지 않는",
+          "meaning": "impossible to hear"
+        },
+        {
+          "en": "fulfill",
+          "ko": "실행하다",
+          "meaning": "to carry out or achieve a task, duty, or promise"
+        },
+        {
+          "en": "runaway",
+          "ko": "도망자",
+          "meaning": "a person who has left home or escaped from something, often without permission"
+        },
+        {
+          "en": "involuntary",
+          "ko": "무의식의",
+          "meaning": "done without conscious control or intention"
+        },
+        {
+          "en": "convince",
+          "ko": "설득하다",
+          "meaning": "to persuade someone to believe or do something"
+        },
+        {
+          "en": "authenticity",
+          "ko": "확실성",
+          "meaning": "the quality of being real, genuine, or true"
+        },
+        {
+          "en": "expose",
+          "ko": "노출시키다",
+          "meaning": "to reveal something hidden or secret"
+        },
+        {
+          "en": "outdo",
+          "ko": "능가하다",
+          "meaning": "to perform better than someone else"
+        },
+        {
+          "en": "accomplish",
+          "ko": "성취하다",
+          "meaning": "to successfully complete a goal or task"
+        },
+        {
+          "en": "minor",
+          "ko": "소수의",
+          "meaning": "smaller in size, importance, or degree"
+        },
+        {
+          "en": "plenty",
+          "ko": "많음",
+          "meaning": "a large or sufficient amount of something"
+        },
+        {
+          "en": "flexible",
+          "ko": "유연한",
+          "meaning": "able to bend easily or adapt to new conditions"
+        },
+        {
+          "en": "string",
+          "ko": "끈",
+          "meaning": "a thin cord or piece of material used for tying things together"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "words": [
+        {
+          "en": "urgent",
+          "ko": "긴급한",
+          "meaning": "requiring immediate attention or action"
+        },
+        {
+          "en": "potent",
+          "ko": "강력한",
+          "meaning": "having great power, influence, or effect"
+        },
+        {
+          "en": "intercept",
+          "ko": "가로채다",
+          "meaning": "to stop or catch something before it reaches its destination"
+        },
+        {
+          "en": "outfit",
+          "ko": "옷",
+          "meaning": "a set of clothes worn together, often for a specific purpose"
+        },
+        {
+          "en": "pound",
+          "ko": "두드리다",
+          "meaning": "to hit something repeatedly with force"
+        },
+        {
+          "en": "foremost",
+          "ko": "가장 중요한",
+          "meaning": "the most important or leading in position or rank"
+        },
+        {
+          "en": "downward",
+          "ko": "내려가는",
+          "meaning": "moving or directed toward a lower position"
+        },
+        {
+          "en": "intention",
+          "ko": "의도",
+          "meaning": "a plan or purpose behind an action"
+        },
+        {
+          "en": "recollect",
+          "ko": "회상하다",
+          "meaning": "to remember something from the past"
+        },
+        {
+          "en": "shudder",
+          "ko": "몸을 떨다",
+          "meaning": "to tremble or shake, often from fear or cold"
+        },
+        {
+          "en": "annals",
+          "ko": "연대기",
+          "meaning": "historical records or chronicles of events"
+        },
+        {
+          "en": "attractive",
+          "ko": "매력적인",
+          "meaning": "pleasing or appealing to the senses or mind"
+        },
+        {
+          "en": "whereas",
+          "ko": "~인 반면",
+          "meaning": "used to contrast two different facts or ideas"
+        },
+        {
+          "en": "summary",
+          "ko": "요약",
+          "meaning": "a brief statement of the main points of something"
+        },
+        {
+          "en": "factual",
+          "ko": "사실상의",
+          "meaning": "based on facts and reality, not opinions"
+        },
+        {
+          "en": "expenditure",
+          "ko": "지출",
+          "meaning": "the act of spending money or using resources"
+        },
+        {
+          "en": "convert",
+          "ko": "전환하다",
+          "meaning": "to change something from one form to another"
+        },
+        {
+          "en": "stock",
+          "ko": "재고",
+          "meaning": "the supply of goods available for sale or use"
+        },
+        {
+          "en": "procession",
+          "ko": "행렬",
+          "meaning": "a group of people or vehicles moving in an orderly way"
+        },
+        {
+          "en": "reptile",
+          "ko": "파충류",
+          "meaning": "a cold-blooded animal with scales, such as a snake or lizard"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "words": [
+        {
+          "en": "undergraduate",
+          "ko": "대학생",
+          "meaning": "a student studying for their first degree at a university"
+        },
+        {
+          "en": "faith",
+          "ko": "신념",
+          "meaning": "strong belief or trust in someone or something"
+        },
+        {
+          "en": "earnest",
+          "ko": "열심인",
+          "meaning": "showing serious and sincere effort or intention"
+        },
+        {
+          "en": "advent",
+          "ko": "출현",
+          "meaning": "the arrival or appearance of something important"
+        },
+        {
+          "en": "paddle",
+          "ko": "노를 젓다",
+          "meaning": "to move a small boat by using a paddle"
+        },
+        {
+          "en": "explode",
+          "ko": "폭발하다",
+          "meaning": "to burst violently and suddenly, often with noise"
+        },
+        {
+          "en": "unavoidable",
+          "ko": "피할 수 없는",
+          "meaning": "impossible to prevent or escape"
+        },
+        {
+          "en": "unconsciously",
+          "ko": "무의식적으로",
+          "meaning": "without being aware or in control of one’s actions"
+        },
+        {
+          "en": "carve",
+          "ko": "새기다",
+          "meaning": "to cut into a surface to create a shape or design"
+        },
+        {
+          "en": "mother-in-law",
+          "ko": "시어머니(장모)",
+          "meaning": "the mother of one’s spouse"
+        },
+        {
+          "en": "trap",
+          "ko": "덫",
+          "meaning": "a device or situation designed to catch or deceive someone"
+        },
+        {
+          "en": "wretched",
+          "ko": "비참한",
+          "meaning": "extremely bad, unpleasant, or miserable"
+        },
+        {
+          "en": "tone",
+          "ko": "어조",
+          "meaning": "the general sound or mood of a voice or piece of writing"
+        },
+        {
+          "en": "marble",
+          "ko": "대리석",
+          "meaning": "a hard, smooth stone often used in sculpture or construction"
+        },
+        {
+          "en": "gratitude",
+          "ko": "감사",
+          "meaning": "the feeling of being thankful or appreciative"
+        },
+        {
+          "en": "corporation",
+          "ko": "기업",
+          "meaning": "a large business or company recognized as a legal entity"
+        },
+        {
+          "en": "torment",
+          "ko": "고통을 주다",
+          "meaning": "to cause severe mental or physical pain"
+        },
+        {
+          "en": "privilege",
+          "ko": "특권",
+          "meaning": "a special right or advantage granted to a person or group"
+        },
+        {
+          "en": "devastate",
+          "ko": "황폐화시키다",
+          "meaning": "to cause great damage or destruction"
+        },
+        {
+          "en": "debt",
+          "ko": "빚",
+          "meaning": "money owed to another person or institution"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "words": [
+        {
+          "en": "satisfy",
+          "ko": "만족시키다",
+          "meaning": "to meet the needs, expectations, or desires of someone"
+        },
+        {
+          "en": "propose",
+          "ko": "제안하다",
+          "meaning": "to suggest a plan or idea for consideration"
+        },
+        {
+          "en": "editorial",
+          "ko": "신문 사설",
+          "meaning": "an article in a newspaper expressing an opinion"
+        },
+        {
+          "en": "competent",
+          "ko": "유능한",
+          "meaning": "having the necessary ability or skills to do something well"
+        },
+        {
+          "en": "routine",
+          "ko": "일상의 일",
+          "meaning": "a regular, repeated series of actions or tasks"
+        },
+        {
+          "en": "seed",
+          "ko": "씨앗",
+          "meaning": "a small object from which a plant grows"
+        },
+        {
+          "en": "deficient",
+          "ko": "부족한",
+          "meaning": "lacking in amount or quality; insufficient"
+        },
+        {
+          "en": "unrivaled",
+          "ko": "경쟁자가 없는",
+          "meaning": "having no equal or competition; unmatched"
+        },
+        {
+          "en": "format",
+          "ko": "형식",
+          "meaning": "the structure or arrangement of something"
+        },
+        {
+          "en": "violate",
+          "ko": "위반하다",
+          "meaning": "to break a law, rule, or agreement"
+        },
+        {
+          "en": "rescue",
+          "ko": "구조하다",
+          "meaning": "to save someone from danger or harm"
+        },
+        {
+          "en": "central",
+          "ko": "중앙의",
+          "meaning": "located in the middle or most important position"
+        },
+        {
+          "en": "path",
+          "ko": "길",
+          "meaning": "a way or track made for walking or moving"
+        },
+        {
+          "en": "innate",
+          "ko": "선천적인",
+          "meaning": "existing naturally rather than being learned or acquired"
+        },
+        {
+          "en": "sentence",
+          "ko": "판결하다",
+          "meaning": "to officially declare a punishment for a crime"
+        },
+        {
+          "en": "fame",
+          "ko": "명성",
+          "meaning": "the state of being widely known or recognized"
+        },
+        {
+          "en": "royal",
+          "ko": "왕실의",
+          "meaning": "relating to a king, queen, or the monarchy"
+        },
+        {
+          "en": "monk",
+          "ko": "수도자",
+          "meaning": "a member of a religious community living under vows"
+        },
+        {
+          "en": "passion",
+          "ko": "열정",
+          "meaning": "a strong feeling of enthusiasm or love for something"
+        },
+        {
+          "en": "vice",
+          "ko": "악",
+          "meaning": "immoral or wicked behavior"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "words": [
+        {
+          "en": "reliable",
+          "ko": "신뢰할 수 있는",
+          "meaning": "able to be trusted to do what is expected or promised"
+        },
+        {
+          "en": "warranty",
+          "ko": "보증서",
+          "meaning": "a written guarantee for the repair or replacement of a product"
+        },
+        {
+          "en": "thermometer",
+          "ko": "온도계",
+          "meaning": "an instrument used to measure temperature"
+        },
+        {
+          "en": "majestic",
+          "ko": "장엄한",
+          "meaning": "having grandeur, beauty, or dignity; impressive or splendid in appearance"
+        },
+        {
+          "en": "reign",
+          "ko": "통치하다",
+          "meaning": "to rule as a monarch or sovereign"
+        },
+        {
+          "en": "wisdom",
+          "ko": "지혜",
+          "meaning": "the quality of having knowledge and good judgment"
+        },
+        {
+          "en": "embody",
+          "ko": "구체화하다",
+          "meaning": "to represent or express something in a tangible form"
+        },
+        {
+          "en": "internal",
+          "ko": "내부의",
+          "meaning": "located or occurring inside something; relating to the inner structure or workings"
+        },
+        {
+          "en": "qualify",
+          "ko": "자격을 주다",
+          "meaning": "to meet the necessary conditions or standards for something"
+        },
+        {
+          "en": "resemble",
+          "ko": "닮다",
+          "meaning": "to look like or be similar to someone or something"
+        },
+        {
+          "en": "journal",
+          "ko": "잡지",
+          "meaning": "a publication containing articles, reports, or personal reflections"
+        },
+        {
+          "en": "potential",
+          "ko": "잠재적인",
+          "meaning": "having the capacity to develop into something in the future"
+        },
+        {
+          "en": "specialty",
+          "ko": "전문",
+          "meaning": "a particular area of expertise or focus"
+        },
+        {
+          "en": "microbe",
+          "ko": "미생물",
+          "meaning": "a very small organism, such as bacteria or viruses"
+        },
+        {
+          "en": "cite",
+          "ko": "인용하다",
+          "meaning": "to refer to or mention something as evidence"
+        },
+        {
+          "en": "anticipate",
+          "ko": "예상하다",
+          "meaning": "to expect or predict something before it happens"
+        },
+        {
+          "en": "liberal",
+          "ko": "자유주의의",
+          "meaning": "open to new ideas and willing to discard traditional values"
+        },
+        {
+          "en": "pile",
+          "ko": "쌓다",
+          "meaning": "to place objects on top of one another in a stack"
+        },
+        {
+          "en": "cutback",
+          "ko": "축소",
+          "meaning": "a reduction in size, amount, or activity"
+        },
+        {
+          "en": "delay",
+          "ko": "연기하다",
+          "meaning": "to postpone or make something happen later than planned"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "words": [
+        {
+          "en": "intrude",
+          "ko": "침범하다",
+          "meaning": "to enter a place or situation where one is not welcome"
+        },
+        {
+          "en": "withhold",
+          "ko": "억누르다",
+          "meaning": "to hold back or refuse to give something"
+        },
+        {
+          "en": "anniversary",
+          "ko": "기념일",
+          "meaning": "the yearly recurrence of a date marking a significant event"
+        },
+        {
+          "en": "disrupt",
+          "ko": "방해하다",
+          "meaning": "to interrupt or cause disorder in a process or system"
+        },
+        {
+          "en": "implicit",
+          "ko": "함축적인",
+          "meaning": "implied or understood without being stated directly"
+        },
+        {
+          "en": "nest",
+          "ko": "둥지",
+          "meaning": "a structure built by birds or animals to live in"
+        },
+        {
+          "en": "advisory",
+          "ko": "권고의",
+          "meaning": "offering recommendations or guidance, but not compulsory"
+        },
+        {
+          "en": "hesitate",
+          "ko": "망설이다",
+          "meaning": "to pause before doing something due to uncertainty or fear"
+        },
+        {
+          "en": "depress",
+          "ko": "우울하게 하다",
+          "meaning": "to make someone feel sad or hopeless"
+        },
+        {
+          "en": "prime",
+          "ko": "가장 중요한",
+          "meaning": "the most important or highest in quality"
+        },
+        {
+          "en": "Saturn",
+          "ko": "토성",
+          "meaning": "the sixth planet from the Sun, known for its prominent rings"
+        },
+        {
+          "en": "goods",
+          "ko": "상품",
+          "meaning": "physical items that are produced and sold"
+        },
+        {
+          "en": "oxygen",
+          "ko": "산소",
+          "meaning": "a colorless, odorless gas essential for life on Earth"
+        },
+        {
+          "en": "uncountable",
+          "ko": "셀 수 없는",
+          "meaning": "unable to be counted or measured due to being too numerous or indefinite"
+        },
+        {
+          "en": "vanity",
+          "ko": "허영심",
+          "meaning": "excessive pride in one’s appearance or achievements"
+        },
+        {
+          "en": "magnify",
+          "ko": "확대하다",
+          "meaning": "to make something appear larger than it is"
+        },
+        {
+          "en": "conform",
+          "ko": "따르다",
+          "meaning": "to behave according to rules or standards"
+        },
+        {
+          "en": "immature",
+          "ko": "미숙한",
+          "meaning": "not fully developed, either physically or mentally"
+        },
+        {
+          "en": "infinite",
+          "ko": "무한한",
+          "meaning": "having no limits or end"
+        },
+        {
+          "en": "priest",
+          "ko": "성직자",
+          "meaning": "a religious leader authorized to perform sacred rituals"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "words": [
+        {
+          "en": "groom",
+          "ko": "신랑",
+          "meaning": "a man who is getting married"
+        },
+        {
+          "en": "compress",
+          "ko": "압축하다",
+          "meaning": "to press something into a smaller space"
+        },
+        {
+          "en": "flip",
+          "ko": "뒤집다",
+          "meaning": "to turn something over quickly"
+        },
+        {
+          "en": "customs",
+          "ko": "관세",
+          "meaning": "taxes imposed on goods when they are transported across borders"
+        },
+        {
+          "en": "denial",
+          "ko": "부정",
+          "meaning": "the refusal to accept or acknowledge something"
+        },
+        {
+          "en": "tranquil",
+          "ko": "고요한",
+          "meaning": "calm and peaceful, free from disturbance"
+        },
+        {
+          "en": "chamber",
+          "ko": "방",
+          "meaning": "a large room used for a particular purpose"
+        },
+        {
+          "en": "kneel",
+          "ko": "무릎을 꿇다",
+          "meaning": "to position oneself on the knees as a sign of respect or submission"
+        },
+        {
+          "en": "hospitalize",
+          "ko": "입원시키다",
+          "meaning": "to admit someone into a hospital for medical care"
+        },
+        {
+          "en": "wilderness",
+          "ko": "황무지",
+          "meaning": "a natural area of land left in its wild state"
+        },
+        {
+          "en": "relationship",
+          "ko": "관계",
+          "meaning": "the way in which two or more people are connected"
+        },
+        {
+          "en": "wage",
+          "ko": "임금",
+          "meaning": "a regular payment received for work or services"
+        },
+        {
+          "en": "curriculum",
+          "ko": "교육 과정",
+          "meaning": "the subjects comprising a course of study in a school or college"
+        },
+        {
+          "en": "sociology",
+          "ko": "사회학",
+          "meaning": "the study of human society, relationships, and institutions"
+        },
+        {
+          "en": "conservative",
+          "ko": "보수적인",
+          "meaning": "favoring traditional values and cautious about change"
+        },
+        {
+          "en": "mobile",
+          "ko": "이동하기 쉬운",
+          "meaning": "able to move or be moved easily"
+        },
+        {
+          "en": "alchemy",
+          "ko": "연금술",
+          "meaning": "a medieval science aiming to transform ordinary metals into gold"
+        },
+        {
+          "en": "deck",
+          "ko": "갑판",
+          "meaning": "the flat surface on a ship or a bus where people stand or sit"
+        },
+        {
+          "en": "blend",
+          "ko": "섞다",
+          "meaning": "to mix different substances together to form a whole"
+        },
+        {
+          "en": "devote",
+          "ko": "헌신하다",
+          "meaning": "to dedicate time, effort, or resources to a purpose"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "words": [
+        {
+          "en": "ambition",
+          "ko": "야망",
+          "meaning": "a strong desire to achieve success or power"
+        },
+        {
+          "en": "diligent",
+          "ko": "성실한",
+          "meaning": "showing careful and persistent effort in work or duties"
+        },
+        {
+          "en": "successive",
+          "ko": "연속적인",
+          "meaning": "following one after another in a sequence"
+        },
+        {
+          "en": "industrious",
+          "ko": "근면한",
+          "meaning": "hardworking and productive"
+        },
+        {
+          "en": "treat",
+          "ko": "다루다",
+          "meaning": "to deal with or act toward in a particular way"
+        },
+        {
+          "en": "comprise",
+          "ko": "구성하다",
+          "meaning": "to consist of or be made up of"
+        },
+        {
+          "en": "desirable",
+          "ko": "바람직한",
+          "meaning": "worthy of being desired or wanted"
+        },
+        {
+          "en": "efficient",
+          "ko": "효율적인",
+          "meaning": "achieving maximum productivity with minimum wasted effort"
+        },
+        {
+          "en": "kidney",
+          "ko": "신장",
+          "meaning": "an organ in the body that filters blood and produces urine"
+        },
+        {
+          "en": "pension",
+          "ko": "연금",
+          "meaning": "a regular payment made to retired people"
+        },
+        {
+          "en": "introvert",
+          "ko": "내향적인 사람",
+          "meaning": "a person who tends to be reserved and focused on internal thoughts"
+        },
+        {
+          "en": "malfunction",
+          "ko": "오작동",
+          "meaning": "a failure to function normally or properly"
+        },
+        {
+          "en": "extinction",
+          "ko": "멸종",
+          "meaning": "the process by which a species or group ceases to exist"
+        },
+        {
+          "en": "somewhat",
+          "ko": "약간",
+          "meaning": "to a small degree or extent"
+        },
+        {
+          "en": "harbor",
+          "ko": "항구",
+          "meaning": "a sheltered area of water where ships dock"
+        },
+        {
+          "en": "archaeology",
+          "ko": "고고학",
+          "meaning": "the study of human history through the excavation of sites"
+        },
+        {
+          "en": "board",
+          "ko": "이사회",
+          "meaning": "a group of people managing the affairs of an organization"
+        },
+        {
+          "en": "poultry",
+          "ko": "사육 조류",
+          "meaning": "domesticated birds raised for their meat or eggs"
+        },
+        {
+          "en": "volcano",
+          "ko": "화산",
+          "meaning": "a mountain with a crater from which lava, ash, and gases erupt"
+        },
+        {
+          "en": "whereabouts",
+          "ko": "행방",
+          "meaning": "the place or general area where someone or something is located"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "words": [
+        {
+          "en": "sign",
+          "ko": "서명하다",
+          "meaning": "to write one's name on a document to indicate agreement or acknowledgment"
+        },
+        {
+          "en": "collapse",
+          "ko": "붕괴하다",
+          "meaning": "to fall down suddenly due to structural failure"
+        },
+        {
+          "en": "margin",
+          "ko": "가장자리",
+          "meaning": "the edge or border of something"
+        },
+        {
+          "en": "convenient",
+          "ko": "편리한",
+          "meaning": "easy to use or suitable for a particular purpose"
+        },
+        {
+          "en": "insomnia",
+          "ko": "불면증",
+          "meaning": "the condition of being unable to sleep"
+        },
+        {
+          "en": "masculine",
+          "ko": "남성의",
+          "meaning": "having qualities traditionally associated with men"
+        },
+        {
+          "en": "biodiversity",
+          "ko": "생물 다양성",
+          "meaning": "the variety of life in the world or in a particular ecosystem"
+        },
+        {
+          "en": "monopoly",
+          "ko": "독점",
+          "meaning": "exclusive control over a commodity or service in a market"
+        },
+        {
+          "en": "grain",
+          "ko": "곡물",
+          "meaning": "the seeds of cereal crops like wheat, rice, or corn"
+        },
+        {
+          "en": "enhance",
+          "ko": "향상시키다",
+          "meaning": "to improve the quality or value of something"
+        },
+        {
+          "en": "alternate",
+          "ko": "번갈아 하다",
+          "meaning": "to switch back and forth between two things"
+        },
+        {
+          "en": "repertoire",
+          "ko": "연주 목록",
+          "meaning": "a collection of works or performances known by an artist or group"
+        },
+        {
+          "en": "conflict",
+          "ko": "충돌하다",
+          "meaning": "to be in disagreement or opposition"
+        },
+        {
+          "en": "phase",
+          "ko": "단계",
+          "meaning": "a distinct stage in a process of development"
+        },
+        {
+          "en": "unrest",
+          "ko": "불안",
+          "meaning": "a state of dissatisfaction or disturbance"
+        },
+        {
+          "en": "state",
+          "ko": "상태",
+          "meaning": "the condition or situation of something at a particular time"
+        },
+        {
+          "en": "surgical",
+          "ko": "수술의",
+          "meaning": "related to or involving an operation or surgery"
+        },
+        {
+          "en": "march",
+          "ko": "행진",
+          "meaning": "a organized walk or procession, typically with a purpose or for a demonstration"
+        },
+        {
+          "en": "launch",
+          "ko": "출시하다",
+          "meaning": "to start or introduce something new, like a product or project"
+        },
+        {
+          "en": "bulk",
+          "ko": "대량",
+          "meaning": "a large quantity or mass of something"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "words": [
+        {
+          "en": "fairy",
+          "ko": "요정",
+          "meaning": "a small, mythical creature with magical powers"
+        },
+        {
+          "en": "shame",
+          "ko": "부끄러움",
+          "meaning": "a painful feeling of guilt or embarrassment"
+        },
+        {
+          "en": "official",
+          "ko": "공식적인",
+          "meaning": "authorized or approved by an authority"
+        },
+        {
+          "en": "thrift",
+          "ko": "절약",
+          "meaning": "the practice of using money and resources carefully"
+        },
+        {
+          "en": "inflexible",
+          "ko": "확고한",
+          "meaning": "not easily bent or changed; rigid"
+        },
+        {
+          "en": "fiber",
+          "ko": "섬유",
+          "meaning": "thread-like material from plants or synthetics used in textiles"
+        },
+        {
+          "en": "exclaim",
+          "ko": "외치다",
+          "meaning": "to speak or cry out suddenly with emotion"
+        },
+        {
+          "en": "simulate",
+          "ko": "모의 실험을 하다",
+          "meaning": "to imitate or reproduce the conditions or behavior of something, often for training or testing purposes"
+        },
+        {
+          "en": "harass",
+          "ko": "괴롭히다",
+          "meaning": "to repeatedly bother or trouble someone"
+        },
+        {
+          "en": "delicate",
+          "ko": "섬세한",
+          "meaning": "easily damaged or requiring careful handling"
+        },
+        {
+          "en": "saw",
+          "ko": "톱질하다",
+          "meaning": "to cut with a tool that has a serrated blade"
+        },
+        {
+          "en": "entertain",
+          "ko": "즐겁게 하다",
+          "meaning": "to provide enjoyment or amusement"
+        },
+        {
+          "en": "comprehend",
+          "ko": "이해하다",
+          "meaning": "to understand something fully"
+        },
+        {
+          "en": "lure",
+          "ko": "유혹하다",
+          "meaning": "to attract or tempt someone by offering something appealing"
+        },
+        {
+          "en": "edge",
+          "ko": "가장자리",
+          "meaning": "the outer or border part of an object or area"
+        },
+        {
+          "en": "instill",
+          "ko": "주입하다",
+          "meaning": "to gradually introduce an idea or feeling into someone's mind"
+        },
+        {
+          "en": "wag",
+          "ko": "흔들다",
+          "meaning": "to move something, especially a tail, back and forth"
+        },
+        {
+          "en": "departure",
+          "ko": "출발",
+          "meaning": "the act of leaving a place"
+        },
+        {
+          "en": "discard",
+          "ko": "버리다",
+          "meaning": "to throw something away as useless or unwanted"
+        },
+        {
+          "en": "scenery",
+          "ko": "풍경",
+          "meaning": "the natural features of a landscape, often considered beautiful"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "words": [
+        {
+          "en": "satellite",
+          "ko": "위성",
+          "meaning": "an object in space that orbits around a planet or star"
+        },
+        {
+          "en": "realistic",
+          "ko": "현실적인",
+          "meaning": "having a practical and sensible understanding of life"
+        },
+        {
+          "en": "resilient",
+          "ko": "회복력 있는",
+          "meaning": "able to recover quickly from difficulties or setbacks"
+        },
+        {
+          "en": "aspire",
+          "ko": "열망하다",
+          "meaning": "to have a strong desire to achieve something"
+        },
+        {
+          "en": "tranquility",
+          "ko": "고요",
+          "meaning": "a state of calm and peacefulness"
+        },
+        {
+          "en": "lean",
+          "ko": "기대다",
+          "meaning": "to rest against something for support"
+        },
+        {
+          "en": "intimidating",
+          "ko": "위협적인",
+          "meaning": "making someone feel fearful or nervous"
+        },
+        {
+          "en": "elastic",
+          "ko": "탄력 있는",
+          "meaning": "able to stretch and return to its original shape"
+        },
+        {
+          "en": "satire",
+          "ko": "풍자",
+          "meaning": "the use of humor to criticize or mock"
+        },
+        {
+          "en": "standard",
+          "ko": "표준",
+          "meaning": "an accepted level of quality or measurement"
+        },
+        {
+          "en": "obese",
+          "ko": "비만의",
+          "meaning": "extremely overweight"
+        },
+        {
+          "en": "restore",
+          "ko": "회복하다",
+          "meaning": "to bring something back to its original condition"
+        },
+        {
+          "en": "virtually",
+          "ko": "사실상",
+          "meaning": "almost or nearly, but not completely"
+        },
+        {
+          "en": "snore",
+          "ko": "코를 골다",
+          "meaning": "to make a loud breathing sound while sleeping"
+        },
+        {
+          "en": "content",
+          "ko": "만족하는",
+          "meaning": "feeling satisfied and happy with what one has"
+        },
+        {
+          "en": "shallow",
+          "ko": "얕은",
+          "meaning": "not deep; having little depth"
+        },
+        {
+          "en": "diameter",
+          "ko": "지름",
+          "meaning": "the distance across a circle through its center"
+        },
+        {
+          "en": "embassy",
+          "ko": "대사관",
+          "meaning": "the official residence of an ambassador in a foreign country"
+        },
+        {
+          "en": "compound",
+          "ko": "혼합물",
+          "meaning": "a substance made by combining two or more elements"
+        },
+        {
+          "en": "striking",
+          "ko": "눈에 띄는",
+          "meaning": "very noticeable or impressive"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "words": [
+        {
+          "en": "announce",
+          "ko": "발표하다",
+          "meaning": "to make something known publicly"
+        },
+        {
+          "en": "phantom",
+          "ko": "유령",
+          "meaning": "a ghost or illusion"
+        },
+        {
+          "en": "synergy",
+          "ko": "동반 상승효과",
+          "meaning": "the combined effect that is greater than the sum of individual effects"
+        },
+        {
+          "en": "envelope",
+          "ko": "봉투",
+          "meaning": "a flat paper container used to enclose a letter"
+        },
+        {
+          "en": "filter",
+          "ko": "거르다",
+          "meaning": "to remove unwanted substances by passing through a barrier"
+        },
+        {
+          "en": "plain",
+          "ko": "분명한",
+          "meaning": "simple, clear, and easy to understand"
+        },
+        {
+          "en": "peer",
+          "ko": "또래",
+          "meaning": "someone who is the same age or status as another person"
+        },
+        {
+          "en": "commerce",
+          "ko": "상업",
+          "meaning": "the activity of buying and selling goods and services"
+        },
+        {
+          "en": "valueless",
+          "ko": "가치 없는",
+          "meaning": "having no worth or importance"
+        },
+        {
+          "en": "conventional",
+          "ko": "전통적인",
+          "meaning": "following traditional or commonly accepted practices"
+        },
+        {
+          "en": "refer",
+          "ko": "언급하다",
+          "meaning": "to mention or direct attention to something"
+        },
+        {
+          "en": "breed",
+          "ko": "번식하다",
+          "meaning": "to produce offspring"
+        },
+        {
+          "en": "avenue",
+          "ko": "거리",
+          "meaning": "a wide street in a city or town"
+        },
+        {
+          "en": "supremacy",
+          "ko": "최고",
+          "meaning": "the state of being superior to all others"
+        },
+        {
+          "en": "pavement",
+          "ko": "포장",
+          "meaning": "a hard surface for walking or driving on"
+        },
+        {
+          "en": "continent",
+          "ko": "대륙",
+          "meaning": "one of the large landmasses on Earth"
+        },
+        {
+          "en": "migrate",
+          "ko": "이동하다",
+          "meaning": "to move from one place to another, often seasonally"
+        },
+        {
+          "en": "escalate",
+          "ko": "증가하다",
+          "meaning": "to increase or intensify"
+        },
+        {
+          "en": "subtract",
+          "ko": "빼다",
+          "meaning": "to take away a number from another number"
+        },
+        {
+          "en": "deprive",
+          "ko": "빼앗다",
+          "meaning": "to take something away from someone"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "words": [
+        {
+          "en": "density",
+          "ko": "농도",
+          "meaning": "the degree of compactness of a substance"
+        },
+        {
+          "en": "entrance",
+          "ko": "입장",
+          "meaning": "the act of entering or a way into a place"
+        },
+        {
+          "en": "rob",
+          "ko": "훔치다",
+          "meaning": "to steal from someone using force or threat"
+        },
+        {
+          "en": "reunion",
+          "ko": "동창회",
+          "meaning": "a gathering or meeting of people who have been separated, especially a meeting of former classmates or colleagues"
+        },
+        {
+          "en": "upcoming",
+          "ko": "다가오는",
+          "meaning": "about to happen soon"
+        },
+        {
+          "en": "orient",
+          "ko": "동양",
+          "meaning": "the eastern part of the world, especially Asia"
+        },
+        {
+          "en": "capitalism",
+          "ko": "자본주의",
+          "meaning": "an economic system based on private ownership"
+        },
+        {
+          "en": "noble",
+          "ko": "고귀한",
+          "meaning": "having high moral qualities or aristocratic status"
+        },
+        {
+          "en": "vain",
+          "ko": "헛된",
+          "meaning": "having excessive pride or being unsuccessful"
+        },
+        {
+          "en": "precision",
+          "ko": "정확",
+          "meaning": "the quality of being exact and accurate"
+        },
+        {
+          "en": "minute",
+          "ko": "미세한",
+          "meaning": "extremely small or tiny"
+        },
+        {
+          "en": "exhale",
+          "ko": "내쉬다",
+          "meaning": "to breathe out"
+        },
+        {
+          "en": "endure",
+          "ko": "참다",
+          "meaning": "to suffer patiently or last through difficult conditions"
+        },
+        {
+          "en": "phenomenon",
+          "ko": "현상",
+          "meaning": "an observable event or occurrence"
+        },
+        {
+          "en": "diploma",
+          "ko": "졸업장",
+          "meaning": "a certificate awarded for completing a course of study"
+        },
+        {
+          "en": "formal",
+          "ko": "공식적인",
+          "meaning": "done according to established rules or customs"
+        },
+        {
+          "en": "terminal",
+          "ko": "종착역",
+          "meaning": "the end point or final station"
+        },
+        {
+          "en": "outrage",
+          "ko": "화나게 하다",
+          "meaning": "to cause strong feelings of anger"
+        },
+        {
+          "en": "brutal",
+          "ko": "잔인한",
+          "meaning": "extremely cruel or harsh"
+        },
+        {
+          "en": "paste",
+          "ko": "반죽",
+          "meaning": "a thick, soft, moist substance"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "words": [
+        {
+          "en": "sidewalk",
+          "ko": "인도",
+          "meaning": "a paved path for pedestrians along the side of a street"
+        },
+        {
+          "en": "tedious",
+          "ko": "지루한",
+          "meaning": "too long, slow, or boring"
+        },
+        {
+          "en": "withstand",
+          "ko": "견디다",
+          "meaning": "to resist or endure something successfully"
+        },
+        {
+          "en": "biased",
+          "ko": "편향된",
+          "meaning": "unfairly preferring one side over another"
+        },
+        {
+          "en": "famine",
+          "ko": "기근",
+          "meaning": "an extreme shortage of food"
+        },
+        {
+          "en": "sympathy",
+          "ko": "동정",
+          "meaning": "feelings of pity and compassion for someone else's misfortune"
+        },
+        {
+          "en": "reed",
+          "ko": "갈대",
+          "meaning": "a tall, slender-leaved plant of the grass family"
+        },
+        {
+          "en": "institute",
+          "ko": "연구소",
+          "meaning": "an organization for education or research"
+        },
+        {
+          "en": "overturn",
+          "ko": "뒤집다",
+          "meaning": "to flip something upside down"
+        },
+        {
+          "en": "slogan",
+          "ko": "구호",
+          "meaning": "a short, memorable phrase used in advertising or promotion"
+        },
+        {
+          "en": "toll",
+          "ko": "통행료",
+          "meaning": "a fee paid for using a road or bridge"
+        },
+        {
+          "en": "lane",
+          "ko": "차선",
+          "meaning": "a narrow road or a division of a road for single lines of vehicles"
+        },
+        {
+          "en": "defeat",
+          "ko": "패배시키다",
+          "meaning": "to win against someone in a contest"
+        },
+        {
+          "en": "glide",
+          "ko": "미끄러지다",
+          "meaning": "to move smoothly and continuously without effort"
+        },
+        {
+          "en": "evolve",
+          "ko": "진화하다",
+          "meaning": "to develop gradually over time"
+        },
+        {
+          "en": "skip",
+          "ko": "거르다",
+          "meaning": "to omit or leave something out"
+        },
+        {
+          "en": "mossy",
+          "ko": "이끼가 낀",
+          "meaning": "covered with or resembling moss"
+        },
+        {
+          "en": "prejudice",
+          "ko": "편견",
+          "meaning": "an unfair judgment or opinion formed without facts"
+        },
+        {
+          "en": "suburb",
+          "ko": "교외",
+          "meaning": "a residential area on the outskirts of a city"
+        },
+        {
+          "en": "panel",
+          "ko": "판",
+          "meaning": "a flat or curved piece forming part of a surface"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "words": [
+        {
+          "en": "immune",
+          "ko": "면역의",
+          "meaning": "protected from a disease or condition"
+        },
+        {
+          "en": "commonplace",
+          "ko": "흔한",
+          "meaning": "ordinary or unremarkable"
+        },
+        {
+          "en": "drown",
+          "ko": "익사하다",
+          "meaning": "to die by being submerged in water"
+        },
+        {
+          "en": "solitude",
+          "ko": "고독",
+          "meaning": "the state of being alone"
+        },
+        {
+          "en": "prairie",
+          "ko": "대평원",
+          "meaning": "a large open area of grassland"
+        },
+        {
+          "en": "region",
+          "ko": "지역",
+          "meaning": "a specific area or part of a larger space"
+        },
+        {
+          "en": "superior",
+          "ko": "우수한",
+          "meaning": "higher in rank, status, or quality"
+        },
+        {
+          "en": "actualize",
+          "ko": "현실화하다",
+          "meaning": "to make a concept or plan real"
+        },
+        {
+          "en": "temperate",
+          "ko": "온화한",
+          "meaning": "mild or moderate in climate"
+        },
+        {
+          "en": "stun",
+          "ko": "기절시키다",
+          "meaning": "to shock or surprise someone so much they are unable to react"
+        },
+        {
+          "en": "individual",
+          "ko": "개인의",
+          "meaning": "relating to a single person or thing, separate from others"
+        },
+        {
+          "en": "fluid",
+          "ko": "액체",
+          "meaning": "a substance that flows and has no fixed shape, such as a liquid or gas"
+        },
+        {
+          "en": "mutation",
+          "ko": "돌연변이",
+          "meaning": "a change in the genetic structure of an organism"
+        },
+        {
+          "en": "horizon",
+          "ko": "수평선",
+          "meaning": "the line where the earth's surface and the sky appear to meet"
+        },
+        {
+          "en": "resign",
+          "ko": "사임하다",
+          "meaning": "to voluntarily leave a job or position"
+        },
+        {
+          "en": "dissolve",
+          "ko": "녹이다",
+          "meaning": "to mix with a liquid until it becomes part of the liquid"
+        },
+        {
+          "en": "apparent",
+          "ko": "명백한",
+          "meaning": "clearly visible or obvious"
+        },
+        {
+          "en": "fake",
+          "ko": "가짜의",
+          "meaning": "not real, made to look genuine"
+        },
+        {
+          "en": "overabundant",
+          "ko": "과잉의",
+          "meaning": "more than necessary, excessive"
+        },
+        {
+          "en": "breeze",
+          "ko": "미풍",
+          "meaning": "a light and gentle wind"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "words": [
+        {
+          "en": "drill",
+          "ko": "훈련",
+          "meaning": "a practice exercise to improve skills"
+        },
+        {
+          "en": "takeoff",
+          "ko": "이륙",
+          "meaning": "the act of becoming airborne in flight"
+        },
+        {
+          "en": "antibiotic",
+          "ko": "항생제",
+          "meaning": "a medicine used to kill bacteria and fight infections"
+        },
+        {
+          "en": "monetary",
+          "ko": "화폐의",
+          "meaning": "related to money or currency"
+        },
+        {
+          "en": "tyrant",
+          "ko": "독재자",
+          "meaning": "a ruler who uses power cruelly or unjustly"
+        },
+        {
+          "en": "prompt",
+          "ko": "즉각적인",
+          "meaning": "done without delay, immediate"
+        },
+        {
+          "en": "brochure",
+          "ko": "소책자",
+          "meaning": "a small booklet with information about something"
+        },
+        {
+          "en": "spacious",
+          "ko": "넓은",
+          "meaning": "having a lot of space"
+        },
+        {
+          "en": "imagery",
+          "ko": "이미지",
+          "meaning": "visually descriptive or figurative language"
+        },
+        {
+          "en": "excess",
+          "ko": "과잉",
+          "meaning": "more than what is needed or usual"
+        },
+        {
+          "en": "likely",
+          "ko": "가능성 있는",
+          "meaning": "having a good chance of happening"
+        },
+        {
+          "en": "signal",
+          "ko": "신호",
+          "meaning": "a sign or gesture that conveys information"
+        },
+        {
+          "en": "primate",
+          "ko": "영장류",
+          "meaning": "a type of mammal that includes humans, monkeys, and apes"
+        },
+        {
+          "en": "ultraviolet",
+          "ko": "자외선의",
+          "meaning": "a type of light beyond the visible spectrum"
+        },
+        {
+          "en": "outperform",
+          "ko": "능가하다",
+          "meaning": "to do better than someone or something"
+        },
+        {
+          "en": "lump",
+          "ko": "덩어리",
+          "meaning": "a compact mass of something"
+        },
+        {
+          "en": "mollify",
+          "ko": "진정시키다",
+          "meaning": "to calm or soothe someone's anger or anxiety"
+        },
+        {
+          "en": "employ",
+          "ko": "고용하다",
+          "meaning": "to hire someone for work"
+        },
+        {
+          "en": "polarize",
+          "ko": "양극화되다",
+          "meaning": "to divide into two sharply contrasting groups"
+        },
+        {
+          "en": "worth",
+          "ko": "가치",
+          "meaning": "the value or importance of something"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "words": [
+        {
+          "en": "symmetry",
+          "ko": "대칭",
+          "meaning": "the quality of having balanced proportions"
+        },
+        {
+          "en": "intolerable",
+          "ko": "견딜 수 없는",
+          "meaning": "too difficult or unpleasant to endure"
+        },
+        {
+          "en": "preach",
+          "ko": "설교하다",
+          "meaning": "to give a sermon or moral advice"
+        },
+        {
+          "en": "postpone",
+          "ko": "연기하다",
+          "meaning": "to delay something to a later time"
+        },
+        {
+          "en": "ripple",
+          "ko": "잔물결",
+          "meaning": "a small wave on the surface of water"
+        },
+        {
+          "en": "inspire",
+          "ko": "영감을 주다",
+          "meaning": "to fill someone with the urge to do something"
+        },
+        {
+          "en": "trait",
+          "ko": "특성",
+          "meaning": "a distinguishing characteristic or quality"
+        },
+        {
+          "en": "triumphantly",
+          "ko": "의기양양하여",
+          "meaning": "in a victorious or successful manner"
+        },
+        {
+          "en": "solemn",
+          "ko": "엄숙한",
+          "meaning": "serious and dignified in appearance or behavior"
+        },
+        {
+          "en": "endanger",
+          "ko": "위태롭게 하다",
+          "meaning": "to put someone or something at risk of harm"
+        },
+        {
+          "en": "tactic",
+          "ko": "전략",
+          "meaning": "a planned action to achieve a goal"
+        },
+        {
+          "en": "trust",
+          "ko": "신뢰하다",
+          "meaning": "to believe in the reliability of someone or something"
+        },
+        {
+          "en": "prescribe",
+          "ko": "처방하다",
+          "meaning": "to authorize the use of medicine or treatment"
+        },
+        {
+          "en": "periodical",
+          "ko": "정기 간행물",
+          "meaning": "a publication issued at regular intervals"
+        },
+        {
+          "en": "dietary",
+          "ko": "음식의",
+          "meaning": "related to food and nutrition"
+        },
+        {
+          "en": "guardian",
+          "ko": "보호자",
+          "meaning": "someone who protects or takes care of another"
+        },
+        {
+          "en": "consent",
+          "ko": "동의하다",
+          "meaning": "to give permission or approval"
+        },
+        {
+          "en": "fright",
+          "ko": "공포",
+          "meaning": "sudden fear or alarm"
+        },
+        {
+          "en": "inspector",
+          "ko": "감독관",
+          "meaning": "a person who examines something carefully"
+        },
+        {
+          "en": "monotony",
+          "ko": "단조로움",
+          "meaning": "lack of variety, leading to boredom"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "words": [
+        {
+          "en": "promote",
+          "ko": "촉진하다",
+          "meaning": "to support or actively encourage something"
+        },
+        {
+          "en": "exhaust",
+          "ko": "고갈시키다",
+          "meaning": "to drain someone's strength or resources"
+        },
+        {
+          "en": "valid",
+          "ko": "타당한",
+          "meaning": "logically or legally acceptable"
+        },
+        {
+          "en": "racist",
+          "ko": "인종 차별주의자",
+          "meaning": "a person who discriminates based on race"
+        },
+        {
+          "en": "mourn",
+          "ko": "애도하다",
+          "meaning": "to feel or express deep sorrow for a loss"
+        },
+        {
+          "en": "frame",
+          "ko": "틀",
+          "meaning": "a structure that supports or encloses something"
+        },
+        {
+          "en": "humid",
+          "ko": "습한",
+          "meaning": "having a high level of moisture in the air"
+        },
+        {
+          "en": "stake",
+          "ko": "말뚝",
+          "meaning": "a wooden or metal post driven into the ground"
+        },
+        {
+          "en": "landscape",
+          "ko": "풍경",
+          "meaning": "the visible features of an area of land"
+        },
+        {
+          "en": "humble",
+          "ko": "겸손한",
+          "meaning": "having a modest opinion of one’s importance"
+        },
+        {
+          "en": "worthwhile",
+          "ko": "가치 있는",
+          "meaning": "valuable or important enough to justify effort"
+        },
+        {
+          "en": "gigantic",
+          "ko": "거대한",
+          "meaning": "extremely large or enormous"
+        },
+        {
+          "en": "trustworthy",
+          "ko": "신뢰할 수 있는",
+          "meaning": "deserving of trust or confidence"
+        },
+        {
+          "en": "intrinsic",
+          "ko": "본질적인",
+          "meaning": "belonging naturally; essential"
+        },
+        {
+          "en": "vinegar",
+          "ko": "식초",
+          "meaning": "a sour liquid used in cooking or as a condiment"
+        },
+        {
+          "en": "quantity",
+          "ko": "양",
+          "meaning": "an amount or number of something"
+        },
+        {
+          "en": "measure",
+          "ko": "측정하다",
+          "meaning": "to determine the size, amount, or degree of something"
+        },
+        {
+          "en": "anesthetic",
+          "ko": "마취제",
+          "meaning": "a substance that causes loss of sensation"
+        },
+        {
+          "en": "ceramic",
+          "ko": "도자기",
+          "meaning": "a hard, brittle material made from clay and typically used for making pottery or other items"
+        },
+        {
+          "en": "choir",
+          "ko": "합창단",
+          "meaning": "a group of people who sing together"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "words": [
+        {
+          "en": "grave",
+          "ko": "무덤",
+          "meaning": "a place where someone is buried"
+        },
+        {
+          "en": "bothersome",
+          "ko": "성가신",
+          "meaning": "causing irritation or annoyance"
+        },
+        {
+          "en": "criteria",
+          "ko": "기준",
+          "meaning": "standards or principles for judging something"
+        },
+        {
+          "en": "rapport",
+          "ko": "관계",
+          "meaning": "a friendly and harmonious relationship"
+        },
+        {
+          "en": "repair",
+          "ko": "수리하다",
+          "meaning": "to fix something that is broken or damaged"
+        },
+        {
+          "en": "miser",
+          "ko": "구두쇠",
+          "meaning": "a person who hoards wealth and spends as little as possible"
+        },
+        {
+          "en": "temper",
+          "ko": "성질",
+          "meaning": "a person's usual mood or temperament"
+        },
+        {
+          "en": "drowsy",
+          "ko": "졸리는",
+          "meaning": "feeling sleepy or ready to fall asleep"
+        },
+        {
+          "en": "enormous",
+          "ko": "거대한",
+          "meaning": "very large in size, quantity, or extent"
+        },
+        {
+          "en": "medieval",
+          "ko": "중세의",
+          "meaning": "relating to the Middle Ages"
+        },
+        {
+          "en": "obstacle",
+          "ko": "방해물",
+          "meaning": "something that blocks progress or makes things difficult"
+        },
+        {
+          "en": "force",
+          "ko": "강요하다",
+          "meaning": "to make someone do something against their will"
+        },
+        {
+          "en": "comment",
+          "ko": "논평하다",
+          "meaning": "to express an opinion or reaction"
+        },
+        {
+          "en": "spill",
+          "ko": "엎지르다",
+          "meaning": "to accidentally let a liquid flow out"
+        },
+        {
+          "en": "logical",
+          "ko": "논리적인",
+          "meaning": "clear, sound reasoning based on facts"
+        },
+        {
+          "en": "memorial",
+          "ko": "기념물",
+          "meaning": "something that serves to remember a person or event"
+        },
+        {
+          "en": "landfill",
+          "ko": "쓰레기 매립지",
+          "meaning": "a place where waste is buried under the ground"
+        },
+        {
+          "en": "automate",
+          "ko": "자동화하다",
+          "meaning": "to convert a process to operate by machines"
+        },
+        {
+          "en": "rod",
+          "ko": "막대",
+          "meaning": "a thin, straight piece of material, often metal or wood"
+        },
+        {
+          "en": "adequate",
+          "ko": "적절한",
+          "meaning": "sufficient or satisfactory in quantity or quality"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "words": [
+        {
+          "en": "preface",
+          "ko": "머리말",
+          "meaning": "an introduction to a book or speech"
+        },
+        {
+          "en": "latitude",
+          "ko": "위도",
+          "meaning": "the distance north or south of the equator, measured in degrees"
+        },
+        {
+          "en": "abstain",
+          "ko": "절제하다",
+          "meaning": "to deliberately avoid doing something"
+        },
+        {
+          "en": "generate",
+          "ko": "발생시키다",
+          "meaning": "to cause something to happen or exist"
+        },
+        {
+          "en": "council",
+          "ko": "의회",
+          "meaning": "a group of people gathered for advice or decision-making"
+        },
+        {
+          "en": "hostile",
+          "ko": "적대적인",
+          "meaning": "unfriendly or antagonistic"
+        },
+        {
+          "en": "controversy",
+          "ko": "논쟁",
+          "meaning": "a public disagreement or debate"
+        },
+        {
+          "en": "invariable",
+          "ko": "불변의",
+          "meaning": "never changing; constant"
+        },
+        {
+          "en": "refugee",
+          "ko": "피난민",
+          "meaning": "a person who flees their home due to danger or persecution"
+        },
+        {
+          "en": "mode",
+          "ko": "방법",
+          "meaning": "a particular way of doing something"
+        },
+        {
+          "en": "groan",
+          "ko": "신음하다",
+          "meaning": "to make a low sound expressing pain or discomfort"
+        },
+        {
+          "en": "transplant",
+          "ko": "이식하다",
+          "meaning": "to move something from one place to another, often organs"
+        },
+        {
+          "en": "dominant",
+          "ko": "지배적인",
+          "meaning": "having control or influence over others"
+        },
+        {
+          "en": "reluctant",
+          "ko": "내키지 않는",
+          "meaning": "unwilling or hesitant to do something"
+        },
+        {
+          "en": "mechanical",
+          "ko": "기계적인",
+          "meaning": "related to machines or operated by machinery"
+        },
+        {
+          "en": "facilitate",
+          "ko": "촉진하다",
+          "meaning": "to make a process easier or smoother"
+        },
+        {
+          "en": "ridge",
+          "ko": "산등성이",
+          "meaning": "a long, narrow elevated landform"
+        },
+        {
+          "en": "ratio",
+          "ko": "비율",
+          "meaning": "the quantitative relation between two amounts"
+        },
+        {
+          "en": "humiliation",
+          "ko": "굴욕",
+          "meaning": "the feeling of being embarrassed or shamed"
+        },
+        {
+          "en": "copper",
+          "ko": "구리",
+          "meaning": "a reddish-brown metal used in wiring and coins"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "words": [
+        {
+          "en": "viewpoint",
+          "ko": "관점",
+          "meaning": "a particular attitude or perspective"
+        },
+        {
+          "en": "substance",
+          "ko": "물질",
+          "meaning": "a physical material or matter"
+        },
+        {
+          "en": "stubborn",
+          "ko": "완고한",
+          "meaning": "refusing to change one's mind despite persuasion"
+        },
+        {
+          "en": "critique",
+          "ko": "비평",
+          "meaning": "a detailed analysis or evaluation"
+        },
+        {
+          "en": "rip",
+          "ko": "찢다",
+          "meaning": "to tear something apart quickly or violently"
+        },
+        {
+          "en": "fluent",
+          "ko": "유창한",
+          "meaning": "able to speak or write smoothly and easily"
+        },
+        {
+          "en": "helpless",
+          "ko": "무력한",
+          "meaning": "unable to take action or protect oneself"
+        },
+        {
+          "en": "spiral",
+          "ko": "나선형의",
+          "meaning": "a shape that winds around a central point"
+        },
+        {
+          "en": "conversely",
+          "ko": "역으로",
+          "meaning": "in an opposite manner"
+        },
+        {
+          "en": "absurd",
+          "ko": "터무니없는",
+          "meaning": "wildly unreasonable or illogical"
+        },
+        {
+          "en": "knowledgeable",
+          "ko": "박식한",
+          "meaning": "having a lot of information or understanding about a subject"
+        },
+        {
+          "en": "predator",
+          "ko": "포식자",
+          "meaning": "an animal that hunts and eats other animals"
+        },
+        {
+          "en": "alternative",
+          "ko": "대안",
+          "meaning": "a different option or choice"
+        },
+        {
+          "en": "preconceived",
+          "ko": "선입견의",
+          "meaning": "formed before having evidence or experience"
+        },
+        {
+          "en": "imply",
+          "ko": "암시하다",
+          "meaning": "to suggest something without saying it directly"
+        },
+        {
+          "en": "elevate",
+          "ko": "올리다",
+          "meaning": "to lift something to a higher position"
+        },
+        {
+          "en": "immediately",
+          "ko": "즉시",
+          "meaning": "happening right away, without delay"
+        },
+        {
+          "en": "deprived",
+          "ko": "불우한",
+          "meaning": "lacking basic necessities or comforts"
+        },
+        {
+          "en": "surgery",
+          "ko": "수술",
+          "meaning": "a medical procedure to treat or repair the body"
+        },
+        {
+          "en": "steep",
+          "ko": "가파른",
+          "meaning": "having a sharp incline or slope"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "words": [
+        {
+          "en": "divorce",
+          "ko": "이혼하다",
+          "meaning": "to legally end a marriage"
+        },
+        {
+          "en": "tournament",
+          "ko": "토너먼트",
+          "meaning": "a competition with several rounds"
+        },
+        {
+          "en": "liberty",
+          "ko": "자유",
+          "meaning": "the state of being free to act as one chooses"
+        },
+        {
+          "en": "persuade",
+          "ko": "설득하다",
+          "meaning": "to convince someone to do or believe something"
+        },
+        {
+          "en": "upstream",
+          "ko": "상류로",
+          "meaning": "against the direction of a current in a river"
+        },
+        {
+          "en": "semester",
+          "ko": "학기",
+          "meaning": "half of an academic year in school or college"
+        },
+        {
+          "en": "flesh",
+          "ko": "살",
+          "meaning": "the soft tissue of the body"
+        },
+        {
+          "en": "electronic",
+          "ko": "전자의",
+          "meaning": "involving devices that use electricity to operate"
+        },
+        {
+          "en": "notable",
+          "ko": "주목할 만한",
+          "meaning": "worthy of attention or notice"
+        },
+        {
+          "en": "regard",
+          "ko": "여기다",
+          "meaning": "to think of someone or something in a certain way"
+        },
+        {
+          "en": "sigh",
+          "ko": "한숨 쉬다",
+          "meaning": "to exhale audibly, often from relief or frustration"
+        },
+        {
+          "en": "sickness",
+          "ko": "질병",
+          "meaning": "the state of being ill or unwell"
+        },
+        {
+          "en": "acknowledge",
+          "ko": "인정하다",
+          "meaning": "to accept or admit the truth of something"
+        },
+        {
+          "en": "underlying",
+          "ko": "근본적인",
+          "meaning": "fundamental or basic, often hidden beneath the surface"
+        },
+        {
+          "en": "gloomy",
+          "ko": "우울한",
+          "meaning": "dark, depressing, or lacking hope"
+        },
+        {
+          "en": "rush",
+          "ko": "돌진하다",
+          "meaning": "to move quickly or with urgency"
+        },
+        {
+          "en": "startle",
+          "ko": "놀라게 하다",
+          "meaning": "to surprise or frighten suddenly"
+        },
+        {
+          "en": "eloquent",
+          "ko": "유창한",
+          "meaning": "fluent and persuasive in speaking or writing"
+        },
+        {
+          "en": "oblige",
+          "ko": "강요하다",
+          "meaning": "to require someone to do something by law or duty"
+        },
+        {
+          "en": "synonym",
+          "ko": "동의어",
+          "meaning": "a word that has the same or nearly the same meaning as another word"
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "words": [
+        {
+          "en": "tenant",
+          "ko": "세입자",
+          "meaning": "a person who rents and lives in a property"
+        },
+        {
+          "en": "extrinsic",
+          "ko": "외부의",
+          "meaning": "coming from outside, not inherent"
+        },
+        {
+          "en": "rely",
+          "ko": "의존하다",
+          "meaning": "to depend on someone or something"
+        },
+        {
+          "en": "layout",
+          "ko": "배치",
+          "meaning": "the arrangement of elements in a space"
+        },
+        {
+          "en": "discriminate",
+          "ko": "구별하다",
+          "meaning": "to recognize or show differences"
+        },
+        {
+          "en": "outgoing",
+          "ko": "외향적인",
+          "meaning": "sociable and enjoying the company of others; being open and friendly"
+        },
+        {
+          "en": "absorb",
+          "ko": "흡수하다",
+          "meaning": "to take in or soak up a substance"
+        },
+        {
+          "en": "incline",
+          "ko": "~하는 경향이 있다",
+          "meaning": "to tend or be likely to do something"
+        },
+        {
+          "en": "dialect",
+          "ko": "사투리",
+          "meaning": "a regional variety of a language"
+        },
+        {
+          "en": "intelligent",
+          "ko": "똑똑한",
+          "meaning": "having the ability to learn and understand easily"
+        },
+        {
+          "en": "dimension",
+          "ko": "차원",
+          "meaning": "a measurable extent of length, width, or height"
+        },
+        {
+          "en": "protein",
+          "ko": "단백질",
+          "meaning": "a nutrient essential for body growth and repair"
+        },
+        {
+          "en": "estimate",
+          "ko": "추정하다",
+          "meaning": "to roughly calculate or judge a value"
+        },
+        {
+          "en": "literacy",
+          "ko": "읽고 쓰는 능력",
+          "meaning": "the ability to read and write"
+        },
+        {
+          "en": "parliament",
+          "ko": "국회",
+          "meaning": "a legislative body of government"
+        },
+        {
+          "en": "premature",
+          "ko": "너무 이른",
+          "meaning": "happening before the expected time"
+        },
+        {
+          "en": "majesty",
+          "ko": "장엄함",
+          "meaning": "greatness or splendor in appearance or style"
+        },
+        {
+          "en": "determine",
+          "ko": "결정하다",
+          "meaning": "to decide or establish something firmly"
+        },
+        {
+          "en": "striped",
+          "ko": "줄무늬의",
+          "meaning": "marked with lines or bands of color"
+        },
+        {
+          "en": "detective",
+          "ko": "탐정",
+          "meaning": "a person who investigates crimes"
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "words": [
+        {
+          "en": "sprint",
+          "ko": "단거리 경주",
+          "meaning": "a short, fast race or burst of speed"
+        },
+        {
+          "en": "victim",
+          "ko": "피해자",
+          "meaning": "someone harmed or affected by an event"
+        },
+        {
+          "en": "itinerary",
+          "ko": "여행 일정표",
+          "meaning": "a planned route or schedule of a journey"
+        },
+        {
+          "en": "surpass",
+          "ko": "능가하다",
+          "meaning": "to exceed or go beyond a limit"
+        },
+        {
+          "en": "consequence",
+          "ko": "결과",
+          "meaning": "the result or effect of an action"
+        },
+        {
+          "en": "deference",
+          "ko": "복종",
+          "meaning": "respectful submission to another’s opinion"
+        },
+        {
+          "en": "hinder",
+          "ko": "방해하다",
+          "meaning": "to obstruct or slow down progress"
+        },
+        {
+          "en": "deed",
+          "ko": "행위",
+          "meaning": "an action or act performed intentionally"
+        },
+        {
+          "en": "falsify",
+          "ko": "반증하다",
+          "meaning": "to make false by altering information"
+        },
+        {
+          "en": "rectangle",
+          "ko": "직사각형",
+          "meaning": "a four-sided shape with opposite sides equal and all angles 90 degrees"
+        },
+        {
+          "en": "yawn",
+          "ko": "하품하다",
+          "meaning": "to open your mouth wide and breathe in deeply when tired or bored"
+        },
+        {
+          "en": "antibody",
+          "ko": "항체",
+          "meaning": "a substance produced by the immune system to fight off infections"
+        },
+        {
+          "en": "grab",
+          "ko": "잡다",
+          "meaning": "to quickly take hold of something with your hand"
+        },
+        {
+          "en": "lodge",
+          "ko": "오두막",
+          "meaning": "a small house or cabin, often in a rural area"
+        },
+        {
+          "en": "stack",
+          "ko": "쌓다",
+          "meaning": "to arrange objects in a neat pile"
+        },
+        {
+          "en": "renovate",
+          "ko": "개조하다",
+          "meaning": "to repair or improve a building or structure"
+        },
+        {
+          "en": "modify",
+          "ko": "수정하다",
+          "meaning": "to make small changes to something"
+        },
+        {
+          "en": "utilize",
+          "ko": "이용하다",
+          "meaning": "to make practical use of something"
+        },
+        {
+          "en": "fierce",
+          "ko": "사나운",
+          "meaning": "very strong or intense, often aggressively so"
+        },
+        {
+          "en": "extinct",
+          "ko": "멸종된",
+          "meaning": "no longer existing, as in species that have died out"
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "words": [
+        {
+          "en": "roast",
+          "ko": "굽다",
+          "meaning": "to cook food, especially meat, in an oven or over a fire"
+        },
+        {
+          "en": "missionary",
+          "ko": "선교사",
+          "meaning": "a person sent on a religious mission to spread their faith"
+        },
+        {
+          "en": "quarrel",
+          "ko": "다투다",
+          "meaning": "to argue or fight, usually verbally"
+        },
+        {
+          "en": "lengthy",
+          "ko": "아주 긴",
+          "meaning": "very long in duration or extent"
+        },
+        {
+          "en": "fair",
+          "ko": "박람회",
+          "meaning": "an event with exhibits, entertainment, and competitions"
+        },
+        {
+          "en": "dust",
+          "ko": "먼지",
+          "meaning": "fine, dry particles of matter in the air or on surfaces"
+        },
+        {
+          "en": "empathetic",
+          "ko": "공감적인",
+          "meaning": "showing the ability to understand and share another’s feelings"
+        },
+        {
+          "en": "academic",
+          "ko": "학업의",
+          "meaning": "related to education or scholarly activities"
+        },
+        {
+          "en": "plow",
+          "ko": "쟁기로 갈다",
+          "meaning": "to turn over soil using a farming tool"
+        },
+        {
+          "en": "spear",
+          "ko": "창",
+          "meaning": "a weapon with a pointed tip, used for thrusting or throwing"
+        },
+        {
+          "en": "temperament",
+          "ko": "기질",
+          "meaning": "a person’s natural disposition or character"
+        },
+        {
+          "en": "moan",
+          "ko": "신음하다",
+          "meaning": "to make a low, prolonged sound of pain or discomfort"
+        },
+        {
+          "en": "sight",
+          "ko": "시야",
+          "meaning": "the area or range within which something can be seen; the visual field"
+        },
+        {
+          "en": "mixture",
+          "ko": "혼합물",
+          "meaning": "a combination of different substances blended together"
+        },
+        {
+          "en": "vacate",
+          "ko": "비우다",
+          "meaning": "to leave a place, making it empty"
+        },
+        {
+          "en": "sew",
+          "ko": "바느질하다",
+          "meaning": "to join pieces of fabric together with needle and thread"
+        },
+        {
+          "en": "carbohydrate",
+          "ko": "탄수화물",
+          "meaning": "a nutrient found in foods like bread and pasta that provides energy"
+        },
+        {
+          "en": "magnitude",
+          "ko": "규모",
+          "meaning": "the size, extent, or importance of something"
+        },
+        {
+          "en": "dose",
+          "ko": "복용량",
+          "meaning": "a measured amount of medicine to be taken at one time"
+        },
+        {
+          "en": "communal",
+          "ko": "공용의",
+          "meaning": "shared by a group of people"
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "words": [
+        {
+          "en": "distinguish",
+          "ko": "구별하다",
+          "meaning": "to recognize or show the differences between two or more things"
+        },
+        {
+          "en": "identical",
+          "ko": "동일한",
+          "meaning": "exactly the same in every detail"
+        },
+        {
+          "en": "stream",
+          "ko": "개울",
+          "meaning": "a small, narrow river"
+        },
+        {
+          "en": "collision",
+          "ko": "충돌",
+          "meaning": "an instance of two objects crashing into each other"
+        },
+        {
+          "en": "collective",
+          "ko": "집단의",
+          "meaning": "done by people working together as a group"
+        },
+        {
+          "en": "distribute",
+          "ko": "분배하다",
+          "meaning": "to give out something to several people or places"
+        },
+        {
+          "en": "induce",
+          "ko": "유발하다",
+          "meaning": "to cause something to happen"
+        },
+        {
+          "en": "misdeed",
+          "ko": "나쁜짓",
+          "meaning": "a bad or illegal act"
+        },
+        {
+          "en": "trivial",
+          "ko": "사소한",
+          "meaning": "not important or significant"
+        },
+        {
+          "en": "hybrid",
+          "ko": "잡종",
+          "meaning": "something made from a combination of different sources"
+        },
+        {
+          "en": "mitigate",
+          "ko": "완화하다",
+          "meaning": "to make something less severe or harmful"
+        },
+        {
+          "en": "positive",
+          "ko": "긍정적인",
+          "meaning": "thinking about what is good in a situation"
+        },
+        {
+          "en": "premise",
+          "ko": "전제",
+          "meaning": "an idea or theory on which a statement or action is based"
+        },
+        {
+          "en": "era",
+          "ko": "시대",
+          "meaning": "a period of time in history marked by particular events"
+        },
+        {
+          "en": "mow",
+          "ko": "베다",
+          "meaning": "to cut down grass or crops with a tool or machine"
+        },
+        {
+          "en": "shelter",
+          "ko": "대피소",
+          "meaning": "a place that provides protection from danger or bad weather"
+        },
+        {
+          "en": "thus",
+          "ko": "따라서",
+          "meaning": "as a result or consequence of something"
+        },
+        {
+          "en": "fine",
+          "ko": "미세한",
+          "meaning": "very small or thin in texture"
+        },
+        {
+          "en": "grip",
+          "ko": "쥐다",
+          "meaning": "to hold tightly"
+        },
+        {
+          "en": "token",
+          "ko": "표시",
+          "meaning": "something that represents or symbolizes something else"
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "words": [
+        {
+          "en": "mislead",
+          "ko": "오해하게 하다",
+          "meaning": "to give someone the wrong idea or impression"
+        },
+        {
+          "en": "toxic",
+          "ko": "유독성의",
+          "meaning": "poisonous and harmful to people or the environment"
+        },
+        {
+          "en": "mechanic",
+          "ko": "정비사",
+          "meaning": "a person who repairs machines, especially cars"
+        },
+        {
+          "en": "forecast",
+          "ko": "예상하다",
+          "meaning": "to predict what will happen in the future"
+        },
+        {
+          "en": "ultimate",
+          "ko": "궁극적인",
+          "meaning": "the most extreme or best possible"
+        },
+        {
+          "en": "knot",
+          "ko": "매듭",
+          "meaning": "a fastening made by tying a piece of string, rope, etc"
+        },
+        {
+          "en": "estate",
+          "ko": "재산",
+          "meaning": "all the money and property owned by a person"
+        },
+        {
+          "en": "outrun",
+          "ko": "앞지르다",
+          "meaning": "to run faster than someone else"
+        },
+        {
+          "en": "extreme",
+          "ko": "극단적인",
+          "meaning": "far from what is normal or expected"
+        },
+        {
+          "en": "slaughter",
+          "ko": "학살하다",
+          "meaning": "to kill animals for food or people in a violent way"
+        },
+        {
+          "en": "drought",
+          "ko": "가뭄",
+          "meaning": "a long period of time without rain, causing water shortages"
+        },
+        {
+          "en": "intimate",
+          "ko": "친밀한",
+          "meaning": "having a close, personal relationship"
+        },
+        {
+          "en": "organism",
+          "ko": "유기체",
+          "meaning": "a living thing, such as a plant, animal, or microorganism"
+        },
+        {
+          "en": "eclipse",
+          "ko": "일식",
+          "meaning": "when one celestial body moves into the shadow of another"
+        },
+        {
+          "en": "pharmacy",
+          "ko": "약국",
+          "meaning": "a store where medicines are prepared and sold"
+        },
+        {
+          "en": "respond",
+          "ko": "반응하다",
+          "meaning": "to say or do something as a reaction to something"
+        },
+        {
+          "en": "proceed",
+          "ko": "진행하다",
+          "meaning": "to continue or move forward after stopping"
+        },
+        {
+          "en": "punctuate",
+          "ko": "구두점을 찍다",
+          "meaning": "to add punctuation marks to writing"
+        },
+        {
+          "en": "cease",
+          "ko": "멈추다",
+          "meaning": "to stop doing something"
+        },
+        {
+          "en": "lava",
+          "ko": "용암",
+          "meaning": "hot, melted rock that flows from a volcano"
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "words": [
+        {
+          "en": "due",
+          "ko": "예정된",
+          "meaning": "expected to happen at a certain time"
+        },
+        {
+          "en": "telecommute",
+          "ko": "재택근무하다",
+          "meaning": "to work from home using a computer and internet"
+        },
+        {
+          "en": "property",
+          "ko": "재산",
+          "meaning": "things that belong to someone, like land or possessions"
+        },
+        {
+          "en": "beak",
+          "ko": "부리",
+          "meaning": "the hard, pointed part of a bird’s mouth"
+        },
+        {
+          "en": "exhibit",
+          "ko": "전시하다",
+          "meaning": "to display something for others to see"
+        },
+        {
+          "en": "emperor",
+          "ko": "황제",
+          "meaning": "the ruler of an empire"
+        },
+        {
+          "en": "wholesale",
+          "ko": "도매",
+          "meaning": "buying or selling goods in large quantities at lower prices"
+        },
+        {
+          "en": "barely",
+          "ko": "거의 ~ 않다",
+          "meaning": "almost not; by only a small amount"
+        },
+        {
+          "en": "vital",
+          "ko": "필수적인",
+          "meaning": "extremely important or necessary"
+        },
+        {
+          "en": "equilibrium",
+          "ko": "평형",
+          "meaning": "a state of balance"
+        },
+        {
+          "en": "illustrate",
+          "ko": "설명하다",
+          "meaning": "to explain something using pictures or examples"
+        },
+        {
+          "en": "erode",
+          "ko": "침식하다",
+          "meaning": "to gradually wear away or be destroyed by natural forces"
+        },
+        {
+          "en": "evergreen",
+          "ko": "상록수",
+          "meaning": "a tree or plant that keeps its leaves all year round"
+        },
+        {
+          "en": "ripen",
+          "ko": "익다",
+          "meaning": "to become fully grown or developed, especially fruit"
+        },
+        {
+          "en": "order",
+          "ko": "명령하다",
+          "meaning": "to give an instruction or command"
+        },
+        {
+          "en": "ineffective",
+          "ko": "효과 없는",
+          "meaning": "not producing the intended result"
+        },
+        {
+          "en": "likewise",
+          "ko": "마찬가지로",
+          "meaning": "in the same way or manner"
+        },
+        {
+          "en": "fancy",
+          "ko": "화려한",
+          "meaning": "elaborate, decorative, or expensive"
+        },
+        {
+          "en": "survive",
+          "ko": "생존하다",
+          "meaning": "to continue to live or exist, especially after difficulty"
+        },
+        {
+          "en": "dye",
+          "ko": "염색하다",
+          "meaning": "to change the color of something using a special liquid"
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "words": [
+        {
+          "en": "behavior",
+          "ko": "행동",
+          "meaning": "the way a person or animal acts"
+        },
+        {
+          "en": "entry",
+          "ko": "입장",
+          "meaning": "the act of going into a place"
+        },
+        {
+          "en": "swirl",
+          "ko": "빙빙 돌다",
+          "meaning": "to move in a twisting or spinning motion"
+        },
+        {
+          "en": "haste",
+          "ko": "서두르다",
+          "meaning": "to move or act quickly, often with urgency"
+        },
+        {
+          "en": "unlock",
+          "ko": "열다",
+          "meaning": "to open something, such as a door or lock"
+        },
+        {
+          "en": "beast",
+          "ko": "짐승",
+          "meaning": "a large, wild animal"
+        },
+        {
+          "en": "disorder",
+          "ko": "무질서",
+          "meaning": "a lack of order or organization"
+        },
+        {
+          "en": "conductor",
+          "ko": "지휘자",
+          "meaning": "a person who leads a musical group"
+        },
+        {
+          "en": "toss",
+          "ko": "던지다",
+          "meaning": "to throw something lightly or casually"
+        },
+        {
+          "en": "deficiency",
+          "ko": "결핍",
+          "meaning": "a lack or shortage of something necessary"
+        },
+        {
+          "en": "sorrowful",
+          "ko": "슬퍼하는",
+          "meaning": "feeling or showing sadness"
+        },
+        {
+          "en": "blossom",
+          "ko": "꽃을 피우다",
+          "meaning": "to produce flowers"
+        },
+        {
+          "en": "errand",
+          "ko": "심부름",
+          "meaning": "a short trip to complete a task"
+        },
+        {
+          "en": "quote",
+          "ko": "인용하다",
+          "meaning": "to repeat the words of someone else"
+        },
+        {
+          "en": "spare",
+          "ko": "여분의",
+          "meaning": "extra or more than what is needed"
+        },
+        {
+          "en": "boom",
+          "ko": "인기",
+          "meaning": "a sudden increase in popularity or success"
+        },
+        {
+          "en": "dehydrate",
+          "ko": "탈수시키다",
+          "meaning": "to remove water from something"
+        },
+        {
+          "en": "reward",
+          "ko": "보상하다",
+          "meaning": "to give something in recognition of someone's effort, achievement, or service"
+        },
+        {
+          "en": "sweep",
+          "ko": "쓸다",
+          "meaning": "to clean a surface using a broom"
+        },
+        {
+          "en": "parasitic",
+          "ko": "기생하는",
+          "meaning": "living off another organism without giving anything in return"
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "words": [
+        {
+          "en": "metropolis",
+          "ko": "대도시",
+          "meaning": "a large, important city"
+        },
+        {
+          "en": "intern",
+          "ko": "교육 실습생",
+          "meaning": "a student or recent graduate working to gain experience"
+        },
+        {
+          "en": "self-esteem",
+          "ko": "자존감",
+          "meaning": "confidence in one's own worth or abilities"
+        },
+        {
+          "en": "incredible",
+          "ko": "놀라운",
+          "meaning": "hard to believe; amazing"
+        },
+        {
+          "en": "preoccupy",
+          "ko": "몰두하게 하다",
+          "meaning": "to dominate one’s thoughts"
+        },
+        {
+          "en": "numerical",
+          "ko": "숫자의",
+          "meaning": "related to numbers"
+        },
+        {
+          "en": "swap",
+          "ko": "바꾸다",
+          "meaning": "to exchange one thing for another"
+        },
+        {
+          "en": "hollow",
+          "ko": "속이 빈",
+          "meaning": "empty inside"
+        },
+        {
+          "en": "voiceless",
+          "ko": "무언의",
+          "meaning": "lacking a voice or unable to speak"
+        },
+        {
+          "en": "represent",
+          "ko": "나타내다",
+          "meaning": "to stand for or symbolize something"
+        },
+        {
+          "en": "ideology",
+          "ko": "이념",
+          "meaning": "a set of beliefs or principles"
+        },
+        {
+          "en": "costume",
+          "ko": "의상",
+          "meaning": "special clothes worn for a particular purpose"
+        },
+        {
+          "en": "expedition",
+          "ko": "탐험",
+          "meaning": "a journey taken for exploration or research"
+        },
+        {
+          "en": "generous",
+          "ko": "너그러운",
+          "meaning": "willing to give or share freely"
+        },
+        {
+          "en": "hesitancy",
+          "ko": "망설임",
+          "meaning": "the act of pausing or feeling unsure"
+        },
+        {
+          "en": "animate",
+          "ko": "생명을 주다",
+          "meaning": "to give life or motion to something"
+        },
+        {
+          "en": "spin",
+          "ko": "회전하다",
+          "meaning": "to turn around quickly"
+        },
+        {
+          "en": "herbal",
+          "ko": "약초의",
+          "meaning": "related to or made from plants, especially for medicine"
+        },
+        {
+          "en": "responsible",
+          "ko": "책임이 있는",
+          "meaning": "having a duty to take care of something"
+        },
+        {
+          "en": "lap",
+          "ko": "무릎",
+          "meaning": "the top of your thighs when sitting"
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "words": [
+        {
+          "en": "opposite",
+          "ko": "반대의",
+          "meaning": "completely different from something else"
+        },
+        {
+          "en": "vegetarian",
+          "ko": "채식주의자",
+          "meaning": "a person who does not eat meat"
+        },
+        {
+          "en": "patron",
+          "ko": "후원자",
+          "meaning": "someone who supports a person, activity, or cause"
+        },
+        {
+          "en": "monarchy",
+          "ko": "군주제",
+          "meaning": "a government ruled by a king or queen"
+        },
+        {
+          "en": "pessimistic",
+          "ko": "비관적인",
+          "meaning": "expecting bad things to happen"
+        },
+        {
+          "en": "wail",
+          "ko": "울부짖다",
+          "meaning": "to cry out loudly in grief"
+        },
+        {
+          "en": "govern",
+          "ko": "통치하다",
+          "meaning": "to control or manage a group or area"
+        },
+        {
+          "en": "perspective",
+          "ko": "관점",
+          "meaning": "a particular way of thinking about something"
+        },
+        {
+          "en": "remain",
+          "ko": "머무르다",
+          "meaning": "to stay in the same place or condition"
+        },
+        {
+          "en": "reproduce",
+          "ko": "번식하다",
+          "meaning": "to make more of the same kind, like plants or animals"
+        },
+        {
+          "en": "inherit",
+          "ko": "물려받다",
+          "meaning": "to receive something from someone after they die"
+        },
+        {
+          "en": "suitable",
+          "ko": "적절한",
+          "meaning": "right or appropriate for a specific purpose"
+        },
+        {
+          "en": "feature",
+          "ko": "특징",
+          "meaning": "a distinctive characteristic or part of something"
+        },
+        {
+          "en": "companion",
+          "ko": "친구",
+          "meaning": "someone who accompanies another person"
+        },
+        {
+          "en": "contribute",
+          "ko": "기여하다",
+          "meaning": "to give something for a common purpose"
+        },
+        {
+          "en": "garment",
+          "ko": "옷",
+          "meaning": "a piece of clothing"
+        },
+        {
+          "en": "criticism",
+          "ko": "비판",
+          "meaning": "the act of pointing out faults or mistakes"
+        },
+        {
+          "en": "resent",
+          "ko": "분개하다",
+          "meaning": "to feel angry or bitter about something"
+        },
+        {
+          "en": "unfold",
+          "ko": "펼치다",
+          "meaning": "to open or spread out something that was folded"
+        },
+        {
+          "en": "equation",
+          "ko": "방정식",
+          "meaning": "a mathematical statement showing two things are equal"
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "words": [
+        {
+          "en": "antisocial",
+          "ko": "반사회적인",
+          "meaning": "not wanting to interact with others"
+        },
+        {
+          "en": "entitle",
+          "ko": "자격을 주다",
+          "meaning": "to give someone the right to do or have something"
+        },
+        {
+          "en": "quarter",
+          "ko": "4분의 1",
+          "meaning": "one-fourth of something"
+        },
+        {
+          "en": "holy",
+          "ko": "신성한",
+          "meaning": "sacred or connected to a religion"
+        },
+        {
+          "en": "sculpture",
+          "ko": "조각품",
+          "meaning": "a piece of art made by shaping materials like stone or wood"
+        },
+        {
+          "en": "terrific",
+          "ko": "아주 멋진",
+          "meaning": "extremely good or excellent"
+        },
+        {
+          "en": "partially",
+          "ko": "부분적으로",
+          "meaning": "not completely; only in part"
+        },
+        {
+          "en": "recite",
+          "ko": "암송하다",
+          "meaning": "to say something aloud from memory"
+        },
+        {
+          "en": "cautious",
+          "ko": "신중한",
+          "meaning": "being very careful to avoid danger"
+        },
+        {
+          "en": "frown",
+          "ko": "눈살을 찌푸리다",
+          "meaning": "to make a facial expression showing disapproval or worry"
+        },
+        {
+          "en": "coverage",
+          "ko": "보도",
+          "meaning": "the reporting of news or events"
+        },
+        {
+          "en": "mass",
+          "ko": "대량의",
+          "meaning": "a large amount or quantity of something"
+        },
+        {
+          "en": "general",
+          "ko": "일반적인",
+          "meaning": "common or widespread; not specific"
+        },
+        {
+          "en": "remote",
+          "ko": "먼",
+          "meaning": "far away in distance or time"
+        },
+        {
+          "en": "hub",
+          "ko": "중심",
+          "meaning": "the central or most important part of something"
+        },
+        {
+          "en": "optimize",
+          "ko": "최적화하다",
+          "meaning": "to make something as effective or perfect as possible"
+        },
+        {
+          "en": "abolition",
+          "ko": "폐지",
+          "meaning": "the act of officially ending something"
+        },
+        {
+          "en": "wind",
+          "ko": "감다",
+          "meaning": "to twist or turn something around"
+        },
+        {
+          "en": "lower",
+          "ko": "낮추다",
+          "meaning": "to make something less high or less intense"
+        },
+        {
+          "en": "punish",
+          "ko": "벌을 주다",
+          "meaning": "to make someone suffer for doing something wrong"
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "words": [
+        {
+          "en": "deluxe",
+          "ko": "호화로운",
+          "meaning": "luxurious and of high quality"
+        },
+        {
+          "en": "swarm",
+          "ko": "떼",
+          "meaning": "a large group of insects or people moving together"
+        },
+        {
+          "en": "edible",
+          "ko": "먹을 수 있는",
+          "meaning": "safe or suitable to eat"
+        },
+        {
+          "en": "productive",
+          "ko": "생산적인",
+          "meaning": "able to create a lot of goods or results"
+        },
+        {
+          "en": "mediate",
+          "ko": "중재하다",
+          "meaning": "to help settle a disagreement between people"
+        },
+        {
+          "en": "express",
+          "ko": "표현하다",
+          "meaning": "to show or communicate feelings or thoughts"
+        },
+        {
+          "en": "urge",
+          "ko": "촉구하다",
+          "meaning": "to strongly encourage someone to do something"
+        },
+        {
+          "en": "aspiration",
+          "ko": "열망",
+          "meaning": "a strong desire to achieve something"
+        },
+        {
+          "en": "store",
+          "ko": "저장하다",
+          "meaning": "to keep something for future use"
+        },
+        {
+          "en": "request",
+          "ko": "요청하다",
+          "meaning": "to ask for something politely or formally"
+        },
+        {
+          "en": "finance",
+          "ko": "재정",
+          "meaning": "the management of money and investments"
+        },
+        {
+          "en": "twinkle",
+          "ko": "반짝거리다",
+          "meaning": "to shine with quick, small flashes of light"
+        },
+        {
+          "en": "understate",
+          "ko": "축소해서 말하다",
+          "meaning": "to describe something as less important than it really is"
+        },
+        {
+          "en": "desirous",
+          "ko": "간절히 바라는",
+          "meaning": "wanting something very much"
+        },
+        {
+          "en": "attribute",
+          "ko": "~의 탓으로 돌리다",
+          "meaning": "to regard something as being caused by someone or something"
+        },
+        {
+          "en": "overdue",
+          "ko": "연체된",
+          "meaning": "past the expected or required time"
+        },
+        {
+          "en": "lag",
+          "ko": "뒤처지다",
+          "meaning": "to move or fall behind in progress"
+        },
+        {
+          "en": "improper",
+          "ko": "부적절한",
+          "meaning": "not suitable or correct"
+        },
+        {
+          "en": "sincerity",
+          "ko": "성실",
+          "meaning": "the quality of being honest and genuine"
+        },
+        {
+          "en": "sincere",
+          "ko": "진실한",
+          "meaning": "showing true feelings without pretending"
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "words": [
+        {
+          "en": "spread",
+          "ko": "퍼뜨리다",
+          "meaning": "to extend over a larger area or to more people"
+        },
+        {
+          "en": "chemistry",
+          "ko": "화학",
+          "meaning": "the science that studies substances and how they interact"
+        },
+        {
+          "en": "masterpiece",
+          "ko": "걸작",
+          "meaning": "an excellent work of art or craftsmanship"
+        },
+        {
+          "en": "congress",
+          "ko": "의회",
+          "meaning": "a formal meeting or assembly for discussion or legislation"
+        },
+        {
+          "en": "degrade",
+          "ko": "강등시키다",
+          "meaning": "to lower in dignity, value, or quality"
+        },
+        {
+          "en": "earn",
+          "ko": "벌다",
+          "meaning": "to receive money in exchange for work"
+        },
+        {
+          "en": "roam",
+          "ko": "돌아다니다",
+          "meaning": "to move around freely without a fixed path"
+        },
+        {
+          "en": "spectator",
+          "ko": "관중",
+          "meaning": "a person who watches an event"
+        },
+        {
+          "en": "lumber",
+          "ko": "목재",
+          "meaning": "wood that has been processed for building"
+        },
+        {
+          "en": "linkage",
+          "ko": "결합",
+          "meaning": "a connection or relationship between two or more things"
+        },
+        {
+          "en": "summarize",
+          "ko": "요약하다",
+          "meaning": "to give a brief statement of the main points"
+        },
+        {
+          "en": "beam",
+          "ko": "광선",
+          "meaning": "a ray of light or a long, strong piece of wood or metal"
+        },
+        {
+          "en": "underline",
+          "ko": "밑줄을 긋다",
+          "meaning": "to draw a line under text to highlight it"
+        },
+        {
+          "en": "tutor",
+          "ko": "가정 교사",
+          "meaning": "a person who gives individual teaching or instruction"
+        },
+        {
+          "en": "structure",
+          "ko": "구조",
+          "meaning": "the arrangement of parts to form something whole"
+        },
+        {
+          "en": "purchase",
+          "ko": "구매하다",
+          "meaning": "to buy something"
+        },
+        {
+          "en": "gravity",
+          "ko": "중력",
+          "meaning": "the force that pulls objects toward each other"
+        },
+        {
+          "en": "perform",
+          "ko": "수행하다",
+          "meaning": "to carry out a task or activity"
+        },
+        {
+          "en": "supernatural",
+          "ko": "초자연적인",
+          "meaning": "beyond what is natural or explainable by science"
+        },
+        {
+          "en": "radiant",
+          "ko": "빛나는",
+          "meaning": "emitting light or heat; bright and shining"
+        }
+      ]
+    },
+    {
+      "day": 43,
+      "words": [
+        {
+          "en": "epic",
+          "ko": "서사시",
+          "meaning": "a long narrative poem about heroic deeds"
+        },
+        {
+          "en": "county",
+          "ko": "자치주",
+          "meaning": "a region of a country that has its own local government"
+        },
+        {
+          "en": "literary",
+          "ko": "문학의",
+          "meaning": "relating to literature or the writing, study, or appreciation of books and written works"
+        },
+        {
+          "en": "couch",
+          "ko": "소파",
+          "meaning": "a piece of furniture for sitting or lying down"
+        },
+        {
+          "en": "submerge",
+          "ko": "잠수하다",
+          "meaning": "to go under the surface of water"
+        },
+        {
+          "en": "interest",
+          "ko": "이자",
+          "meaning": "money paid regularly at a particular rate for the use of borrowed money"
+        },
+        {
+          "en": "antique",
+          "ko": "골동품",
+          "meaning": "an old, valuable object, often a collectible"
+        },
+        {
+          "en": "patrol",
+          "ko": "순찰하다",
+          "meaning": "to move around an area to monitor and protect it"
+        },
+        {
+          "en": "probable",
+          "ko": "있음직한",
+          "meaning": "likely to happen or be true"
+        },
+        {
+          "en": "orientation",
+          "ko": "방향",
+          "meaning": "the position or direction of something"
+        },
+        {
+          "en": "interior",
+          "ko": "내부의",
+          "meaning": "relating to the inside or inner part of something"
+        },
+        {
+          "en": "guilt",
+          "ko": "죄책감",
+          "meaning": "a feeling of having done something wrong"
+        },
+        {
+          "en": "naked",
+          "ko": "벌거벗은",
+          "meaning": "without clothes"
+        },
+        {
+          "en": "thrust",
+          "ko": "밀치다",
+          "meaning": "to push forcefully"
+        },
+        {
+          "en": "imbalance",
+          "ko": "불균형",
+          "meaning": "a lack of balance or proportion"
+        },
+        {
+          "en": "intricate",
+          "ko": "복잡한",
+          "meaning": "very detailed and complicated"
+        },
+        {
+          "en": "income",
+          "ko": "수입",
+          "meaning": "money received from work or investments"
+        },
+        {
+          "en": "ruin",
+          "ko": "망치다",
+          "meaning": "to destroy completely"
+        },
+        {
+          "en": "advocate",
+          "ko": "옹호하다",
+          "meaning": "to support or argue in favor of something"
+        },
+        {
+          "en": "dull",
+          "ko": "지루한",
+          "meaning": "not interesting or exciting"
+        }
+      ]
+    },
+    {
+      "day": 44,
+      "words": [
+        {
+          "en": "finding",
+          "ko": "연구 결과",
+          "meaning": "a result discovered through research or investigation"
+        },
+        {
+          "en": "overseas",
+          "ko": "해외로",
+          "meaning": "in or to a foreign country across the sea"
+        },
+        {
+          "en": "regime",
+          "ko": "정권",
+          "meaning": "a system of government, especially one that is authoritarian"
+        },
+        {
+          "en": "extensive",
+          "ko": "광범위한",
+          "meaning": "covering a large area or having a wide range"
+        },
+        {
+          "en": "camouflage",
+          "ko": "위장하다",
+          "meaning": "to hide by blending in with surroundings"
+        },
+        {
+          "en": "dumb",
+          "ko": "말을 못 하는",
+          "meaning": "unable to speak"
+        },
+        {
+          "en": "theme",
+          "ko": "주제",
+          "meaning": "the subject or topic of a piece of writing or discussion"
+        },
+        {
+          "en": "refrain",
+          "ko": "삼가다",
+          "meaning": "to stop oneself from doing something"
+        },
+        {
+          "en": "related",
+          "ko": "관련이 있는",
+          "meaning": "connected in some way"
+        },
+        {
+          "en": "synonymous",
+          "ko": "동의어의",
+          "meaning": "having the same or nearly the same meaning as another word"
+        },
+        {
+          "en": "lyric",
+          "ko": "가사",
+          "meaning": "the words of a song"
+        },
+        {
+          "en": "utility",
+          "ko": "유용함",
+          "meaning": "the state of being useful"
+        },
+        {
+          "en": "enlist",
+          "ko": "요청하다",
+          "meaning": "to request or seek someone's help or participation in a cause or activity"
+        },
+        {
+          "en": "surrender",
+          "ko": "항복하다",
+          "meaning": "to give up or yield to an opponent"
+        },
+        {
+          "en": "produce",
+          "ko": "생산하다",
+          "meaning": "to make or create something"
+        },
+        {
+          "en": "refund",
+          "ko": "환불",
+          "meaning": "money returned to a payer"
+        },
+        {
+          "en": "occupation",
+          "ko": "직업",
+          "meaning": "a job or profession"
+        },
+        {
+          "en": "transparent",
+          "ko": "투명한",
+          "meaning": "allowing light to pass through so that objects behind can be seen clearly"
+        },
+        {
+          "en": "narrate",
+          "ko": "이야기하다",
+          "meaning": "to tell a story or describe events"
+        },
+        {
+          "en": "venture",
+          "ko": "모험",
+          "meaning": "a risky or daring journey or undertaking"
+        }
+      ]
+    },
+    {
+      "day": 45,
+      "words": [
+        {
+          "en": "boycott",
+          "ko": "불매운동",
+          "meaning": "a refusal to buy or use goods or services as a form of protest"
+        },
+        {
+          "en": "bound",
+          "ko": "튀어오르다",
+          "meaning": "to leap or jump forward"
+        },
+        {
+          "en": "trace",
+          "ko": "추적하다",
+          "meaning": "to follow the course or path of something"
+        },
+        {
+          "en": "passenger",
+          "ko": "승객",
+          "meaning": "a person traveling in a vehicle without driving it"
+        },
+        {
+          "en": "prevalent",
+          "ko": "널리 퍼진",
+          "meaning": "widespread or commonly occurring"
+        },
+        {
+          "en": "outward",
+          "ko": "바깥쪽의",
+          "meaning": "directed toward the outside"
+        },
+        {
+          "en": "faculty",
+          "ko": "교수진",
+          "meaning": "the teaching staff at a school or university"
+        },
+        {
+          "en": "antibacterial",
+          "ko": "항균의",
+          "meaning": "preventing the growth of bacteria"
+        },
+        {
+          "en": "pottery",
+          "ko": "도자기",
+          "meaning": "objects made from clay that are hardened by heat"
+        },
+        {
+          "en": "junction",
+          "ko": "교차점",
+          "meaning": "a place where roads or paths meet or cross"
+        },
+        {
+          "en": "marked",
+          "ko": "두드러진",
+          "meaning": "clearly noticeable or significant"
+        },
+        {
+          "en": "stimulate",
+          "ko": "자극하다",
+          "meaning": "to encourage activity or growth"
+        },
+        {
+          "en": "restrain",
+          "ko": "제한하다",
+          "meaning": "to hold back or limit"
+        },
+        {
+          "en": "faultless",
+          "ko": "결점이 없는",
+          "meaning": "without any mistakes or flaws"
+        },
+        {
+          "en": "coworker",
+          "ko": "직장 동료",
+          "meaning": "a person with whom one works, typically at the same organization"
+        },
+        {
+          "en": "bypass",
+          "ko": "우회하다",
+          "meaning": "to go around something rather than through it"
+        },
+        {
+          "en": "promising",
+          "ko": "유망한",
+          "meaning": "showing signs of future success"
+        },
+        {
+          "en": "dedicate",
+          "ko": "헌신하다",
+          "meaning": "to commit time or effort to a particular purpose"
+        },
+        {
+          "en": "recent",
+          "ko": "최근의",
+          "meaning": "having happened not long ago"
+        },
+        {
+          "en": "variety",
+          "ko": "다양성",
+          "meaning": "a range of different things"
+        }
+      ]
+    }
+  ]
+}

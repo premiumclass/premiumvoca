@@ -1,0 +1,473 @@
+{
+  "title": "프리미엄보카 속담",
+  "days": [
+    {
+      "day": 38,
+      "words": [
+        {
+          "en": "A bad workman always blames his tools.",
+          "ko": "서툰 일꾼이 장비만 탓한다."
+        },
+        {
+          "en": "A bird in the hand is worth two in a bush.",
+          "ko": "손 안의 새 한 마리가 숲 속에 있는 두 마리 새보다 낫다."
+        },
+        {
+          "en": "A burnt child dreads the fire.",
+          "ko": "불에 데어본 아이는 불을 무서워한다."
+        },
+        {
+          "en": "A crow is never whiter for washing herself often.",
+          "ko": "까마귀는 자주 씻는다고 더 하얗게 되지 않는다."
+        },
+        {
+          "en": "A drowning man will catch at a straw.",
+          "ko": "물에 빠진 사람은 지푸라기라도 잡는다."
+        },
+        {
+          "en": "A falling drop at last will cave a stone.",
+          "ko": "낙숫물이 바위를 뚫는다."
+        },
+        {
+          "en": "A friend in need is a friend indeed.",
+          "ko": "어려울 때의 친구가 진짜 친구이다."
+        },
+        {
+          "en": "A good beginning makes a good ending.",
+          "ko": "시작이 좋으면 끝도 좋다."
+        },
+        {
+          "en": "A good neighbor is better than a brother far off.",
+          "ko": "좋은 이웃은 멀리 떨어진 형제보다 낫다."
+        },
+        {
+          "en": "A journey of a thousand miles begins with a single step.",
+          "ko": "천리 길도 한 걸음부터"
+        },
+        {
+          "en": "A little is better than none.",
+          "ko": "조금이라도 있는 것이 없는 것보다는 낫다."
+        },
+        {
+          "en": "A little knowledge is dangerous.",
+          "ko": "얄팍한 지식은 위험하다."
+        },
+        {
+          "en": "A man is known by the company he keeps.",
+          "ko": "친구를 보면 그 사람을 안다."
+        },
+        {
+          "en": "A monkey sometimes falls from the tree.",
+          "ko": "원숭이도 때로는 나무에서 떨어지는 법이다."
+        },
+        {
+          "en": "A rolling stone gathers no moss.",
+          "ko": "구르는 돌에는 이끼가 끼지 않는다."
+        },
+        {
+          "en": "A small leak will sink a great ship.",
+          "ko": "조그만 구멍이 거대한 배를 침몰시키는 법이다."
+        },
+        {
+          "en": "A sound mind in a sound body.",
+          "ko": "건강한 신체에 건강한 마음이 깃든다."
+        },
+        {
+          "en": "A stitch in time saves nine.",
+          "ko": "제 때의 바느질 한 땀이 아홉 땀의 수고를 덜어준다."
+        },
+        {
+          "en": "A tree is known by its fruit.",
+          "ko": "열매를 보면 그 나무를 안다."
+        },
+        {
+          "en": "A trouble shared is a trouble split in half.",
+          "ko": "고통은 나누면 반으로 줄어든다."
+        },
+        {
+          "en": "A watched pot never boils.",
+          "ko": "서두른다고 일이 되는 것은 아니다."
+        },
+        {
+          "en": "Actions speak louder than words.",
+          "ko": "말보다 행동이 앞선다."
+        },
+        {
+          "en": "All is well that ends well.",
+          "ko": "끝이 좋아야 다 좋다."
+        },
+        {
+          "en": "All that glitters is not gold.",
+          "ko": "반짝인다고 해서 모두 다 금인 것은 아니다."
+        },
+        {
+          "en": "Always put yourself in the other person's shoes.",
+          "ko": "다른 사람의 입장에서 생각하라."
+        },
+        {
+          "en": "An early bird catches the worm.",
+          "ko": "일찍 일어나는 새가 벌레를 잡는다."
+        },
+        {
+          "en": "As the twig is bent, so grows the tree.",
+          "ko": "될 성 싶은 나무는 떡잎부터 알아본다."
+        },
+        {
+          "en": "As you sow, so shall you reap.",
+          "ko": "뿌린 대로 거둔다."
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "words": [
+        {
+          "en": "Attack is the best defence.",
+          "ko": "공격이 최선의 방어이다."
+        },
+        {
+          "en": "Bad news has wings.",
+          "ko": "나쁜 소식은 빨리 퍼진다."
+        },
+        {
+          "en": "Behind the clouds is the sun still shining.",
+          "ko": "고생 끝에 낙이 온다."
+        },
+        {
+          "en": "Better late than never.",
+          "ko": "늦더라도 전혀 안하는 것보다 낫다."
+        },
+        {
+          "en": "Birds of a feather flock together.",
+          "ko": "깃이 같은 새는 끼리끼리 모인다."
+        },
+        {
+          "en": "By other's faults wise men correct their own.",
+          "ko": "현명한 사람은 남의 결점을 보고 자기의 결점을 고친다."
+        },
+        {
+          "en": "Clouds gather before a storm.",
+          "ko": "폭풍우 전에 구름이 모인다."
+        },
+        {
+          "en": "Curiosity kills the cat.",
+          "ko": "지나친 호기심은 위험한 법이다."
+        },
+        {
+          "en": "Do in Rome as the Romans do.",
+          "ko": "로마에서는 로마법을 따라라."
+        },
+        {
+          "en": "Do to others as you would be done by.",
+          "ko": "네가 대접받고 싶은 대로 남을 대접하라."
+        },
+        {
+          "en": "Don't bite off more than you can chew.",
+          "ko": "능력 밖의 일을 하려고 하지 마라."
+        },
+        {
+          "en": "Don't bite the hand that feeds you.",
+          "ko": "은혜를 원수로 갚지 마라."
+        },
+        {
+          "en": "Don't count your chickens before they are hatched.",
+          "ko": "병아리가 부화하기도 전에 미리 몇 마리인지 세지 말라."
+        },
+        {
+          "en": "Don't judge a book by its cover.",
+          "ko": "외모로 사람을 판단하지 마라."
+        },
+        {
+          "en": "Don't judge a man until you're walked in his boots.",
+          "ko": "그 사람의 처지가 되어 보기 전에 함부로 판단하지 말라."
+        },
+        {
+          "en": "Don't put the cart before the horse.",
+          "ko": "일의 순서를 거꾸로 뒤집지 말라."
+        },
+        {
+          "en": "Easier said than done.",
+          "ko": "말하기는 쉬워도 행동하기는 어렵다."
+        },
+        {
+          "en": "Empty vessels make the greatest noise.",
+          "ko": "빈 수레가 요란하다."
+        },
+        {
+          "en": "Every cloud has a silver lining.",
+          "ko": "하늘이 무너져도 솟아 날 구멍은 있다."
+        },
+        {
+          "en": "Every dog has his day.",
+          "ko": "쥐구멍에도 볕들 날이 있다."
+        },
+        {
+          "en": "Everything has its time.",
+          "ko": "모든 것은 다 때가 있다."
+        },
+        {
+          "en": "Good medicine tastes bitter.",
+          "ko": "좋은 약은 입에 쓰다."
+        },
+        {
+          "en": "Habit is a second nature.",
+          "ko": "습관은 고치기 어렵다."
+        },
+        {
+          "en": "Haste makes waste.",
+          "ko": "급히 서두르면 일을 망친다."
+        },
+        {
+          "en": "He laughs best who laughs last.",
+          "ko": "마지막에 웃는 자가 진정한 승자다."
+        },
+        {
+          "en": "He who makes no mistakes makes nothing.",
+          "ko": "누구나 실수를 하기 마련이다."
+        },
+        {
+          "en": "Heaven helps those who help themselves.",
+          "ko": "하늘은 스스로 돕는 자를 돕는다."
+        },
+        {
+          "en": "Honesty is the best policy.",
+          "ko": "정직이 최상의 방책이다."
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "words": [
+        {
+          "en": "It is no use crying over spilt milk.",
+          "ko": "이미 지나간 일을 후회해도 소용없다."
+        },
+        {
+          "en": "It never rains but it pours.",
+          "ko": "불행은 겹친다."
+        },
+        {
+          "en": "It's never too late to learn.",
+          "ko": "배움에 나이는 없다."
+        },
+        {
+          "en": "Knowledge is power.",
+          "ko": "아는 것이 힘이다."
+        },
+        {
+          "en": "Lend your money and lose your friend.",
+          "ko": "돈을 빌려주면 친구를 잃는다."
+        },
+        {
+          "en": "Let bygones be bygones.",
+          "ko": "지난 일은 지난 일인 채로 두어라."
+        },
+        {
+          "en": "Little pot is soon hot.",
+          "ko": "그릇이 작은 사람일수록 쉽게 화를 낸다."
+        },
+        {
+          "en": "Look before you leap.",
+          "ko": "돌다리도 두드려 보고 건너라."
+        },
+        {
+          "en": "Make haste slowly.",
+          "ko": "급할수록 천천히"
+        },
+        {
+          "en": "Make hay while the sun shines.",
+          "ko": "기회를 놓치지 마라."
+        },
+        {
+          "en": "Many a little makes a mickle.",
+          "ko": "작은 것들이 모여서 거대한 것을 이룬다."
+        },
+        {
+          "en": "Necessity is the mother of invention.",
+          "ko": "필요는 발명의 어머니"
+        },
+        {
+          "en": "Never put off till tomorrow what you can do today.",
+          "ko": "오늘 할 일을 내일로 미루지 말라."
+        },
+        {
+          "en": "No pains, no gains.",
+          "ko": "노력하지 않으면 얻는 것도 없다."
+        },
+        {
+          "en": "No rule without exception.",
+          "ko": "예외없는 규칙은 없다."
+        },
+        {
+          "en": "No smoke without fire.",
+          "ko": "아니 땐 굴뚝에 연기 나랴."
+        },
+        {
+          "en": "Nothing ventured, nothing gained.",
+          "ko": "세상에 저절로 얻어지는 것은 없다."
+        },
+        {
+          "en": "One cannot see the wood for the trees.",
+          "ko": "나무만 보고 숲은 보지 못한다."
+        },
+        {
+          "en": "One hour today is worth two tomorrow.",
+          "ko": "오늘의 한 시간은 내일의 두 시간의 가치가 있다."
+        },
+        {
+          "en": "One man's meat is another man's poison.",
+          "ko": "어떤 사람에게는 약이 다른 사람에게는 독이 될 수도 있다."
+        },
+        {
+          "en": "One picture is worth a thousand words.",
+          "ko": "백문이 불여일견"
+        },
+        {
+          "en": "Opportunity seldom knocks twice.",
+          "ko": "기회는 쉽게 찾아오지 않는다."
+        },
+        {
+          "en": "Out of sight, out of mind.",
+          "ko": "눈에서 멀어지면 마음에서도 멀어진다."
+        },
+        {
+          "en": "Plow deep while sluggards sleep.",
+          "ko": "게으름뱅이들이 잠자는 동안 밭을 열심히 갈아라."
+        },
+        {
+          "en": "Prevention is better than cure.",
+          "ko": "예방이 치료보다 낫다."
+        },
+        {
+          "en": "Rome was not built in a day.",
+          "ko": "로마는 하루아침에 이루어지지 않는다."
+        },
+        {
+          "en": "Saying is one thing and doing another.",
+          "ko": "말하는 것과 직접 행동하는 것은 별개의 문제다."
+        },
+        {
+          "en": "Slow and steady wins the race.",
+          "ko": "느려도 착실히 하면 이긴다."
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "words": [
+        {
+          "en": "So many men, so many minds.",
+          "ko": "사람마다 생각이 다 다르다."
+        },
+        {
+          "en": "Soon got, soon gone.",
+          "ko": "쉽게 얻은 것은 쉽게 나간다."
+        },
+        {
+          "en": "Spare the rod and spoil the child.",
+          "ko": "매를 아끼면 아이를 망친다."
+        },
+        {
+          "en": "Still waters run deep.",
+          "ko": "빈 수레가 요란하다."
+        },
+        {
+          "en": "Strike while the iron is hot.",
+          "ko": "쇠는 뜨거울 때 두드려라."
+        },
+        {
+          "en": "The darkest hour is that before the dawn.",
+          "ko": "새벽이 오기 직전이 가장 어둡다."
+        },
+        {
+          "en": "The foot of the candle is dark.",
+          "ko": "등잔 밑이 어둡다."
+        },
+        {
+          "en": "The grass is always greener on the other side.",
+          "ko": "남의 떡이 더 커 보인다."
+        },
+        {
+          "en": "The leopard does not change his spots.",
+          "ko": "세 살 버릇 여든까지 간다."
+        },
+        {
+          "en": "The more, the better.",
+          "ko": "많으면 많을수록 좋다."
+        },
+        {
+          "en": "The pen is mightier than the sword.",
+          "ko": "펜은 칼보다 강하다."
+        },
+        {
+          "en": "The whole is more than the sum of its parts.",
+          "ko": "여럿이 모이면 각각의 합보다 더 큰 결과를 만든다."
+        },
+        {
+          "en": "There is no rose without a thorn.",
+          "ko": "모든 장미에는 가시가 있다."
+        },
+        {
+          "en": "Time and tide wait for no man.",
+          "ko": "세월은 사람을 기다려 주지 않는다."
+        },
+        {
+          "en": "Time flies like an arrow.",
+          "ko": "시간은 화살처럼 빠르게 흐른다."
+        },
+        {
+          "en": "Time heals all wounds.",
+          "ko": "시간은 모든 것을 치료한다."
+        },
+        {
+          "en": "Time will show who is right.",
+          "ko": "누가 옳은지는 시간이 보여줄 것이다."
+        },
+        {
+          "en": "Too many cooks spoil the broth.",
+          "ko": "사공이 많으면 배가 산으로 간다."
+        },
+        {
+          "en": "Two heads are better than one.",
+          "ko": "백지 장도 맞들면 낫다."
+        },
+        {
+          "en": "Walls have ears.",
+          "ko": "낮 말은 새가 듣고 밤 말은 쥐가 듣는다."
+        },
+        {
+          "en": "Well begun is half done.",
+          "ko": "시작이 반이다."
+        },
+        {
+          "en": "What the fool does at last, the wise man does at first.",
+          "ko": "바보들이 맨 마지막에 하는 일을 현명한 사람들은 제일 먼저 한다."
+        },
+        {
+          "en": "When one door shuts, another opens.",
+          "ko": "기회는 항상 있다."
+        },
+        {
+          "en": "Where there is a will, there is a way.",
+          "ko": "뜻이 있는 곳에 길이 있다."
+        },
+        {
+          "en": "Who knows most speaks least.",
+          "ko": "현명한 사람은 지혜를 뽐내지 않는다."
+        },
+        {
+          "en": "You can't have your cake and eat it too.",
+          "ko": "두 가지를 동시에 가질 수는 없다."
+        },
+        {
+          "en": "You don't know what you've got until you've lost it.",
+          "ko": "잃어버리기 전까지는 스스로가 가진 것이 무엇인지를 모른다."
+        },
+        {
+          "en": "You win some, you lose some.",
+          "ko": "얻는 것이 있으면 잃는 것도 있다."
+        }
+      ]
+    }
+  ]
+}

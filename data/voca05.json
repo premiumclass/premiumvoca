@@ -1,0 +1,3830 @@
+{
+  "title": "프리미엄보카 중등기본",
+  "days": [
+    {
+      "day": 1,
+      "words": [
+        {
+          "en": "theater",
+          "ko": "극장"
+        },
+        {
+          "en": "feeling",
+          "ko": "느낌"
+        },
+        {
+          "en": "playground",
+          "ko": "운동장"
+        },
+        {
+          "en": "get",
+          "ko": "얻다"
+        },
+        {
+          "en": "loudly",
+          "ko": "큰 소리로"
+        },
+        {
+          "en": "musician",
+          "ko": "음악가"
+        },
+        {
+          "en": "brave",
+          "ko": "용감한"
+        },
+        {
+          "en": "shower",
+          "ko": "소나기"
+        },
+        {
+          "en": "machine",
+          "ko": "기계"
+        },
+        {
+          "en": "dry",
+          "ko": "마른"
+        },
+        {
+          "en": "balloon",
+          "ko": "풍선"
+        },
+        {
+          "en": "shop",
+          "ko": "가게"
+        },
+        {
+          "en": "write",
+          "ko": "쓰다"
+        },
+        {
+          "en": "mop",
+          "ko": "대걸레"
+        },
+        {
+          "en": "some",
+          "ko": "약간의"
+        },
+        {
+          "en": "metal",
+          "ko": "금속"
+        },
+        {
+          "en": "spinach",
+          "ko": "시금치"
+        },
+        {
+          "en": "mall",
+          "ko": "쇼핑센터"
+        },
+        {
+          "en": "mushroom",
+          "ko": "버섯"
+        },
+        {
+          "en": "battle",
+          "ko": "싸움"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "words": [
+        {
+          "en": "frog",
+          "ko": "개구리"
+        },
+        {
+          "en": "surely",
+          "ko": "확실히"
+        },
+        {
+          "en": "fat",
+          "ko": "뚱뚱한"
+        },
+        {
+          "en": "sweet",
+          "ko": "달콤한"
+        },
+        {
+          "en": "office",
+          "ko": "사무실"
+        },
+        {
+          "en": "sick",
+          "ko": "아픈"
+        },
+        {
+          "en": "early",
+          "ko": "일찍"
+        },
+        {
+          "en": "victory",
+          "ko": "승리"
+        },
+        {
+          "en": "slow",
+          "ko": "느린"
+        },
+        {
+          "en": "never",
+          "ko": "결코 ~ 않다"
+        },
+        {
+          "en": "arm",
+          "ko": "팔"
+        },
+        {
+          "en": "son",
+          "ko": "아들"
+        },
+        {
+          "en": "sleepy",
+          "ko": "졸린"
+        },
+        {
+          "en": "main",
+          "ko": "주요한"
+        },
+        {
+          "en": "lead",
+          "ko": "이끌다"
+        },
+        {
+          "en": "uncle",
+          "ko": "삼촌"
+        },
+        {
+          "en": "study",
+          "ko": "공부하다"
+        },
+        {
+          "en": "nose",
+          "ko": "코"
+        },
+        {
+          "en": "lake",
+          "ko": "호수"
+        },
+        {
+          "en": "make",
+          "ko": "만들다"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "words": [
+        {
+          "en": "corner",
+          "ko": "구석"
+        },
+        {
+          "en": "baby",
+          "ko": "아기"
+        },
+        {
+          "en": "brush",
+          "ko": "붓"
+        },
+        {
+          "en": "sky",
+          "ko": "하늘"
+        },
+        {
+          "en": "president",
+          "ko": "대통령"
+        },
+        {
+          "en": "apartment",
+          "ko": "아파트"
+        },
+        {
+          "en": "circle",
+          "ko": "동그라미"
+        },
+        {
+          "en": "hot",
+          "ko": "뜨거운"
+        },
+        {
+          "en": "watermelon",
+          "ko": "수박"
+        },
+        {
+          "en": "sand",
+          "ko": "모래"
+        },
+        {
+          "en": "pigeon",
+          "ko": "비둘기"
+        },
+        {
+          "en": "park",
+          "ko": "공원"
+        },
+        {
+          "en": "zero",
+          "ko": "영(0)"
+        },
+        {
+          "en": "break",
+          "ko": "깨뜨리다"
+        },
+        {
+          "en": "friend",
+          "ko": "친구"
+        },
+        {
+          "en": "kick",
+          "ko": "차다"
+        },
+        {
+          "en": "ticket",
+          "ko": "표"
+        },
+        {
+          "en": "line",
+          "ko": "선"
+        },
+        {
+          "en": "school",
+          "ko": "학교"
+        },
+        {
+          "en": "kite",
+          "ko": "연"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "words": [
+        {
+          "en": "mammal",
+          "ko": "포유동물"
+        },
+        {
+          "en": "Mars",
+          "ko": "화성"
+        },
+        {
+          "en": "angry",
+          "ko": "화난"
+        },
+        {
+          "en": "begin",
+          "ko": "시작하다"
+        },
+        {
+          "en": "thousand",
+          "ko": "천(1000)"
+        },
+        {
+          "en": "meal",
+          "ko": "식사"
+        },
+        {
+          "en": "drug",
+          "ko": "약"
+        },
+        {
+          "en": "weak",
+          "ko": "약한"
+        },
+        {
+          "en": "self",
+          "ko": "자신"
+        },
+        {
+          "en": "lazy",
+          "ko": "게으른"
+        },
+        {
+          "en": "give",
+          "ko": "주다"
+        },
+        {
+          "en": "count",
+          "ko": "세다"
+        },
+        {
+          "en": "wolf",
+          "ko": "늑대"
+        },
+        {
+          "en": "virus",
+          "ko": "바이러스"
+        },
+        {
+          "en": "start",
+          "ko": "시작하다"
+        },
+        {
+          "en": "foot",
+          "ko": "발"
+        },
+        {
+          "en": "ill",
+          "ko": "병든"
+        },
+        {
+          "en": "toilet",
+          "ko": "변기"
+        },
+        {
+          "en": "lizard",
+          "ko": "도마뱀"
+        },
+        {
+          "en": "sea",
+          "ko": "바다"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "words": [
+        {
+          "en": "cow",
+          "ko": "소"
+        },
+        {
+          "en": "elder",
+          "ko": "손위의"
+        },
+        {
+          "en": "energy",
+          "ko": "에너지"
+        },
+        {
+          "en": "second",
+          "ko": "두 번째의"
+        },
+        {
+          "en": "thing",
+          "ko": "물건"
+        },
+        {
+          "en": "wide",
+          "ko": "넓은"
+        },
+        {
+          "en": "fast",
+          "ko": "빠른"
+        },
+        {
+          "en": "tourist",
+          "ko": "관광객"
+        },
+        {
+          "en": "rainbow",
+          "ko": "무지개"
+        },
+        {
+          "en": "hawk",
+          "ko": "매"
+        },
+        {
+          "en": "kettle",
+          "ko": "주전자"
+        },
+        {
+          "en": "draw",
+          "ko": "그리다"
+        },
+        {
+          "en": "movie",
+          "ko": "영화"
+        },
+        {
+          "en": "land",
+          "ko": "땅"
+        },
+        {
+          "en": "become",
+          "ko": "~이 되다"
+        },
+        {
+          "en": "catch",
+          "ko": "잡다"
+        },
+        {
+          "en": "dive",
+          "ko": "잠수하다"
+        },
+        {
+          "en": "home",
+          "ko": "집"
+        },
+        {
+          "en": "merry",
+          "ko": "즐거운"
+        },
+        {
+          "en": "alive",
+          "ko": "살아 있는"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "words": [
+        {
+          "en": "knee",
+          "ko": "무릎"
+        },
+        {
+          "en": "yesterday",
+          "ko": "어제"
+        },
+        {
+          "en": "nurse",
+          "ko": "간호사"
+        },
+        {
+          "en": "bench",
+          "ko": "긴 의자"
+        },
+        {
+          "en": "dislike",
+          "ko": "싫어하다"
+        },
+        {
+          "en": "understand",
+          "ko": "이해하다"
+        },
+        {
+          "en": "people",
+          "ko": "사람들"
+        },
+        {
+          "en": "brother",
+          "ko": "남동생"
+        },
+        {
+          "en": "number",
+          "ko": "숫자"
+        },
+        {
+          "en": "month",
+          "ko": "달"
+        },
+        {
+          "en": "peanut",
+          "ko": "땅콩"
+        },
+        {
+          "en": "building",
+          "ko": "건물"
+        },
+        {
+          "en": "best",
+          "ko": "최고의"
+        },
+        {
+          "en": "cute",
+          "ko": "귀여운"
+        },
+        {
+          "en": "lawyer",
+          "ko": "변호사"
+        },
+        {
+          "en": "own",
+          "ko": "자기 자신의"
+        },
+        {
+          "en": "grape",
+          "ko": "포도"
+        },
+        {
+          "en": "inside",
+          "ko": "안에"
+        },
+        {
+          "en": "teacher",
+          "ko": "선생님"
+        },
+        {
+          "en": "god",
+          "ko": "신"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "words": [
+        {
+          "en": "word",
+          "ko": "단어"
+        },
+        {
+          "en": "hike",
+          "ko": "도보여행하다"
+        },
+        {
+          "en": "asleep",
+          "ko": "잠이 든"
+        },
+        {
+          "en": "star",
+          "ko": "별"
+        },
+        {
+          "en": "tree",
+          "ko": "나무"
+        },
+        {
+          "en": "garden",
+          "ko": "정원"
+        },
+        {
+          "en": "ghost",
+          "ko": "유령"
+        },
+        {
+          "en": "special",
+          "ko": "특별한"
+        },
+        {
+          "en": "plant",
+          "ko": "심다"
+        },
+        {
+          "en": "travel",
+          "ko": "여행하다"
+        },
+        {
+          "en": "grass",
+          "ko": "풀"
+        },
+        {
+          "en": "sorry",
+          "ko": "미안한"
+        },
+        {
+          "en": "lovely",
+          "ko": "사랑스러운"
+        },
+        {
+          "en": "pair",
+          "ko": "한 쌍"
+        },
+        {
+          "en": "popular",
+          "ko": "인기 있는"
+        },
+        {
+          "en": "afraid",
+          "ko": "두려워하는"
+        },
+        {
+          "en": "close",
+          "ko": "닫다"
+        },
+        {
+          "en": "turn",
+          "ko": "돌다"
+        },
+        {
+          "en": "hurry",
+          "ko": "서두르다"
+        },
+        {
+          "en": "classroom",
+          "ko": "교실"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "words": [
+        {
+          "en": "pattern",
+          "ko": "무늬"
+        },
+        {
+          "en": "locker",
+          "ko": "사물함"
+        },
+        {
+          "en": "melt",
+          "ko": "녹다"
+        },
+        {
+          "en": "memory",
+          "ko": "기억"
+        },
+        {
+          "en": "life",
+          "ko": "인생"
+        },
+        {
+          "en": "birthday",
+          "ko": "생일"
+        },
+        {
+          "en": "shirt",
+          "ko": "셔츠"
+        },
+        {
+          "en": "visit",
+          "ko": "방문하다"
+        },
+        {
+          "en": "camera",
+          "ko": "사진기"
+        },
+        {
+          "en": "daughter",
+          "ko": "딸"
+        },
+        {
+          "en": "heaven",
+          "ko": "천국"
+        },
+        {
+          "en": "breakfast",
+          "ko": "아침 식사"
+        },
+        {
+          "en": "midnight",
+          "ko": "한밤중"
+        },
+        {
+          "en": "now",
+          "ko": "지금"
+        },
+        {
+          "en": "quiet",
+          "ko": "조용한"
+        },
+        {
+          "en": "lettuce",
+          "ko": "상추"
+        },
+        {
+          "en": "desk",
+          "ko": "책상"
+        },
+        {
+          "en": "hero",
+          "ko": "영웅"
+        },
+        {
+          "en": "earth",
+          "ko": "지구"
+        },
+        {
+          "en": "picnic",
+          "ko": "소풍"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "words": [
+        {
+          "en": "player",
+          "ko": "선수"
+        },
+        {
+          "en": "windy",
+          "ko": "바람이 부는"
+        },
+        {
+          "en": "student",
+          "ko": "학생"
+        },
+        {
+          "en": "guess",
+          "ko": "추측하다"
+        },
+        {
+          "en": "actor",
+          "ko": "남자 배우"
+        },
+        {
+          "en": "tell",
+          "ko": "말하다"
+        },
+        {
+          "en": "road",
+          "ko": "길"
+        },
+        {
+          "en": "liquid",
+          "ko": "액체"
+        },
+        {
+          "en": "oil",
+          "ko": "기름"
+        },
+        {
+          "en": "read",
+          "ko": "읽다"
+        },
+        {
+          "en": "family",
+          "ko": "가족"
+        },
+        {
+          "en": "boat",
+          "ko": "배(탈 것)"
+        },
+        {
+          "en": "band",
+          "ko": "악단"
+        },
+        {
+          "en": "success",
+          "ko": "성공"
+        },
+        {
+          "en": "pear",
+          "ko": "배(과일)"
+        },
+        {
+          "en": "stone",
+          "ko": "돌"
+        },
+        {
+          "en": "mouth",
+          "ko": "입"
+        },
+        {
+          "en": "print",
+          "ko": "인쇄하다"
+        },
+        {
+          "en": "unkind",
+          "ko": "불친절한"
+        },
+        {
+          "en": "next",
+          "ko": "다음의"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "words": [
+        {
+          "en": "powder",
+          "ko": "가루"
+        },
+        {
+          "en": "cellphone",
+          "ko": "휴대전화"
+        },
+        {
+          "en": "bedroom",
+          "ko": "침실"
+        },
+        {
+          "en": "exciting",
+          "ko": "신나는"
+        },
+        {
+          "en": "cash",
+          "ko": "현금"
+        },
+        {
+          "en": "welcome",
+          "ko": "환영하다"
+        },
+        {
+          "en": "actress",
+          "ko": "여자 배우"
+        },
+        {
+          "en": "job",
+          "ko": "직업"
+        },
+        {
+          "en": "rock",
+          "ko": "바위"
+        },
+        {
+          "en": "poor",
+          "ko": "가난한"
+        },
+        {
+          "en": "level",
+          "ko": "수준"
+        },
+        {
+          "en": "cloudy",
+          "ko": "구름 낀"
+        },
+        {
+          "en": "shoe",
+          "ko": "신발"
+        },
+        {
+          "en": "pocket",
+          "ko": "주머니"
+        },
+        {
+          "en": "military",
+          "ko": "군대"
+        },
+        {
+          "en": "pants",
+          "ko": "바지"
+        },
+        {
+          "en": "person",
+          "ko": "사람"
+        },
+        {
+          "en": "sandals",
+          "ko": "샌들"
+        },
+        {
+          "en": "bridge",
+          "ko": "다리"
+        },
+        {
+          "en": "year",
+          "ko": "1년"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "words": [
+        {
+          "en": "ready",
+          "ko": "준비된"
+        },
+        {
+          "en": "final",
+          "ko": "마지막의"
+        },
+        {
+          "en": "pull",
+          "ko": "당기다"
+        },
+        {
+          "en": "quiz",
+          "ko": "간단한 시험"
+        },
+        {
+          "en": "elementary",
+          "ko": "초등의"
+        },
+        {
+          "en": "on",
+          "ko": "~ 위에"
+        },
+        {
+          "en": "campfire",
+          "ko": "모닥불"
+        },
+        {
+          "en": "peace",
+          "ko": "평화"
+        },
+        {
+          "en": "hut",
+          "ko": "오두막"
+        },
+        {
+          "en": "jump",
+          "ko": "뛰다"
+        },
+        {
+          "en": "lip",
+          "ko": "입술"
+        },
+        {
+          "en": "magnet",
+          "ko": "자석"
+        },
+        {
+          "en": "king",
+          "ko": "왕"
+        },
+        {
+          "en": "sale",
+          "ko": "판매"
+        },
+        {
+          "en": "find",
+          "ko": "찾다"
+        },
+        {
+          "en": "partner",
+          "ko": "짝"
+        },
+        {
+          "en": "beef",
+          "ko": "소고기"
+        },
+        {
+          "en": "bright",
+          "ko": "밝은"
+        },
+        {
+          "en": "tomorrow",
+          "ko": "내일"
+        },
+        {
+          "en": "noon",
+          "ko": "정오"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "words": [
+        {
+          "en": "all",
+          "ko": "모든"
+        },
+        {
+          "en": "mouse",
+          "ko": "쥐"
+        },
+        {
+          "en": "mix",
+          "ko": "섞다"
+        },
+        {
+          "en": "hug",
+          "ko": "껴안다"
+        },
+        {
+          "en": "advise",
+          "ko": "충고하다"
+        },
+        {
+          "en": "boy",
+          "ko": "소년"
+        },
+        {
+          "en": "lamp",
+          "ko": "전등"
+        },
+        {
+          "en": "ball",
+          "ko": "공"
+        },
+        {
+          "en": "fork",
+          "ko": "포크"
+        },
+        {
+          "en": "wood",
+          "ko": "나무"
+        },
+        {
+          "en": "today",
+          "ko": "오늘"
+        },
+        {
+          "en": "humorous",
+          "ko": "재미있는"
+        },
+        {
+          "en": "blond",
+          "ko": "금발의"
+        },
+        {
+          "en": "north",
+          "ko": "북쪽"
+        },
+        {
+          "en": "puppy",
+          "ko": "강아지"
+        },
+        {
+          "en": "pleased",
+          "ko": "기쁜"
+        },
+        {
+          "en": "lose",
+          "ko": "지다"
+        },
+        {
+          "en": "glasses",
+          "ko": "안경"
+        },
+        {
+          "en": "miserable",
+          "ko": "비참한"
+        },
+        {
+          "en": "add",
+          "ko": "더하다"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "words": [
+        {
+          "en": "busy",
+          "ko": "바쁜"
+        },
+        {
+          "en": "many",
+          "ko": "많은"
+        },
+        {
+          "en": "art",
+          "ko": "예술"
+        },
+        {
+          "en": "mostly",
+          "ko": "대부분"
+        },
+        {
+          "en": "win",
+          "ko": "이기다"
+        },
+        {
+          "en": "neck",
+          "ko": "목"
+        },
+        {
+          "en": "angel",
+          "ko": "천사"
+        },
+        {
+          "en": "zoo",
+          "ko": "동물원"
+        },
+        {
+          "en": "small",
+          "ko": "작은"
+        },
+        {
+          "en": "butterfly",
+          "ko": "나비"
+        },
+        {
+          "en": "anger",
+          "ko": "화"
+        },
+        {
+          "en": "housework",
+          "ko": "집안일"
+        },
+        {
+          "en": "late",
+          "ko": "늦은"
+        },
+        {
+          "en": "traffic",
+          "ko": "교통"
+        },
+        {
+          "en": "thin",
+          "ko": "얇은"
+        },
+        {
+          "en": "more",
+          "ko": "더 많은"
+        },
+        {
+          "en": "like",
+          "ko": "좋아하다"
+        },
+        {
+          "en": "blackboard",
+          "ko": "칠판"
+        },
+        {
+          "en": "globe",
+          "ko": "지구"
+        },
+        {
+          "en": "glad",
+          "ko": "기쁜"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "words": [
+        {
+          "en": "want",
+          "ko": "원하다"
+        },
+        {
+          "en": "future",
+          "ko": "미래"
+        },
+        {
+          "en": "bull",
+          "ko": "황소"
+        },
+        {
+          "en": "age",
+          "ko": "나이"
+        },
+        {
+          "en": "childhood",
+          "ko": "어린 시절"
+        },
+        {
+          "en": "miss",
+          "ko": "놓치다"
+        },
+        {
+          "en": "bread",
+          "ko": "빵"
+        },
+        {
+          "en": "run",
+          "ko": "달리다"
+        },
+        {
+          "en": "look",
+          "ko": "보다"
+        },
+        {
+          "en": "bowl",
+          "ko": "사발"
+        },
+        {
+          "en": "sauce",
+          "ko": "양념"
+        },
+        {
+          "en": "gentle",
+          "ko": "온화한"
+        },
+        {
+          "en": "able",
+          "ko": "~할 수 있는"
+        },
+        {
+          "en": "middle",
+          "ko": "가운데"
+        },
+        {
+          "en": "act",
+          "ko": "행동하다"
+        },
+        {
+          "en": "meet",
+          "ko": "만나다"
+        },
+        {
+          "en": "pet",
+          "ko": "애완동물"
+        },
+        {
+          "en": "grow",
+          "ko": "성장하다"
+        },
+        {
+          "en": "week",
+          "ko": "일주일"
+        },
+        {
+          "en": "shoulder",
+          "ko": "어깨"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "words": [
+        {
+          "en": "goose",
+          "ko": "거위"
+        },
+        {
+          "en": "fog",
+          "ko": "안개"
+        },
+        {
+          "en": "cool",
+          "ko": "시원한"
+        },
+        {
+          "en": "west",
+          "ko": "서쪽"
+        },
+        {
+          "en": "parade",
+          "ko": "행진"
+        },
+        {
+          "en": "smile",
+          "ko": "미소 짓다"
+        },
+        {
+          "en": "map",
+          "ko": "지도"
+        },
+        {
+          "en": "blind",
+          "ko": "눈먼"
+        },
+        {
+          "en": "rope",
+          "ko": "밧줄"
+        },
+        {
+          "en": "restaurant",
+          "ko": "음식점"
+        },
+        {
+          "en": "loud",
+          "ko": "소리가 큰"
+        },
+        {
+          "en": "already",
+          "ko": "이미"
+        },
+        {
+          "en": "lawn",
+          "ko": "잔디"
+        },
+        {
+          "en": "guest",
+          "ko": "손님"
+        },
+        {
+          "en": "last",
+          "ko": "마지막의"
+        },
+        {
+          "en": "laugh",
+          "ko": "웃다"
+        },
+        {
+          "en": "about",
+          "ko": "~에 대하여"
+        },
+        {
+          "en": "there",
+          "ko": "그곳에"
+        },
+        {
+          "en": "free",
+          "ko": "자유로운"
+        },
+        {
+          "en": "simple",
+          "ko": "간단한"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "words": [
+        {
+          "en": "later",
+          "ko": "나중에"
+        },
+        {
+          "en": "stand",
+          "ko": "서다"
+        },
+        {
+          "en": "bookstore",
+          "ko": "서점"
+        },
+        {
+          "en": "table",
+          "ko": "탁자"
+        },
+        {
+          "en": "song",
+          "ko": "노래"
+        },
+        {
+          "en": "winter",
+          "ko": "겨울"
+        },
+        {
+          "en": "summer",
+          "ko": "여름"
+        },
+        {
+          "en": "always",
+          "ko": "항상"
+        },
+        {
+          "en": "storybook",
+          "ko": "이야기책"
+        },
+        {
+          "en": "mother",
+          "ko": "엄마"
+        },
+        {
+          "en": "right",
+          "ko": "오른쪽의"
+        },
+        {
+          "en": "dolphin",
+          "ko": "돌고래"
+        },
+        {
+          "en": "love",
+          "ko": "사랑하다"
+        },
+        {
+          "en": "hard",
+          "ko": "열심히"
+        },
+        {
+          "en": "helpful",
+          "ko": "도움이 되는"
+        },
+        {
+          "en": "swim",
+          "ko": "수영하다"
+        },
+        {
+          "en": "champion",
+          "ko": "우승자"
+        },
+        {
+          "en": "librarian",
+          "ko": "사서"
+        },
+        {
+          "en": "snake",
+          "ko": "뱀"
+        },
+        {
+          "en": "eraser",
+          "ko": "지우개"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "words": [
+        {
+          "en": "hall",
+          "ko": "복도"
+        },
+        {
+          "en": "actual",
+          "ko": "실제의"
+        },
+        {
+          "en": "rich",
+          "ko": "부유한"
+        },
+        {
+          "en": "mean",
+          "ko": "의미하다"
+        },
+        {
+          "en": "wooden",
+          "ko": "나무로 된"
+        },
+        {
+          "en": "ruler",
+          "ko": "자"
+        },
+        {
+          "en": "father",
+          "ko": "아빠"
+        },
+        {
+          "en": "guide",
+          "ko": "안내하다"
+        },
+        {
+          "en": "worm",
+          "ko": "벌레"
+        },
+        {
+          "en": "owner",
+          "ko": "소유자"
+        },
+        {
+          "en": "lucky",
+          "ko": "운이 좋은"
+        },
+        {
+          "en": "think",
+          "ko": "생각하다"
+        },
+        {
+          "en": "chair",
+          "ko": "의자"
+        },
+        {
+          "en": "lonely",
+          "ko": "외로운"
+        },
+        {
+          "en": "set",
+          "ko": "놓다"
+        },
+        {
+          "en": "monster",
+          "ko": "괴물"
+        },
+        {
+          "en": "then",
+          "ko": "그때"
+        },
+        {
+          "en": "notebook",
+          "ko": "공책"
+        },
+        {
+          "en": "say",
+          "ko": "말하다"
+        },
+        {
+          "en": "basket",
+          "ko": "바구니"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "words": [
+        {
+          "en": "ocean",
+          "ko": "대양"
+        },
+        {
+          "en": "laundry",
+          "ko": "세탁물"
+        },
+        {
+          "en": "pot",
+          "ko": "냄비"
+        },
+        {
+          "en": "belt",
+          "ko": "허리띠"
+        },
+        {
+          "en": "half",
+          "ko": "절반"
+        },
+        {
+          "en": "color",
+          "ko": "색깔"
+        },
+        {
+          "en": "soccer",
+          "ko": "축구"
+        },
+        {
+          "en": "scissors",
+          "ko": "가위"
+        },
+        {
+          "en": "inn",
+          "ko": "여관"
+        },
+        {
+          "en": "basketball",
+          "ko": "농구"
+        },
+        {
+          "en": "price",
+          "ko": "가격"
+        },
+        {
+          "en": "soon",
+          "ko": "곧"
+        },
+        {
+          "en": "camping",
+          "ko": "야영"
+        },
+        {
+          "en": "above",
+          "ko": "위에"
+        },
+        {
+          "en": "uptown",
+          "ko": "주택가"
+        },
+        {
+          "en": "everyday",
+          "ko": "일상적인"
+        },
+        {
+          "en": "mental",
+          "ko": "정신의"
+        },
+        {
+          "en": "dentist",
+          "ko": "치과의사"
+        },
+        {
+          "en": "try",
+          "ko": "노력하다"
+        },
+        {
+          "en": "paper",
+          "ko": "종이"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "words": [
+        {
+          "en": "toy",
+          "ko": "장난감"
+        },
+        {
+          "en": "bee",
+          "ko": "벌"
+        },
+        {
+          "en": "roof",
+          "ko": "지붕"
+        },
+        {
+          "en": "dirty",
+          "ko": "더러운"
+        },
+        {
+          "en": "grandmother",
+          "ko": "할머니"
+        },
+        {
+          "en": "parent",
+          "ko": "부모님"
+        },
+        {
+          "en": "exactly",
+          "ko": "정확하게"
+        },
+        {
+          "en": "sparrow",
+          "ko": "참새"
+        },
+        {
+          "en": "tiger",
+          "ko": "호랑이"
+        },
+        {
+          "en": "pepper",
+          "ko": "후추"
+        },
+        {
+          "en": "option",
+          "ko": "선택"
+        },
+        {
+          "en": "forest",
+          "ko": "숲"
+        },
+        {
+          "en": "bag",
+          "ko": "가방"
+        },
+        {
+          "en": "far",
+          "ko": "멀리"
+        },
+        {
+          "en": "strong",
+          "ko": "강한"
+        },
+        {
+          "en": "send",
+          "ko": "보내다"
+        },
+        {
+          "en": "fire",
+          "ko": "불"
+        },
+        {
+          "en": "window",
+          "ko": "창문"
+        },
+        {
+          "en": "event",
+          "ko": "사건"
+        },
+        {
+          "en": "cheap",
+          "ko": "싼"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "words": [
+        {
+          "en": "problem",
+          "ko": "문제"
+        },
+        {
+          "en": "cheek",
+          "ko": "볼"
+        },
+        {
+          "en": "marry",
+          "ko": "결혼하다"
+        },
+        {
+          "en": "stupid",
+          "ko": "어리석은"
+        },
+        {
+          "en": "young",
+          "ko": "젊은"
+        },
+        {
+          "en": "safe",
+          "ko": "안전한"
+        },
+        {
+          "en": "wash",
+          "ko": "씻다"
+        },
+        {
+          "en": "hungry",
+          "ko": "배고픈"
+        },
+        {
+          "en": "because",
+          "ko": "~하기 때문에"
+        },
+        {
+          "en": "group",
+          "ko": "무리"
+        },
+        {
+          "en": "unhappy",
+          "ko": "불행한"
+        },
+        {
+          "en": "finish",
+          "ko": "끝내다"
+        },
+        {
+          "en": "weekly",
+          "ko": "매주의"
+        },
+        {
+          "en": "fight",
+          "ko": "싸우다"
+        },
+        {
+          "en": "towel",
+          "ko": "수건"
+        },
+        {
+          "en": "useful",
+          "ko": "유용한"
+        },
+        {
+          "en": "wife",
+          "ko": "아내"
+        },
+        {
+          "en": "before",
+          "ko": "~ 전에"
+        },
+        {
+          "en": "usually",
+          "ko": "보통"
+        },
+        {
+          "en": "together",
+          "ko": "함께"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "words": [
+        {
+          "en": "model",
+          "ko": "모형"
+        },
+        {
+          "en": "umbrella",
+          "ko": "우산"
+        },
+        {
+          "en": "sun",
+          "ko": "태양"
+        },
+        {
+          "en": "onion",
+          "ko": "양파"
+        },
+        {
+          "en": "left",
+          "ko": "왼쪽의"
+        },
+        {
+          "en": "curious",
+          "ko": "호기심이 많은"
+        },
+        {
+          "en": "village",
+          "ko": "마을"
+        },
+        {
+          "en": "pumpkin",
+          "ko": "호박"
+        },
+        {
+          "en": "stove",
+          "ko": "난로"
+        },
+        {
+          "en": "finger",
+          "ko": "손가락"
+        },
+        {
+          "en": "wallet",
+          "ko": "지갑"
+        },
+        {
+          "en": "date",
+          "ko": "날짜"
+        },
+        {
+          "en": "autumn",
+          "ko": "가을"
+        },
+        {
+          "en": "thirsty",
+          "ko": "목이 마른"
+        },
+        {
+          "en": "gallery",
+          "ko": "미술관"
+        },
+        {
+          "en": "play",
+          "ko": "놀다"
+        },
+        {
+          "en": "front",
+          "ko": "앞의"
+        },
+        {
+          "en": "size",
+          "ko": "크기"
+        },
+        {
+          "en": "heat",
+          "ko": "열"
+        },
+        {
+          "en": "aloud",
+          "ko": "큰 소리로"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "words": [
+        {
+          "en": "major",
+          "ko": "주요한"
+        },
+        {
+          "en": "quick",
+          "ko": "빠른"
+        },
+        {
+          "en": "same",
+          "ko": "같은"
+        },
+        {
+          "en": "goat",
+          "ko": "염소"
+        },
+        {
+          "en": "sunlight",
+          "ko": "햇빛"
+        },
+        {
+          "en": "fact",
+          "ko": "사실"
+        },
+        {
+          "en": "boil",
+          "ko": "끓이다"
+        },
+        {
+          "en": "history",
+          "ko": "역사"
+        },
+        {
+          "en": "hole",
+          "ko": "구멍"
+        },
+        {
+          "en": "concert",
+          "ko": "연주회"
+        },
+        {
+          "en": "gray",
+          "ko": "회색"
+        },
+        {
+          "en": "iron",
+          "ko": "철"
+        },
+        {
+          "en": "fourth",
+          "ko": "네 번째의"
+        },
+        {
+          "en": "area",
+          "ko": "지역"
+        },
+        {
+          "en": "jeans",
+          "ko": "청바지"
+        },
+        {
+          "en": "class",
+          "ko": "학급"
+        },
+        {
+          "en": "stop",
+          "ko": "멈추다"
+        },
+        {
+          "en": "sketch",
+          "ko": "밑그림"
+        },
+        {
+          "en": "stamp",
+          "ko": "도장"
+        },
+        {
+          "en": "wet",
+          "ko": "젖은"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "words": [
+        {
+          "en": "mat",
+          "ko": "매트"
+        },
+        {
+          "en": "noodle",
+          "ko": "국수"
+        },
+        {
+          "en": "menu",
+          "ko": "식단표"
+        },
+        {
+          "en": "cent",
+          "ko": "1센트"
+        },
+        {
+          "en": "island",
+          "ko": "섬"
+        },
+        {
+          "en": "blanket",
+          "ko": "담요"
+        },
+        {
+          "en": "photo",
+          "ko": "사진"
+        },
+        {
+          "en": "abroad",
+          "ko": "해외로"
+        },
+        {
+          "en": "nickname",
+          "ko": "별명"
+        },
+        {
+          "en": "gas",
+          "ko": "기체"
+        },
+        {
+          "en": "bored",
+          "ko": "지루한"
+        },
+        {
+          "en": "husband",
+          "ko": "남편"
+        },
+        {
+          "en": "dance",
+          "ko": "춤"
+        },
+        {
+          "en": "fruit",
+          "ko": "열매"
+        },
+        {
+          "en": "stair",
+          "ko": "계단"
+        },
+        {
+          "en": "fresh",
+          "ko": "신선한"
+        },
+        {
+          "en": "calendar",
+          "ko": "달력"
+        },
+        {
+          "en": "throat",
+          "ko": "목구멍"
+        },
+        {
+          "en": "aircraft",
+          "ko": "항공기"
+        },
+        {
+          "en": "leather",
+          "ko": "가죽"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "words": [
+        {
+          "en": "hobby",
+          "ko": "취미"
+        },
+        {
+          "en": "also",
+          "ko": "또한"
+        },
+        {
+          "en": "fun",
+          "ko": "재미있는"
+        },
+        {
+          "en": "sheep",
+          "ko": "양"
+        },
+        {
+          "en": "hat",
+          "ko": "모자"
+        },
+        {
+          "en": "monkey",
+          "ko": "원숭이"
+        },
+        {
+          "en": "sing",
+          "ko": "노래하다"
+        },
+        {
+          "en": "thick",
+          "ko": "두꺼운"
+        },
+        {
+          "en": "doctor",
+          "ko": "의사"
+        },
+        {
+          "en": "hear",
+          "ko": "듣다"
+        },
+        {
+          "en": "way",
+          "ko": "길"
+        },
+        {
+          "en": "cough",
+          "ko": "기침하다"
+        },
+        {
+          "en": "pan",
+          "ko": "납작한 냄비"
+        },
+        {
+          "en": "farm",
+          "ko": "농장"
+        },
+        {
+          "en": "snow",
+          "ko": "눈"
+        },
+        {
+          "en": "train",
+          "ko": "기차"
+        },
+        {
+          "en": "youth",
+          "ko": "청년"
+        },
+        {
+          "en": "tail",
+          "ko": "꼬리"
+        },
+        {
+          "en": "important",
+          "ko": "중요한"
+        },
+        {
+          "en": "east",
+          "ko": "동쪽"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "words": [
+        {
+          "en": "learn",
+          "ko": "배우다"
+        },
+        {
+          "en": "strange",
+          "ko": "이상한"
+        },
+        {
+          "en": "pick",
+          "ko": "고르다"
+        },
+        {
+          "en": "cart",
+          "ko": "손수레"
+        },
+        {
+          "en": "seesaw",
+          "ko": "시소"
+        },
+        {
+          "en": "return",
+          "ko": "돌아오다"
+        },
+        {
+          "en": "noise",
+          "ko": "소음"
+        },
+        {
+          "en": "shark",
+          "ko": "상어"
+        },
+        {
+          "en": "funny",
+          "ko": "재미있는"
+        },
+        {
+          "en": "under",
+          "ko": "~ 아래에"
+        },
+        {
+          "en": "chalk",
+          "ko": "분필"
+        },
+        {
+          "en": "ant",
+          "ko": "개미"
+        },
+        {
+          "en": "great",
+          "ko": "훌륭한"
+        },
+        {
+          "en": "another",
+          "ko": "다른 하나의"
+        },
+        {
+          "en": "end",
+          "ko": "끝"
+        },
+        {
+          "en": "long",
+          "ko": "긴"
+        },
+        {
+          "en": "nice",
+          "ko": "좋은"
+        },
+        {
+          "en": "moon",
+          "ko": "달"
+        },
+        {
+          "en": "smell",
+          "ko": "냄새를 맡다"
+        },
+        {
+          "en": "sleep",
+          "ko": "자다"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "words": [
+        {
+          "en": "ear",
+          "ko": "귀"
+        },
+        {
+          "en": "garlic",
+          "ko": "마늘"
+        },
+        {
+          "en": "enjoy",
+          "ko": "즐기다"
+        },
+        {
+          "en": "doll",
+          "ko": "인형"
+        },
+        {
+          "en": "mountain",
+          "ko": "산"
+        },
+        {
+          "en": "princess",
+          "ko": "공주"
+        },
+        {
+          "en": "kindergarten",
+          "ko": "유치원"
+        },
+        {
+          "en": "fall",
+          "ko": "떨어지다"
+        },
+        {
+          "en": "shout",
+          "ko": "소리치다"
+        },
+        {
+          "en": "wait",
+          "ko": "기다리다"
+        },
+        {
+          "en": "different",
+          "ko": "다른"
+        },
+        {
+          "en": "low",
+          "ko": "낮은"
+        },
+        {
+          "en": "snowman",
+          "ko": "눈사람"
+        },
+        {
+          "en": "bank",
+          "ko": "은행"
+        },
+        {
+          "en": "pool",
+          "ko": "수영장"
+        },
+        {
+          "en": "beauty",
+          "ko": "아름다움"
+        },
+        {
+          "en": "handsome",
+          "ko": "잘생긴"
+        },
+        {
+          "en": "do",
+          "ko": "하다"
+        },
+        {
+          "en": "pea",
+          "ko": "완두콩"
+        },
+        {
+          "en": "salt",
+          "ko": "소금"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "words": [
+        {
+          "en": "rice",
+          "ko": "쌀"
+        },
+        {
+          "en": "place",
+          "ko": "장소"
+        },
+        {
+          "en": "turtle",
+          "ko": "거북이"
+        },
+        {
+          "en": "jungle",
+          "ko": "밀림"
+        },
+        {
+          "en": "pretty",
+          "ko": "예쁜"
+        },
+        {
+          "en": "agree",
+          "ko": "동의하다"
+        },
+        {
+          "en": "camel",
+          "ko": "낙타"
+        },
+        {
+          "en": "dream",
+          "ko": "꿈을 꾸다"
+        },
+        {
+          "en": "station",
+          "ko": "역"
+        },
+        {
+          "en": "game",
+          "ko": "경기"
+        },
+        {
+          "en": "exercise",
+          "ko": "운동하다"
+        },
+        {
+          "en": "curtain",
+          "ko": "커튼"
+        },
+        {
+          "en": "complicate",
+          "ko": "복잡하게 만들다"
+        },
+        {
+          "en": "pain",
+          "ko": "고통"
+        },
+        {
+          "en": "pilot",
+          "ko": "항공 조종사"
+        },
+        {
+          "en": "believe",
+          "ko": "믿다"
+        },
+        {
+          "en": "mood",
+          "ko": "기분"
+        },
+        {
+          "en": "gift",
+          "ko": "선물"
+        },
+        {
+          "en": "language",
+          "ko": "언어"
+        },
+        {
+          "en": "nude",
+          "ko": "벌거벗은"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "words": [
+        {
+          "en": "third",
+          "ko": "세 번째의"
+        },
+        {
+          "en": "touch",
+          "ko": "만지다"
+        },
+        {
+          "en": "fox",
+          "ko": "여우"
+        },
+        {
+          "en": "peach",
+          "ko": "복숭아"
+        },
+        {
+          "en": "question",
+          "ko": "질문"
+        },
+        {
+          "en": "subway",
+          "ko": "지하철"
+        },
+        {
+          "en": "mind",
+          "ko": "마음"
+        },
+        {
+          "en": "headache",
+          "ko": "두통"
+        },
+        {
+          "en": "after",
+          "ko": "~ 후에"
+        },
+        {
+          "en": "food",
+          "ko": "음식"
+        },
+        {
+          "en": "sunny",
+          "ko": "화창한"
+        },
+        {
+          "en": "church",
+          "ko": "교회"
+        },
+        {
+          "en": "light",
+          "ko": "빛"
+        },
+        {
+          "en": "high",
+          "ko": "높은"
+        },
+        {
+          "en": "heart",
+          "ko": "심장"
+        },
+        {
+          "en": "enter",
+          "ko": "들어가다"
+        },
+        {
+          "en": "handshake",
+          "ko": "악수"
+        },
+        {
+          "en": "dictionary",
+          "ko": "사전"
+        },
+        {
+          "en": "dragon",
+          "ko": "용"
+        },
+        {
+          "en": "woman",
+          "ko": "여자"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "words": [
+        {
+          "en": "joke",
+          "ko": "농담"
+        },
+        {
+          "en": "pond",
+          "ko": "연못"
+        },
+        {
+          "en": "afternoon",
+          "ko": "오후"
+        },
+        {
+          "en": "dog",
+          "ko": "개"
+        },
+        {
+          "en": "accident",
+          "ko": "사고"
+        },
+        {
+          "en": "much",
+          "ko": "많은"
+        },
+        {
+          "en": "town",
+          "ko": "마을"
+        },
+        {
+          "en": "fly",
+          "ko": "날다"
+        },
+        {
+          "en": "picture",
+          "ko": "그림"
+        },
+        {
+          "en": "motion",
+          "ko": "움직임"
+        },
+        {
+          "en": "scarf",
+          "ko": "목도리"
+        },
+        {
+          "en": "chance",
+          "ko": "기회"
+        },
+        {
+          "en": "large",
+          "ko": "큰"
+        },
+        {
+          "en": "bakery",
+          "ko": "빵집"
+        },
+        {
+          "en": "lively",
+          "ko": "활기찬"
+        },
+        {
+          "en": "twin",
+          "ko": "쌍둥이"
+        },
+        {
+          "en": "use",
+          "ko": "사용하다"
+        },
+        {
+          "en": "waist",
+          "ko": "허리"
+        },
+        {
+          "en": "secret",
+          "ko": "비밀"
+        },
+        {
+          "en": "cry",
+          "ko": "울다"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "words": [
+        {
+          "en": "gate",
+          "ko": "문"
+        },
+        {
+          "en": "true",
+          "ko": "사실의"
+        },
+        {
+          "en": "tooth",
+          "ko": "치아"
+        },
+        {
+          "en": "new",
+          "ko": "새로운"
+        },
+        {
+          "en": "motorcycle",
+          "ko": "오토바이"
+        },
+        {
+          "en": "clean",
+          "ko": "깨끗한"
+        },
+        {
+          "en": "money",
+          "ko": "돈"
+        },
+        {
+          "en": "telephone",
+          "ko": "전화"
+        },
+        {
+          "en": "mild",
+          "ko": "부드러운"
+        },
+        {
+          "en": "put",
+          "ko": "놓다"
+        },
+        {
+          "en": "bad",
+          "ko": "나쁜"
+        },
+        {
+          "en": "bug",
+          "ko": "벌레"
+        },
+        {
+          "en": "part",
+          "ko": "부분"
+        },
+        {
+          "en": "leg",
+          "ko": "다리"
+        },
+        {
+          "en": "tea",
+          "ko": "차"
+        },
+        {
+          "en": "knife",
+          "ko": "칼"
+        },
+        {
+          "en": "shell",
+          "ko": "껍데기"
+        },
+        {
+          "en": "exit",
+          "ko": "출구"
+        },
+        {
+          "en": "lady",
+          "ko": "숙녀"
+        },
+        {
+          "en": "test",
+          "ko": "시험"
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "words": [
+        {
+          "en": "take",
+          "ko": "가져가다"
+        },
+        {
+          "en": "advice",
+          "ko": "충고"
+        },
+        {
+          "en": "attack",
+          "ko": "공격하다"
+        },
+        {
+          "en": "science",
+          "ko": "과학"
+        },
+        {
+          "en": "gain",
+          "ko": "얻다"
+        },
+        {
+          "en": "paint",
+          "ko": "물감"
+        },
+        {
+          "en": "gentleman",
+          "ko": "신사"
+        },
+        {
+          "en": "face",
+          "ko": "얼굴"
+        },
+        {
+          "en": "dish",
+          "ko": "접시"
+        },
+        {
+          "en": "too",
+          "ko": "또한"
+        },
+        {
+          "en": "flag",
+          "ko": "깃발"
+        },
+        {
+          "en": "strawberry",
+          "ko": "딸기"
+        },
+        {
+          "en": "day",
+          "ko": "하루"
+        },
+        {
+          "en": "marker",
+          "ko": "매직펜"
+        },
+        {
+          "en": "asphalt",
+          "ko": "아스팔트"
+        },
+        {
+          "en": "giant",
+          "ko": "거인"
+        },
+        {
+          "en": "skirt",
+          "ko": "치마"
+        },
+        {
+          "en": "back",
+          "ko": "뒤의"
+        },
+        {
+          "en": "child",
+          "ko": "아이"
+        },
+        {
+          "en": "soldier",
+          "ko": "군인"
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "words": [
+        {
+          "en": "foolish",
+          "ko": "바보 같은"
+        },
+        {
+          "en": "mad",
+          "ko": "화가 난"
+        },
+        {
+          "en": "football",
+          "ko": "축구"
+        },
+        {
+          "en": "soft",
+          "ko": "부드러운"
+        },
+        {
+          "en": "easy",
+          "ko": "쉬운"
+        },
+        {
+          "en": "sugar",
+          "ko": "설탕"
+        },
+        {
+          "en": "round",
+          "ko": "둥근"
+        },
+        {
+          "en": "work",
+          "ko": "일하다"
+        },
+        {
+          "en": "fish",
+          "ko": "물고기"
+        },
+        {
+          "en": "anyway",
+          "ko": "어쨌든"
+        },
+        {
+          "en": "teenager",
+          "ko": "십 대"
+        },
+        {
+          "en": "time",
+          "ko": "시간"
+        },
+        {
+          "en": "upstairs",
+          "ko": "위층"
+        },
+        {
+          "en": "smart",
+          "ko": "똑똑한"
+        },
+        {
+          "en": "go",
+          "ko": "가다"
+        },
+        {
+          "en": "sell",
+          "ko": "팔다"
+        },
+        {
+          "en": "feel",
+          "ko": "느끼다"
+        },
+        {
+          "en": "museum",
+          "ko": "박물관"
+        },
+        {
+          "en": "hope",
+          "ko": "희망"
+        },
+        {
+          "en": "skin",
+          "ko": "피부"
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "words": [
+        {
+          "en": "action",
+          "ko": "행동"
+        },
+        {
+          "en": "pencil",
+          "ko": "연필"
+        },
+        {
+          "en": "lamb",
+          "ko": "어린 양"
+        },
+        {
+          "en": "drop",
+          "ko": "떨어뜨리다"
+        },
+        {
+          "en": "idea",
+          "ko": "생각"
+        },
+        {
+          "en": "jacket",
+          "ko": "윗옷"
+        },
+        {
+          "en": "here",
+          "ko": "여기에"
+        },
+        {
+          "en": "maybe",
+          "ko": "아마도"
+        },
+        {
+          "en": "south",
+          "ko": "남쪽"
+        },
+        {
+          "en": "sound",
+          "ko": "소리"
+        },
+        {
+          "en": "famous",
+          "ko": "유명한"
+        },
+        {
+          "en": "list",
+          "ko": "목록"
+        },
+        {
+          "en": "niece",
+          "ko": "여자 조카"
+        },
+        {
+          "en": "perfect",
+          "ko": "완벽한"
+        },
+        {
+          "en": "carrot",
+          "ko": "당근"
+        },
+        {
+          "en": "vegetable",
+          "ko": "채소"
+        },
+        {
+          "en": "hill",
+          "ko": "언덕"
+        },
+        {
+          "en": "note",
+          "ko": "메모"
+        },
+        {
+          "en": "greet",
+          "ko": "인사하다"
+        },
+        {
+          "en": "several",
+          "ko": "몇몇의"
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "words": [
+        {
+          "en": "super",
+          "ko": "최고의"
+        },
+        {
+          "en": "hunt",
+          "ko": "사냥하다"
+        },
+        {
+          "en": "near",
+          "ko": "가까운"
+        },
+        {
+          "en": "bike",
+          "ko": "자전거"
+        },
+        {
+          "en": "alarm",
+          "ko": "경보"
+        },
+        {
+          "en": "talk",
+          "ko": "말하다"
+        },
+        {
+          "en": "interesting",
+          "ko": "흥미로운"
+        },
+        {
+          "en": "supper",
+          "ko": "저녁 식사"
+        },
+        {
+          "en": "rain",
+          "ko": "비"
+        },
+        {
+          "en": "necessary",
+          "ko": "필수의"
+        },
+        {
+          "en": "potato",
+          "ko": "감자"
+        },
+        {
+          "en": "ask",
+          "ko": "묻다"
+        },
+        {
+          "en": "animal",
+          "ko": "동물"
+        },
+        {
+          "en": "wedding",
+          "ko": "결혼식"
+        },
+        {
+          "en": "cut",
+          "ko": "자르다"
+        },
+        {
+          "en": "sport",
+          "ko": "운동"
+        },
+        {
+          "en": "head",
+          "ko": "머리"
+        },
+        {
+          "en": "man",
+          "ko": "남자"
+        },
+        {
+          "en": "prince",
+          "ko": "왕자"
+        },
+        {
+          "en": "glue",
+          "ko": "풀"
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "words": [
+        {
+          "en": "tale",
+          "ko": "이야기"
+        },
+        {
+          "en": "grandfather",
+          "ko": "할아버지"
+        },
+        {
+          "en": "farmer",
+          "ko": "농부"
+        },
+        {
+          "en": "friendly",
+          "ko": "친절한"
+        },
+        {
+          "en": "move",
+          "ko": "움직이다"
+        },
+        {
+          "en": "meat",
+          "ko": "고기"
+        },
+        {
+          "en": "wrong",
+          "ko": "잘못된"
+        },
+        {
+          "en": "horse",
+          "ko": "말"
+        },
+        {
+          "en": "sure",
+          "ko": "확실한"
+        },
+        {
+          "en": "exam",
+          "ko": "시험"
+        },
+        {
+          "en": "promise",
+          "ko": "약속하다"
+        },
+        {
+          "en": "plane",
+          "ko": "비행기"
+        },
+        {
+          "en": "letter",
+          "ko": "편지"
+        },
+        {
+          "en": "walk",
+          "ko": "걷다"
+        },
+        {
+          "en": "teach",
+          "ko": "가르치다"
+        },
+        {
+          "en": "hour",
+          "ko": "시간"
+        },
+        {
+          "en": "change",
+          "ko": "바꾸다"
+        },
+        {
+          "en": "old",
+          "ko": "늙은"
+        },
+        {
+          "en": "car",
+          "ko": "자동차"
+        },
+        {
+          "en": "habit",
+          "ko": "습관"
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "words": [
+        {
+          "en": "ride",
+          "ko": "타다"
+        },
+        {
+          "en": "grandparent",
+          "ko": "조부모"
+        },
+        {
+          "en": "kindness",
+          "ko": "친절"
+        },
+        {
+          "en": "kill",
+          "ko": "죽이다"
+        },
+        {
+          "en": "lesson",
+          "ko": "수업"
+        },
+        {
+          "en": "come",
+          "ko": "오다"
+        },
+        {
+          "en": "name",
+          "ko": "이름"
+        },
+        {
+          "en": "aunt",
+          "ko": "이모(고모,숙모)"
+        },
+        {
+          "en": "daily",
+          "ko": "매일의"
+        },
+        {
+          "en": "tall",
+          "ko": "키가 큰"
+        },
+        {
+          "en": "bone",
+          "ko": "뼈"
+        },
+        {
+          "en": "web",
+          "ko": "거미줄"
+        },
+        {
+          "en": "anytime",
+          "ko": "언제든지"
+        },
+        {
+          "en": "leaf",
+          "ko": "잎"
+        },
+        {
+          "en": "lie",
+          "ko": "거짓말하다"
+        },
+        {
+          "en": "hometown",
+          "ko": "고향"
+        },
+        {
+          "en": "answer",
+          "ko": "대답하다"
+        },
+        {
+          "en": "ape",
+          "ko": "유인원"
+        },
+        {
+          "en": "kitchen",
+          "ko": "부엌"
+        },
+        {
+          "en": "ability",
+          "ko": "능력"
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "words": [
+        {
+          "en": "air",
+          "ko": "공기"
+        },
+        {
+          "en": "giraffe",
+          "ko": "기린"
+        },
+        {
+          "en": "market",
+          "ko": "시장"
+        },
+        {
+          "en": "tired",
+          "ko": "피곤한"
+        },
+        {
+          "en": "tour",
+          "ko": "여행"
+        },
+        {
+          "en": "worry",
+          "ko": "걱정하다"
+        },
+        {
+          "en": "green",
+          "ko": "초록색"
+        },
+        {
+          "en": "miracle",
+          "ko": "기적"
+        },
+        {
+          "en": "milk",
+          "ko": "우유"
+        },
+        {
+          "en": "music",
+          "ko": "음악"
+        },
+        {
+          "en": "proud",
+          "ko": "자랑스러워하는"
+        },
+        {
+          "en": "eve",
+          "ko": "전날 밤"
+        },
+        {
+          "en": "piece",
+          "ko": "조각"
+        },
+        {
+          "en": "often",
+          "ko": "자주"
+        },
+        {
+          "en": "myself",
+          "ko": "나 자신"
+        },
+        {
+          "en": "body",
+          "ko": "몸"
+        },
+        {
+          "en": "grandson",
+          "ko": "손자"
+        },
+        {
+          "en": "absent",
+          "ko": "결석한"
+        },
+        {
+          "en": "reporter",
+          "ko": "기자"
+        },
+        {
+          "en": "short",
+          "ko": "짧은"
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "words": [
+        {
+          "en": "ago",
+          "ko": "~전에"
+        },
+        {
+          "en": "nail",
+          "ko": "손톱"
+        },
+        {
+          "en": "training",
+          "ko": "훈련"
+        },
+        {
+          "en": "bed",
+          "ko": "침대"
+        },
+        {
+          "en": "turkey",
+          "ko": "칠면조"
+        },
+        {
+          "en": "buy",
+          "ko": "사다"
+        },
+        {
+          "en": "heavy",
+          "ko": "무거운"
+        },
+        {
+          "en": "eye",
+          "ko": "눈"
+        },
+        {
+          "en": "jewel",
+          "ko": "보석"
+        },
+        {
+          "en": "whale",
+          "ko": "고래"
+        },
+        {
+          "en": "only",
+          "ko": "유일한"
+        },
+        {
+          "en": "sister",
+          "ko": "여동생"
+        },
+        {
+          "en": "beach",
+          "ko": "바닷가"
+        },
+        {
+          "en": "gun",
+          "ko": "총"
+        },
+        {
+          "en": "waiter",
+          "ko": "종업원"
+        },
+        {
+          "en": "once",
+          "ko": "한 번"
+        },
+        {
+          "en": "artist",
+          "ko": "예술가"
+        },
+        {
+          "en": "title",
+          "ko": "제목"
+        },
+        {
+          "en": "center",
+          "ko": "중심"
+        },
+        {
+          "en": "need",
+          "ko": "필요로 하다"
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "words": [
+        {
+          "en": "happy",
+          "ko": "행복한"
+        },
+        {
+          "en": "hundred",
+          "ko": "백(100)"
+        },
+        {
+          "en": "nephew",
+          "ko": "남자 조카"
+        },
+        {
+          "en": "leave",
+          "ko": "떠나다"
+        },
+        {
+          "en": "rat",
+          "ko": "쥐"
+        },
+        {
+          "en": "good",
+          "ko": "좋은"
+        },
+        {
+          "en": "airport",
+          "ko": "공항"
+        },
+        {
+          "en": "taste",
+          "ko": "맛보다"
+        },
+        {
+          "en": "homework",
+          "ko": "숙제"
+        },
+        {
+          "en": "wise",
+          "ko": "현명한"
+        },
+        {
+          "en": "candle",
+          "ko": "양초"
+        },
+        {
+          "en": "big",
+          "ko": "큰"
+        },
+        {
+          "en": "eat",
+          "ko": "먹다"
+        },
+        {
+          "en": "corn",
+          "ko": "옥수수"
+        },
+        {
+          "en": "scientist",
+          "ko": "과학자"
+        },
+        {
+          "en": "male",
+          "ko": "수컷의"
+        },
+        {
+          "en": "wonderful",
+          "ko": "멋진"
+        },
+        {
+          "en": "first",
+          "ko": "첫 번째의"
+        },
+        {
+          "en": "cucumber",
+          "ko": "오이"
+        },
+        {
+          "en": "toe",
+          "ko": "발가락"
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "words": [
+        {
+          "en": "die",
+          "ko": "죽다"
+        },
+        {
+          "en": "queen",
+          "ko": "여왕"
+        },
+        {
+          "en": "warm",
+          "ko": "따뜻한"
+        },
+        {
+          "en": "see",
+          "ko": "보다"
+        },
+        {
+          "en": "insect",
+          "ko": "곤충"
+        },
+        {
+          "en": "cycle",
+          "ko": "자전거"
+        },
+        {
+          "en": "deep",
+          "ko": "깊은"
+        },
+        {
+          "en": "boot",
+          "ko": "부츠"
+        },
+        {
+          "en": "vacation",
+          "ko": "방학"
+        },
+        {
+          "en": "tongue",
+          "ko": "혀"
+        },
+        {
+          "en": "nut",
+          "ko": "견과"
+        },
+        {
+          "en": "socks",
+          "ko": "양말"
+        },
+        {
+          "en": "anywhere",
+          "ko": "어디에도"
+        },
+        {
+          "en": "mirror",
+          "ko": "거울"
+        },
+        {
+          "en": "hair",
+          "ko": "머리카락"
+        },
+        {
+          "en": "listen",
+          "ko": "듣다"
+        },
+        {
+          "en": "cold",
+          "ko": "추운"
+        },
+        {
+          "en": "kid",
+          "ko": "아이"
+        },
+        {
+          "en": "purse",
+          "ko": "지갑"
+        },
+        {
+          "en": "excited",
+          "ko": "신이 난"
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "words": [
+        {
+          "en": "cross",
+          "ko": "건너다"
+        },
+        {
+          "en": "beer",
+          "ko": "맥주"
+        },
+        {
+          "en": "better",
+          "ko": "더 좋은"
+        },
+        {
+          "en": "morning",
+          "ko": "아침"
+        },
+        {
+          "en": "zebra",
+          "ko": "얼룩말"
+        },
+        {
+          "en": "cloud",
+          "ko": "구름"
+        },
+        {
+          "en": "cost",
+          "ko": "가격"
+        },
+        {
+          "en": "really",
+          "ko": "정말"
+        },
+        {
+          "en": "glove",
+          "ko": "장갑"
+        },
+        {
+          "en": "upper",
+          "ko": "위쪽의"
+        },
+        {
+          "en": "single",
+          "ko": "단 하나의"
+        },
+        {
+          "en": "remember",
+          "ko": "기억하다"
+        },
+        {
+          "en": "hurt",
+          "ko": "아프다"
+        },
+        {
+          "en": "fishing",
+          "ko": "낚시"
+        },
+        {
+          "en": "chicken",
+          "ko": "닭"
+        },
+        {
+          "en": "sad",
+          "ko": "슬픈"
+        },
+        {
+          "en": "know",
+          "ko": "알다"
+        },
+        {
+          "en": "spoon",
+          "ko": "숟가락"
+        },
+        {
+          "en": "police",
+          "ko": "경찰"
+        },
+        {
+          "en": "volleyball",
+          "ko": "배구"
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "words": [
+        {
+          "en": "ever",
+          "ko": "언제나"
+        },
+        {
+          "en": "sit",
+          "ko": "앉다"
+        },
+        {
+          "en": "hospital",
+          "ko": "병원"
+        },
+        {
+          "en": "kind",
+          "ko": "친절한"
+        },
+        {
+          "en": "door",
+          "ko": "문"
+        },
+        {
+          "en": "plate",
+          "ko": "접시"
+        },
+        {
+          "en": "holiday",
+          "ko": "휴일"
+        },
+        {
+          "en": "health",
+          "ko": "건강"
+        },
+        {
+          "en": "adult",
+          "ko": "어른"
+        },
+        {
+          "en": "noisy",
+          "ko": "시끄러운"
+        },
+        {
+          "en": "city",
+          "ko": "도시"
+        },
+        {
+          "en": "wish",
+          "ko": "바라다"
+        },
+        {
+          "en": "drink",
+          "ko": "마시다"
+        },
+        {
+          "en": "again",
+          "ko": "다시"
+        },
+        {
+          "en": "girl",
+          "ko": "소녀"
+        },
+        {
+          "en": "hand",
+          "ko": "손"
+        },
+        {
+          "en": "each",
+          "ko": "각자의"
+        },
+        {
+          "en": "night",
+          "ko": "밤"
+        },
+        {
+          "en": "key",
+          "ko": "열쇠"
+        },
+        {
+          "en": "watch",
+          "ko": "보다"
+        }
+      ]
+    },
+    {
+      "day": 43,
+      "words": [
+        {
+          "en": "outdoor",
+          "ko": "야외의"
+        },
+        {
+          "en": "friendship",
+          "ko": "우정"
+        },
+        {
+          "en": "house",
+          "ko": "집"
+        },
+        {
+          "en": "water",
+          "ko": "물"
+        },
+        {
+          "en": "silly",
+          "ko": "어리석은"
+        },
+        {
+          "en": "narrow",
+          "ko": "좁은"
+        },
+        {
+          "en": "library",
+          "ko": "도서관"
+        },
+        {
+          "en": "ankle",
+          "ko": "발목"
+        },
+        {
+          "en": "clock",
+          "ko": "시계"
+        },
+        {
+          "en": "bathroom",
+          "ko": "욕실"
+        },
+        {
+          "en": "in",
+          "ko": "~ 안에"
+        },
+        {
+          "en": "brain",
+          "ko": "뇌"
+        },
+        {
+          "en": "alone",
+          "ko": "혼자"
+        },
+        {
+          "en": "eggplant",
+          "ko": "가지"
+        },
+        {
+          "en": "evening",
+          "ko": "저녁"
+        },
+        {
+          "en": "red",
+          "ko": "빨간"
+        },
+        {
+          "en": "housewife",
+          "ko": "주부"
+        },
+        {
+          "en": "equal",
+          "ko": "같은"
+        },
+        {
+          "en": "owl",
+          "ko": "올빼미"
+        },
+        {
+          "en": "anymore",
+          "ko": "더 이상"
+        }
+      ]
+    },
+    {
+      "day": 44,
+      "words": [
+        {
+          "en": "joy",
+          "ko": "기쁨"
+        },
+        {
+          "en": "ship",
+          "ko": "배"
+        },
+        {
+          "en": "twice",
+          "ko": "두 번"
+        },
+        {
+          "en": "little",
+          "ko": "작은"
+        },
+        {
+          "en": "writer",
+          "ko": "작가"
+        },
+        {
+          "en": "honest",
+          "ko": "정직한"
+        },
+        {
+          "en": "space",
+          "ko": "공간"
+        },
+        {
+          "en": "river",
+          "ko": "강"
+        },
+        {
+          "en": "spicy",
+          "ko": "매운"
+        },
+        {
+          "en": "call",
+          "ko": "부르다"
+        },
+        {
+          "en": "deer",
+          "ko": "사슴"
+        },
+        {
+          "en": "outside",
+          "ko": "밖에"
+        },
+        {
+          "en": "classmate",
+          "ko": "반 친구"
+        },
+        {
+          "en": "jar",
+          "ko": "단지"
+        },
+        {
+          "en": "root",
+          "ko": "뿌리"
+        },
+        {
+          "en": "plan",
+          "ko": "계획하다"
+        },
+        {
+          "en": "cap",
+          "ko": "모자"
+        },
+        {
+          "en": "beautiful",
+          "ko": "아름다운"
+        },
+        {
+          "en": "fail",
+          "ko": "실패하다"
+        },
+        {
+          "en": "duck",
+          "ko": "오리"
+        }
+      ]
+    },
+    {
+      "day": 45,
+      "words": [
+        {
+          "en": "open",
+          "ko": "열다"
+        },
+        {
+          "en": "speak",
+          "ko": "말하다"
+        },
+        {
+          "en": "law",
+          "ko": "법"
+        },
+        {
+          "en": "less",
+          "ko": "더 적은"
+        },
+        {
+          "en": "dark",
+          "ko": "어두운"
+        },
+        {
+          "en": "spring",
+          "ko": "봄"
+        },
+        {
+          "en": "live",
+          "ko": "살다"
+        },
+        {
+          "en": "diamond",
+          "ko": "다이아몬드"
+        },
+        {
+          "en": "jog",
+          "ko": "조깅하다"
+        },
+        {
+          "en": "toothbrush",
+          "ko": "칫솔"
+        },
+        {
+          "en": "apron",
+          "ko": "앞치마"
+        },
+        {
+          "en": "heel",
+          "ko": "뒤꿈치"
+        },
+        {
+          "en": "help",
+          "ko": "돕다"
+        },
+        {
+          "en": "restroom",
+          "ko": "화장실"
+        },
+        {
+          "en": "hippo",
+          "ko": "하마"
+        },
+        {
+          "en": "mail",
+          "ko": "우편물"
+        },
+        {
+          "en": "cook",
+          "ko": "요리하다"
+        },
+        {
+          "en": "weather",
+          "ko": "날씨"
+        },
+        {
+          "en": "waterfall",
+          "ko": "폭포"
+        },
+        {
+          "en": "thank",
+          "ko": "감사하다"
+        }
+      ]
+    }
+  ]
+}
